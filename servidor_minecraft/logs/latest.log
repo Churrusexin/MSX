@@ -1,0 +1,121 @@
+[21:54:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:54:36] [ServerMain/INFO]: Loaded 7 recipes
+[21:54:36] [ServerMain/INFO]: Loaded 1271 advancements
+[21:54:37] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:54:37] [Server thread/INFO]: Loading properties
+[21:54:37] [Server thread/INFO]: Default game type: SURVIVAL
+[21:54:37] [Server thread/INFO]: Generating keypair
+[21:54:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:54:37] [Server thread/INFO]: Using epoll channel type
+[21:54:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:54:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:54:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:54:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:54:37] [Server thread/INFO]: Preparing level "world"
+[21:54:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:54:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:54:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:55:37] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[21:55:37] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[21:55:37] [Worker-Main-1/INFO]: Preparing spawn area: 13%
+[21:55:38] [Worker-Main-1/INFO]: Preparing spawn area: 68%
+[21:55:40] [Server thread/INFO]: Time elapsed: 50692 ms
+[21:55:40] [Server thread/INFO]: Done (62.853s)! For help, type "help"
+[21:58:14] [Server thread/INFO]: Churrupakin[/172.28.161.65:57272] logged in with entity id 213 at (2.5, 111.0, 10.5)
+[21:58:14] [Server thread/INFO]: Churrupakin joined the game
+[22:02:01] [Server thread/INFO]: Churrupakin has made the advancement [Stone Age]
+[22:02:53] [Server thread/INFO]: Churrupakin has made the advancement [Getting an Upgrade]
+[22:02:56] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[22:02:56] [Server thread/INFO]: Churrupakin left the game
