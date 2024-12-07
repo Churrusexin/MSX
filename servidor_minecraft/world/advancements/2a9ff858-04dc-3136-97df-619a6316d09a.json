@@ -10,6 +10,7 @@
       "minecraft:river": "2024-12-07 03:20:00 +0000",
       "minecraft:stony_shore": "2024-12-07 03:27:19 +0000",
       "minecraft:forest": "2024-12-07 03:01:01 +0000",
+      "minecraft:meadow": "2024-12-07 03:46:50 +0000",
       "minecraft:plains": "2024-12-07 03:14:40 +0000"
     },
     "done": false
@@ -350,6 +351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-07 03:47:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-07 03:19:28 +0000"
@@ -428,6 +435,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-07 03:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-07 03:13:11 +0000"
@@ -479,6 +492,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-07 03:42:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-07 03:47:08 +0000"
     },
     "done": true
   },
@@ -597,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2024-12-07 03:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-07 03:12:51 +0000"
@@ -606,6 +631,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-07 03:13:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-07 03:47:08 +0000"
     },
     "done": true
   },
@@ -924,6 +955,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-07 03:19:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-07 03:47:08 +0000"
     },
     "done": true
   },
