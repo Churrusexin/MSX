@@ -197,3 +197,6 @@
 [19:06:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [19:06:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [19:06:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[19:24:01] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[19:24:01] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[19:24:01] [Server thread/INFO]: Churrupakin left the game
