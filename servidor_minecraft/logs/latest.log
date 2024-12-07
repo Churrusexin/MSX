@@ -376,3 +376,19 @@
 [04:50:22] [Server thread/INFO]: Proxe_ lost connection: Disconnected
 [04:50:22] [Server thread/INFO]: [voicechat] Disconnecting client Proxe_
 [04:50:22] [Server thread/INFO]: Proxe_ left the game
+[04:52:48] [Server thread/INFO]: XxMatos15 has made the advancement [Who is Cutting Onions?]
+[04:52:55] [User Authenticator #8/INFO]: UUID of player Proxe_ is 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
+[04:52:55] [Server thread/INFO]: Proxe_ joined the game
+[04:52:55] [Server thread/INFO]: Proxe_[/172.28.149.78:49277] logged in with entity id 34657 at ([world]216.29841106813652, 71.5625, 6.699999988079071)
+[04:52:56] [Server thread/INFO]: [voicechat] Received secret request of Proxe_ (18)
+[04:52:56] [Server thread/INFO]: [voicechat] Sent secret to Proxe_
+[04:52:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
+[04:52:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
+[04:52:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Proxe_ (291b5db3-a54f-3f99-bee4-fa14a07e9d7d) successfully connected to voice chat
+[04:53:39] [Async Chat Thread - #47/INFO]: [Not Secure] <XxMatos15> 797.285
+[04:54:48] [Server thread/INFO]: XxMatos15 has made the advancement [We Need to Go Deeper]
+[04:55:25] [Server thread/INFO]: XxMatos15 tried to swim in lava
+[04:55:57] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
+[04:56:05] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[04:56:05] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[04:56:05] [Server thread/INFO]: XxMatos15 left the game
