@@ -384,3 +384,4 @@
 [22:48:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [22:48:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [22:48:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:05:56] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/18289, uuid='e09a6f27-d0c8-42c6-82cb-55246de4af31', l='ServerLevel[world]', x=189.37, y=60.56, z=84.70, cpos=[11, 5], tl=367097, v=true] died, message: 'Toolsmith was slain by Zombie'
