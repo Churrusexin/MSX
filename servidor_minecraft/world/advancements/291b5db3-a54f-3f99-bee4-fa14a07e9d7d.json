@@ -688,12 +688,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-07 05:44:30 +0000",
       "minecraft:skeleton": "2024-12-07 03:16:37 +0000",
       "minecraft:hoglin": "2024-12-07 05:14:07 +0000",
       "minecraft:magma_cube": "2024-12-07 05:28:11 +0000",
       "minecraft:spider": "2024-12-07 04:40:16 +0000",
       "minecraft:piglin_brute": "2024-12-07 05:26:31 +0000",
       "minecraft:creeper": "2024-12-07 04:37:16 +0000",
+      "minecraft:wither_skeleton": "2024-12-07 05:43:30 +0000",
       "minecraft:piglin": "2024-12-07 05:14:55 +0000",
       "minecraft:enderman": "2024-12-07 05:12:00 +0000",
       "minecraft:zombie": "2024-12-07 03:38:06 +0000",
@@ -1614,6 +1616,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-07 05:45:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_treasure": "2024-12-07 05:27:39 +0000"
@@ -1680,6 +1688,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-07 05:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-07 05:30:37 +0000"
@@ -1725,6 +1739,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-07 05:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-07 05:45:29 +0000"
     },
     "done": true
   },
@@ -1824,6 +1844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-07 05:43:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-07 05:36:47 +0000"
@@ -1896,6 +1922,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-07 05:42:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-07 05:09:56 +0000"
@@ -1923,6 +1955,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2024-12-07 05:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-07 05:45:29 +0000"
     },
     "done": true
   },
