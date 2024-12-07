@@ -274,6 +274,7 @@
       "minecraft:piglin_brute": "2024-12-07 05:28:30 +0000",
       "minecraft:spider": "2024-12-07 05:01:51 +0000",
       "minecraft:creeper": "2024-12-07 04:09:19 +0000",
+      "minecraft:phantom": "2024-12-07 18:16:52 +0000",
       "minecraft:wither_skeleton": "2024-12-07 05:44:19 +0000",
       "minecraft:piglin": "2024-12-07 05:27:50 +0000",
       "minecraft:enderman": "2024-12-07 05:18:06 +0000",
@@ -2263,6 +2264,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2024-12-07 18:13:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-07 18:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2024-12-07 18:09:32 +0000"
@@ -2326,6 +2339,12 @@
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2024-12-07 17:42:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-07 18:14:54 +0000"
     },
     "done": true
   },
