@@ -373,3 +373,6 @@
 [22:26:35] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
 [22:26:35] [Server thread/INFO]: Churrupakin left the game
 [22:26:53] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:44:57] [Server thread/INFO]: XxMatos15 lost connection: Timed out
+[22:44:57] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[22:44:57] [Server thread/INFO]: XxMatos15 left the game
