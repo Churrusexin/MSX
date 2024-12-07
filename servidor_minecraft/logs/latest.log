@@ -297,3 +297,16 @@
 [20:04:48] [Async Chat Thread - #42/INFO]: [Not Secure] <XxMatos15> .086
 [20:10:10] [Server thread/INFO]: XxMatos15 was poked to death by a sweet berry bush
 [20:11:26] [Async Chat Thread - #44/INFO]: [Not Secure] <Churrupakin> duerme p
+[20:21:22] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[20:21:22] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:21:22] [Server thread/INFO]: Churrupakin left the game
+[20:23:13] [User Authenticator #10/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:23:13] [Server thread/INFO]: Churrupakin joined the game
+[20:23:13] [Server thread/INFO]: Churrupakin[/172.28.161.65:55494] logged in with entity id 55424 at ([world]265.22289161960344, 79.0, 29.007145425182504)
+[20:23:13] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:23:13] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:23:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:23:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:23:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:24:47] [Async Chat Thread - #46/INFO]: [Not Secure] <Churrupakin> chifon hoy juega tu madrid
+[20:25:15] [Async Chat Thread - #47/INFO]: [Not Secure] <XxMatos15> esya jugando
