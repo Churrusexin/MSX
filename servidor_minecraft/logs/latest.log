@@ -284,3 +284,14 @@
 [19:53:20] [Server thread/INFO]: Churrupakin left the game
 [19:53:29] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [19:53:56] [Tuinity Chunk System Worker #0/ERROR]: Detected setBlock in a far chunk [-2, 48], pos: BlockPosition{x=-20, y=48, z=783}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[20:04:15] [User Authenticator #9/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:04:15] [Server thread/INFO]: Churrupakin joined the game
+[20:04:15] [Server thread/INFO]: Churrupakin[/172.28.161.65:54342] logged in with entity id 47422 at ([world]69.69999998807907, 75.0, 447.50091066380753)
+[20:04:16] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:04:16] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:04:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:04:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:04:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:04:22] [Async Chat Thread - #43/INFO]: [Not Secure] <Churrupakin> on tas chfon
+[20:04:40] [Async Chat Thread - #43/INFO]: [Not Secure] <XxMatos15> -1339
+[20:04:48] [Async Chat Thread - #42/INFO]: [Not Secure] <XxMatos15> .086
