@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-07 18:47:02 +0000",
+      "minecraft:cherry_grove": "2024-12-07 19:43:49 +0000",
       "minecraft:beach": "2024-12-07 17:46:30 +0000",
       "minecraft:river": "2024-12-07 03:20:00 +0000",
       "minecraft:stony_shore": "2024-12-07 03:27:19 +0000",
@@ -502,6 +503,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-07 19:51:54 +0000",
       "minecraft:skeleton": "2024-12-07 04:11:58 +0000",
       "minecraft:spider": "2024-12-07 04:11:51 +0000",
       "minecraft:creeper": "2024-12-07 17:35:27 +0000",
@@ -650,7 +652,8 @@
       "potato": "2024-12-07 04:12:03 +0000",
       "bread": "2024-12-07 03:22:35 +0000",
       "rotten_flesh": "2024-12-07 19:38:16 +0000",
-      "golden_carrot": "2024-12-07 03:56:39 +0000"
+      "golden_carrot": "2024-12-07 03:56:39 +0000",
+      "carrot": "2024-12-07 19:44:02 +0000"
     },
     "done": false
   },
@@ -1624,6 +1627,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-07 18:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-07 19:44:20 +0000"
     },
     "done": true
   },

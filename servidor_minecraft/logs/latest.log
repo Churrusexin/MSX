@@ -253,3 +253,34 @@
 [19:44:03] [Async Chat Thread - #35/INFO]: [Not Secure] <Churrupakin> manda cors
 [19:44:04] [Async Chat Thread - #34/INFO]: [Not Secure] <XxMatos15> is
 [19:44:29] [Async Chat Thread - #35/INFO]: [Not Secure] <XxMatos15> ven pa saqear
+[19:44:37] [Async Chat Thread - #34/INFO]: [Not Secure] <Churrupakin> manda cordenas
+[19:44:45] [Async Chat Thread - #35/INFO]: [Not Secure] <XxMatos15> te recojo beibi
+[19:45:15] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[19:45:15] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[19:45:15] [Server thread/INFO]: Churrupakin left the game
+[19:46:26] [Async Chat Thread - #36/INFO]: [Not Secure] <XxMatos15> MATISITA
+[19:47:25] [User Authenticator #8/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:47:25] [Server thread/INFO]: Churrupakin joined the game
+[19:47:25] [Server thread/INFO]: Churrupakin[/172.28.161.65:58669] logged in with entity id 40438 at ([world]186.77626547623026, 60.875, 82.85615017324785)
+[19:47:26] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[19:47:26] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[19:47:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:47:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:47:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[19:47:30] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> llevame causa
+[19:47:34] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> don tas
+[19:48:06] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> llevame p
+[19:48:10] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> vente
+[19:48:14] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> pera deejo mis cosas
+[19:49:00] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> vamoss
+[19:52:04] [Server thread/INFO]: XxMatos15 was shot by Pillager
+[19:52:25] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
+[19:52:25] [Server thread/INFO]: [Churrupakin: Teleported XxMatos15 to Churrupakin]
+[19:53:00] [Async Chat Thread - #40/INFO]: [Not Secure] <Churrupakin> m voy pa la jai
+[19:53:04] [Async Chat Thread - #41/INFO]: [Not Secure] <XxMatos15> ya
+[19:53:19] [Async Chat Thread - #40/INFO]: [Not Secure] <Churrupakin> voacomer mi helado vengo
+[19:53:20] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[19:53:20] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[19:53:20] [Server thread/INFO]: Churrupakin left the game
+[19:53:29] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[19:53:56] [Tuinity Chunk System Worker #0/ERROR]: Detected setBlock in a far chunk [-2, 48], pos: BlockPosition{x=-20, y=48, z=783}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
