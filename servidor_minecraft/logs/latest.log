@@ -1,121 +1,103 @@
-[21:54:34] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:54:36] [ServerMain/INFO]: Loaded 7 recipes
-[21:54:36] [ServerMain/INFO]: Loaded 1271 advancements
-[21:54:37] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[21:54:37] [Server thread/INFO]: Loading properties
-[21:54:37] [Server thread/INFO]: Default game type: SURVIVAL
-[21:54:37] [Server thread/INFO]: Generating keypair
-[21:54:37] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:54:37] [Server thread/INFO]: Using epoll channel type
-[21:54:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:54:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:54:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:54:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:54:37] [Server thread/INFO]: Preparing level "world"
-[21:54:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:54:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:50] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:51] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:52] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:53] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:54] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:54:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:03] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:05] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:06] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:07] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:08] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:11] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:14] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:20] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:21] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:27] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:28] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:29] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:34] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:35] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:55:37] [Worker-Main-1/INFO]: Preparing spawn area: 13%
-[21:55:37] [Worker-Main-1/INFO]: Preparing spawn area: 13%
-[21:55:37] [Worker-Main-1/INFO]: Preparing spawn area: 13%
-[21:55:38] [Worker-Main-1/INFO]: Preparing spawn area: 68%
-[21:55:40] [Server thread/INFO]: Time elapsed: 50692 ms
-[21:55:40] [Server thread/INFO]: Done (62.853s)! For help, type "help"
-[21:58:14] [Server thread/INFO]: Churrupakin[/172.28.161.65:57272] logged in with entity id 213 at (2.5, 111.0, 10.5)
-[21:58:14] [Server thread/INFO]: Churrupakin joined the game
-[22:02:01] [Server thread/INFO]: Churrupakin has made the advancement [Stone Age]
-[22:02:53] [Server thread/INFO]: Churrupakin has made the advancement [Getting an Upgrade]
-[22:02:56] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[22:02:56] [Server thread/INFO]: Churrupakin left the game
+[02:19:15] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:19:17] [ServerMain/INFO]: Loaded 7 recipes
+[02:19:18] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:19:18] [Server thread/INFO]: Loading properties
+[02:19:18] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[02:19:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:19:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:19:20] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[02:19:20] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:19:20] [Server thread/INFO]: Default game type: SURVIVAL
+[02:19:20] [Server thread/INFO]: Generating keypair
+[02:19:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:19:20] [Server thread/INFO]: Using epoll channel type
+[02:19:20] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:19:20] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:19:21] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[02:19:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[02:19:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:19:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[02:19:22] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:19:22] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[02:19:23] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:19:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:19:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:19:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:19:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:19:23] [Server thread/INFO]: Preparing level "world"
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:19:23] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:19:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:19:25] [Server thread/INFO]: Time elapsed: 503 ms
+[02:19:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:19:25] [Server thread/INFO]: Time elapsed: 286 ms
+[02:19:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:19:25] [Server thread/INFO]: Time elapsed: 125 ms
+[02:19:25] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[02:19:25] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[02:19:25] [Server thread/INFO]: [voicechat] Compatibility version 18
+[02:19:25] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[02:19:25] [Server thread/INFO]: Running delayed init tasks
+[02:19:25] [Server thread/INFO]: Done (7.187s)! For help, type "help"
+[02:19:25] [Server thread/INFO]: Timings Reset
+[02:19:25] [Server thread/INFO]: [voicechat] Loading plugins
+[02:19:25] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:19:25] [Server thread/INFO]: [voicechat] Initializing plugins
+[02:19:25] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:19:25] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:19:25] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[02:21:45] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[02:21:45] [Server thread/INFO]: Churrupakin joined the game
+[02:21:45] [Server thread/INFO]: Churrupakin[/172.28.161.65:52433] logged in with entity id 239 at ([world]7.4853064694556135, 107.0, 7.846266130750777)
+[02:21:45] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[02:21:45] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[02:21:46] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[02:21:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[02:21:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[02:21:59] [User Authenticator #0/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[02:21:59] [Server thread/INFO]: SKrampusPEcausa joined the game
+[02:21:59] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:53225] logged in with entity id 289 at ([world]-9.5, 127.0, 1.5)
+[02:22:26] [Async Chat Thread - #0/INFO]: [Not Secure] <SKrampusPEcausa> geys
+[02:22:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> on tas
+[02:22:38] [Async Chat Thread - #0/INFO]: [Not Secure] <SKrampusPEcausa> nose xs
+[02:22:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> no hay dileycausa
+[02:22:50] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> q rico
+[02:22:53] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> nel
+[02:23:01] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> chifa no le deja entrar webon
+[02:23:12] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> le voy a descargar su wbda
+[02:23:19] [Async Chat Thread - #0/INFO]: [Not Secure] <SKrampusPEcausa> on tas
+[02:23:21] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> ahora regreso
+[02:23:24] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> pasa cords
+[02:23:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> 14 106 12
+[02:23:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> hay una mesa
+[02:23:45] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> pera regreso
+[02:23:47] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[02:23:47] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[02:23:47] [Server thread/INFO]: Churrupakin left the game
+[02:25:29] [Server thread/WARN]: SKrampusPEcausa was kicked due to keepalive timeout!
+[02:25:29] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
+[02:25:29] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[02:25:29] [Server thread/INFO]: SKrampusPEcausa left the game
+[02:25:56] [User Authenticator #1/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[02:25:56] [Server thread/INFO]: SKrampusPEcausa joined the game
+[02:25:56] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:53487] logged in with entity id 1019 at ([world]-148.70396297991928, 102.04929332252192, -90.99562725287393)
+[02:26:25] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
+[02:26:25] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[02:26:25] [Server thread/INFO]: SKrampusPEcausa left the game
+[02:26:48] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[02:27:10] [User Authenticator #2/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[02:27:10] [Server thread/INFO]: SKrampusPEcausa joined the game
+[02:27:10] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:53546] logged in with entity id 1074 at ([world]-148.70396297991928, 102.0, -90.99562725287393)
