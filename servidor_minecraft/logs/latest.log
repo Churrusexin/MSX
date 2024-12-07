@@ -189,3 +189,11 @@
 [19:03:27] [Server thread/INFO]: Churrupakin lost connection: Timed out
 [19:03:27] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
 [19:03:27] [Server thread/INFO]: Churrupakin left the game
+[19:06:01] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:06:01] [Server thread/INFO]: Churrupakin joined the game
+[19:06:01] [Server thread/INFO]: Churrupakin[/172.28.161.65:56093] logged in with entity id 30418 at ([world]210.191713265573, 62.48750001192093, 101.97074933221128)
+[19:06:01] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[19:06:01] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[19:06:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:06:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:06:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
