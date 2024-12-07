@@ -1,417 +1,88 @@
-[02:59:03] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:59:05] [ServerMain/INFO]: Loaded 7 recipes
-[02:59:06] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:59:06] [Server thread/INFO]: Loading properties
-[02:59:07] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[02:59:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:59:07] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:59:08] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[17:32:02] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:32:05] [ServerMain/INFO]: Loaded 7 recipes
+[17:32:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:32:05] [Server thread/INFO]: Loading properties
+[17:32:06] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[17:32:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:32:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:32:07] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[02:59:08] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[02:59:08] [Server thread/INFO]: Default game type: SURVIVAL
-[02:59:08] [Server thread/INFO]: Generating keypair
-[02:59:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:59:09] [Server thread/INFO]: Using epoll channel type
-[02:59:09] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:59:09] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:59:09] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[02:59:09] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
-[02:59:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:59:09] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
-[02:59:10] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[02:59:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[02:59:11] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:59:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:59:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:59:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:59:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:59:11] [Server thread/INFO]: Preparing level "world"
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:59:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:59:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:59:12] [Server thread/INFO]: Time elapsed: 432 ms
-[02:59:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:59:13] [Server thread/INFO]: Time elapsed: 118 ms
-[02:59:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:59:13] [Server thread/INFO]: Time elapsed: 150 ms
-[02:59:13] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[02:59:13] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[02:59:13] [Server thread/INFO]: [voicechat] Compatibility version 18
-[02:59:13] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[02:59:13] [Server thread/INFO]: Running delayed init tasks
-[02:59:13] [Server thread/INFO]: Done (6.884s)! For help, type "help"
-[02:59:14] [Server thread/INFO]: Timings Reset
-[02:59:14] [Server thread/INFO]: [voicechat] Loading plugins
-[02:59:14] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[02:59:14] [Server thread/INFO]: [voicechat] Initializing plugins
-[02:59:14] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[02:59:14] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[02:59:14] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[02:59:47] [User Authenticator #0/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[02:59:47] [Server thread/INFO]: SKrampusPEcausa joined the game
-[02:59:47] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:55603] logged in with entity id 118 at ([world]-328.30000001192093, 15.0, -136.30000001192093)
-[03:01:00] [User Authenticator #1/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
-[03:01:00] [Server thread/INFO]: XxMatos15 joined the game
-[03:01:00] [Server thread/INFO]: XxMatos15[/172.28.131.63:51831] logged in with entity id 450 at ([world]-1.5, 124.0, 2.5)
-[03:01:27] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> chifon
-[03:01:27] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[03:01:27] [Server thread/INFO]: Churrupakin joined the game
-[03:01:27] [Server thread/INFO]: Churrupakin[/172.28.161.65:55026] logged in with entity id 669 at ([world]14.152594189372929, 106.0, 12.748046868523138)
-[03:01:29] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[03:01:29] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[03:01:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[03:01:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[03:01:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[03:01:33] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> pingapatuculo
-[03:01:35] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> donde estas
-[03:01:44] [Async Chat Thread - #0/INFO]: [Not Secure] <SKrampusPEcausa> ni pta idea
-[03:01:47] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> pasen cord
-[03:02:03] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> toy en una mineshaft
-[03:02:21] [Server thread/INFO]: Churrupakin has made the advancement [Monster Hunter]
-[03:02:24] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Monster Hunter]
-[03:02:34] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> -8 115 12
-[03:02:57] [Async Chat Thread - #0/INFO]: [Not Secure] <XxMatos15> 392 8760
-[03:03:17] [Server thread/INFO]: XxMatos15 was slain by Churrupakin
-[03:03:27] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> perea
-[03:03:41] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> aca estoy con chifa
-[03:03:45] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> on tas angel
-[03:04:25] [User Authenticator #2/INFO]: UUID of player Proxe_ is 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[03:04:25] [Server thread/INFO]: Proxe_ joined the game
-[03:04:25] [Server thread/INFO]: Proxe_[/172.28.149.78:59237] logged in with entity id 1350 at ([world]0.5, 110.0, -4.5)
-[03:04:26] [Server thread/INFO]: [voicechat] Received secret request of Proxe_ (18)
-[03:04:26] [Server thread/INFO]: [voicechat] Sent secret to Proxe_
-[03:04:27] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> en -318 -175
-[03:04:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[03:04:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[03:04:29] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Proxe_ (291b5db3-a54f-3f99-bee4-fa14a07e9d7d) successfully connected to voice chat
-[03:04:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> -15 117 11
-[03:04:51] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> has tp
-[03:04:58] [Async Chat Thread - #0/INFO]: [Not Secure] <XxMatos15> cantarito
-[03:05:01] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> entra
-[03:05:03] [Server thread/INFO]: XxMatos15 has made the advancement [Stone Age]
-[03:05:33] [Server thread/INFO]: XxMatos15 has made the advancement [Getting an Upgrade]
-[03:06:10] [Server thread/INFO]: Made Churrupakin a server operator
-[03:06:19] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa
-[03:06:19] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to SKrampusPEcausa]
-[03:06:26] [Server thread/INFO]: Churrupakin issued server command: /tp Proxe_
-[03:06:26] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to Proxe_]
-[03:06:46] [Async Chat Thread - #2/INFO]: [Not Secure] <SKrampusPEcausa> haste tp p
-[03:06:47] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[03:06:47] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
-[03:07:52] [Server thread/INFO]: Churrupakin issued server command: /kill
-[03:07:52] [Server thread/INFO]: Churrupakin was killed
-[03:07:52] [Server thread/INFO]: [Churrupakin: Killed Churrupakin]
-[03:07:52] [Server thread/INFO]: Proxe_ has made the advancement [Stone Age]
-[03:07:53] [Server thread/INFO]: Proxe_ has made the advancement [Getting an Upgrade]
-[03:07:58] [Async Chat Thread - #5/INFO]: [Not Secure] <XxMatos15> oe
-[03:08:02] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> no me deja picar
-[03:08:04] [Async Chat Thread - #5/INFO]: [Not Secure] <XxMatos15> xd
-[03:08:05] [Server thread/INFO]: Churrupakin issued server command: /tp Proxe_
-[03:08:05] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to Proxe_]
-[03:08:11] [Async Chat Thread - #4/INFO]: [Not Secure] <SKrampusPEcausa> x2
-[03:08:36] [Server thread/INFO]: Made Proxe_ a server operator
-[03:08:48] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[03:08:48] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[03:08:48] [Server thread/INFO]: SKrampusPEcausa left the game
-[03:08:51] [User Authenticator #3/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[03:08:51] [Server thread/INFO]: SKrampusPEcausa joined the game
-[03:08:51] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:56099] logged in with entity id 2273 at ([world]1.9783363976730977, 111.0, -1.8245037916099152)
-[03:08:54] [Server thread/INFO]: Proxe_ issued server command: /scoreboard objectives add vida health
-[03:08:54] [Server thread/INFO]: [Proxe_: Created new objective [vida]]
-[03:09:10] [Server thread/INFO]: Proxe_ issued server command: /scoreboard objectives setdisplay list vida
-[03:09:10] [Server thread/INFO]: [Proxe_: Set display slot list to show objective vida]
-[03:09:32] [Async Chat Thread - #6/INFO]: [Not Secure] <Proxe_> ya
-[03:09:33] [Async Chat Thread - #7/INFO]: [Not Secure] <Proxe_> jueguen
-[03:09:36] [Server thread/INFO]: XxMatos15 was slain by SKrampusPEcausa
-[03:10:07] [Server thread/INFO]: XxMatos15 was slain by SKrampusPEcausa
-[03:10:22] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[03:10:22] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
-[03:10:22] [Server thread/INFO]: XxMatos15 left the game
-[03:10:27] [Async Chat Thread - #8/INFO]: [Not Secure] <SKrampusPEcausa> xdddddd
-[03:10:30] [Async Chat Thread - #8/INFO]: [Not Secure] <Churrupakin> oe
-[03:10:33] [User Authenticator #4/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
-[03:10:33] [Server thread/INFO]: XxMatos15 joined the game
-[03:10:33] [Server thread/INFO]: XxMatos15[/172.28.131.63:49589] logged in with entity id 2533 at ([world]36.611096003600466, 84.0, 1.2795570254975972)
-[03:10:34] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> no lo mates p
-[03:10:42] [Async Chat Thread - #8/INFO]: [Not Secure] <SKrampusPEcausa> era broma
-[03:10:48] [Async Chat Thread - #7/INFO]: [Not Secure] <XxMatos15> se laguea tu wbd
-[03:10:51] [Async Chat Thread - #8/INFO]: [Not Secure] <XxMatos15> no deja picar
-[03:11:56] [Server thread/INFO]: XxMatos15 issued server command: /skin trollino
-[03:12:06] [Server thread/INFO]: XxMatos15 issued server command: /skin realmadrid
-[03:12:36] [Server thread/INFO]: XxMatos15 issued server command: /skin realmadrid
-[03:13:42] [Server thread/INFO]: Proxe_ has made the advancement [Acquire Hardware]
-[03:13:55] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Acquire Hardware]
-[03:14:12] [Server thread/INFO]: Proxe_ has made the advancement [Isn't It Iron Pick]
-[03:14:13] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Suit Up]
-[03:14:49] [Server thread/INFO]: Churrupakin has made the advancement [Acquire Hardware]
-[03:15:04] [Server thread/INFO]: Churrupakin has made the advancement [Isn't It Iron Pick]
-[03:15:35] [Server thread/INFO]: Proxe_ has made the advancement [Suit Up]
-[03:15:57] [Server thread/INFO]: Proxe_ issued server command: /msg 74 49
-[03:16:02] [Server thread/INFO]: Proxe_ issued server command: /msg Churrupakin 74 49
-[03:16:23] [Server thread/INFO]: Proxe_ issued server command: /msg Churrupakin 74 49
-[03:16:24] [Server thread/INFO]: Proxe_ issued server command: /msg Churrupakin 74 49
-[03:16:24] [Server thread/INFO]: Proxe_ issued server command: /msg Churrupakin 74 49
-[03:16:32] [Server thread/INFO]: Proxe_ has made the advancement [Not Today, Thank You]
-[03:16:37] [Server thread/INFO]: Proxe_ has made the advancement [Monster Hunter]
-[03:17:56] [Async Chat Thread - #10/INFO]: [Not Secure] <Churrupakin> pasen comida
-[03:18:35] [Async Chat Thread - #11/INFO]: [Not Secure] <XxMatos15> xd
-[03:18:37] [Server thread/INFO]: XxMatos15 fell from a high place
-[03:18:58] [Server thread/INFO]: XxMatos15 issued server command: /skin barcelona
-[03:19:24] [Server thread/INFO]: XxMatos15 has made the advancement [Monster Hunter]
-[03:19:36] [Server thread/INFO]: Churrupakin has made the advancement [Diamonds!]
-[03:20:35] [Async Chat Thread - #12/INFO]: [Not Secure] <SKrampusPEcausa> un cora ptmr
-[03:20:43] [Server thread/INFO]: Villager EntityVillager['Nitwit'/2362, uuid='16a8cf1a-4622-438f-9f93-f29ccbb255c5', l='ServerLevel[world]', x=239.30, y=63.00, z=92.70, cpos=[14, 5], tl=11215, v=true] died, message: 'Nitwit was slain by Zombie'
-[03:20:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> x webon
-[03:20:57] [Async Chat Thread - #13/INFO]: [Not Secure] <SKrampusPEcausa> :c
-[03:21:11] [Server thread/INFO]: XxMatos15 has made the advancement [What a Deal!]
-[03:21:27] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> manda cords chifon
-[03:21:32] [Async Chat Thread - #13/INFO]: [Not Secure] <SKrampusPEcausa> pASA ALDEA
-[03:21:38] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> XD
-[03:21:40] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> ve
-[03:21:52] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> no habian saqeado esta aldea ? ._.
-[03:22:12] [Server thread/INFO]: Churrupakin issued server command: /difficulty hard
-[03:22:12] [Server thread/INFO]: [Churrupakin: The difficulty has been set to Hard]
-[03:22:27] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Isn't It Iron Pick]
-[03:22:35] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> manda
-[03:22:41] [Async Chat Thread - #12/INFO]: [Not Secure] <XxMatos15> como se manda
-[03:23:02] [Async Chat Thread - #13/INFO]: [Not Secure] <SKrampusPEcausa> ptmr xs
-[03:24:10] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> graficos
-[03:24:14] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> etxtra
-[03:24:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> mostrar cordenadas
-[03:24:54] [Server thread/INFO]: Churrupakin was impaled by Drowned
-[03:25:06] [Async Chat Thread - #14/INFO]: [Not Secure] <SKrampusPEcausa> por webon
-[03:25:15] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> mira
-[03:25:21] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> alado del respaw
-[03:25:24] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> esta la aldea
-[03:26:28] [Server thread/INFO]: XxMatos15 has made the advancement [The Parrots and the Bats]
-[03:28:46] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> no lo mates mrd
-[03:29:05] [Server thread/INFO]: Churrupakin has made the advancement [Suit Up]
-[03:29:25] [Server thread/INFO]: XxMatos15 was slain by Iron Golem
-[03:29:30] [Async Chat Thread - #17/INFO]: [Not Secure] <SKrampusPEcausa> xd
-[03:29:33] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> JAJAJAJA
-[03:30:24] [Server thread/INFO]: Proxe_ has made the advancement [What a Deal!]
-[03:33:51] [Server thread/INFO]: XxMatos15 has made the advancement [Acquire Hardware]
-[03:34:19] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> para q tanto rodrigos
-[03:34:38] [Async Chat Thread - #19/INFO]: [Not Secure] <Churrupakin> NI LOS MATES MIERDA
-[03:34:43] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> para q son
-[03:34:51] [Async Chat Thread - #19/INFO]: [Not Secure] <Churrupakin> encantaientos
-[03:34:53] [Server thread/INFO]: Proxe_ has made the advancement [Sweet Dreams]
-[03:34:56] [Async Chat Thread - #18/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzz
-[03:34:57] [Async Chat Thread - #18/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzz
-[03:34:57] [Server thread/INFO]: Proxe_ issued server command: /msg Churrupakin 74 49
-[03:35:00] [Async Chat Thread - #19/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[03:35:04] [Async Chat Thread - #18/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[03:35:05] [Async Chat Thread - #19/INFO]: [Not Secure] <SKrampusPEcausa> tepen p mrda
-[03:35:07] [Server thread/INFO]: Churrupakin has made the advancement [Sweet Dreams]
-[03:35:20] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> duerman carajo
-[03:35:31] [Async Chat Thread - #18/INFO]: [Not Secure] <Proxe_> chifa duerme
-[03:35:36] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> espera
-[03:35:48] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[03:35:51] [Server thread/INFO]: XxMatos15 has made the advancement [Sweet Dreams]
-[03:35:53] [Async Chat Thread - #19/INFO]: [Not Secure] <Proxe_> angel salte del server y entras
-[03:35:55] [Async Chat Thread - #18/INFO]: [Not Secure] <Proxe_> :v
-[03:36:06] [Async Chat Thread - #19/INFO]: [Not Secure] <Proxe_> :V
-[03:36:08] [Async Chat Thread - #18/INFO]: [Not Secure] <Proxe_> :v
-[03:36:11] [Async Chat Thread - #19/INFO]: [Not Secure] <SKrampusPEcausa> tepea
-[03:36:27] [Async Chat Thread - #19/INFO]: [Not Secure] <Proxe_> salte y entras
-[03:36:29] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> hay q ser legal mno
-[03:36:41] [Async Chat Thread - #18/INFO]: [Not Secure] <SKrampusPEcausa> hace rato andabas tepeando
-[03:36:48] [Async Chat Thread - #20/INFO]: [Not Secure] <Churrupakin> para reunirnos p
-[03:36:57] [Async Chat Thread - #20/INFO]: [Not Secure] <SKrampusPEcausa> pasa cords pe siquiera
-[03:37:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> 179 74
-[03:37:06] [Async Chat Thread - #20/INFO]: [Not Secure] <Proxe_> 217 2
-[03:37:11] [Async Chat Thread - #18/INFO]: [Not Secure] <Proxe_> cualquiera de esas 2
-[03:37:23] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
-[03:37:23] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[03:37:23] [Server thread/INFO]: SKrampusPEcausa left the game
-[03:38:10] [User Authenticator #5/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[03:38:10] [Server thread/INFO]: SKrampusPEcausa joined the game
-[03:38:10] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:57881] logged in with entity id 9643 at ([world]104.24145594788614, 73.0, 32.806492190583846)
-[03:38:19] [Server thread/INFO]: XxMatos15 has made the advancement [A Seedy Place]
-[03:38:22] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Not Today, Thank You]
-[03:38:50] [Async Chat Thread - #21/INFO]: [Not Secure] <XxMatos15> como se pone texture pac
-[03:38:59] [Async Chat Thread - #22/INFO]: [Not Secure] <Churrupakin> exp
-[03:39:04] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> escape
-[03:39:12] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> opciones
-[03:39:15] [Async Chat Thread - #21/INFO]: [Not Secure] <Churrupakin> texture pack
-[03:40:22] [Server thread/WARN]: SKrampusPEcausa moved too quickly! -5.362108119015801,6.166109260938214,8.225801821713581
-[03:43:13] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> saa cara
-[03:43:21] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> ven
-[03:44:18] [Server thread/INFO]: SKrampusPEcausa has made the advancement [What a Deal!]
-[03:46:49] [Server thread/INFO]: Churrupakin has made the advancement [What a Deal!]
-[03:47:08] [Server thread/INFO]: XxMatos15 has made the advancement [Ice Bucket Challenge]
-[03:48:32] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzz
-[03:48:33] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzz
-[03:48:34] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzz
-[03:48:34] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzz
-[03:48:44] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzz
-[03:48:45] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzz
-[03:48:46] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Sweet Dreams]
-[03:48:46] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzzzzz
-[03:48:55] [Async Chat Thread - #26/INFO]: [Not Secure] <SKrampusPEcausa> duerme pijon
-[03:48:58] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> XxMatos15 duerme
-[03:49:00] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> XxMatos15 duerme
-[03:49:00] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> XxMatos15 duerme
-[03:49:00] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> XxMatos15 duerme
-[03:49:04] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> NO HYA CMAA
-[03:49:16] [Async Chat Thread - #26/INFO]: [Not Secure] <Churrupakin> ven aca
-[03:49:29] [Server thread/INFO]: Proxe_ has made the advancement [Take Aim]
-[03:49:30] [Async Chat Thread - #27/INFO]: [Not Secure] <SKrampusPEcausa> duerman p
-[03:49:38] [Async Chat Thread - #26/INFO]: [Not Secure] <Churrupakin> chifa
-[03:49:42] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> XxMatos15 duerme
-[03:49:42] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> XxMatos15 duerme
-[03:49:43] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> XxMatos15 duerme
-[03:49:57] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> espera
-[03:50:01] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> mato al enderman
-[03:50:30] [Server thread/INFO]: XxMatos15 was shot by Skeleton
-[03:50:34] [Async Chat Thread - #26/INFO]: [Not Secure] <Churrupakin> JAJAJAJA
-[03:50:37] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> borra la cuenta
-[03:50:38] [Async Chat Thread - #27/INFO]: [Not Secure] <SKrampusPEcausa> cxddddddd
-[03:50:43] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> altoke p mrd
-[03:50:54] [Async Chat Thread - #26/INFO]: [Not Secure] <SKrampusPEcausa> duerman ptmr
-[03:51:13] [Async Chat Thread - #27/INFO]: [Not Secure] <Churrupakin> duerme p
-[03:51:54] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> tmre
-[03:51:55] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> espera
-[03:52:32] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> ya
-[03:52:34] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> altoke
-[03:52:43] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> antes de q vengan 10 zombis
-[03:52:46] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> goooo
-[03:52:52] [Async Chat Thread - #27/INFO]: [Not Secure] <Churrupakin> duerme p
-[03:52:58] [Async Chat Thread - #26/INFO]: [Not Secure] <SKrampusPEcausa> en gooo
-[03:53:02] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> gooooo
-[03:53:23] [Server thread/INFO]: Villager EntityVillager['Mason'/2339, uuid='c3d5f6b6-24a9-4a40-80ed-8ed07183cdaa', l='ServerLevel[world]', x=219.39, y=87.77, z=62.30, cpos=[13, 3], tl=52115, v=true] died, message: 'Mason was slain by Zombie'
-[03:53:33] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[03:53:33] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
-[03:53:33] [Server thread/INFO]: XxMatos15 left the game
-[03:56:18] [User Authenticator #6/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
-[03:56:18] [Server thread/INFO]: XxMatos15 joined the game
-[03:56:18] [Server thread/INFO]: XxMatos15[/172.28.131.63:52965] logged in with entity id 14265 at ([world]586.6664371330111, 96.0, 52.30000001192093)
-[03:59:35] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Take Aim]
-[04:08:05] [Server thread/INFO]: Villager EntityVillager['Villager'/14522, uuid='cb3ae1d0-00cc-47b7-8634-be481901a98e', l='ServerLevel[world]', x=801.70, y=63.00, z=18.94, cpos=[50, 1], tl=13111, v=true] died, message: 'Villager was slain by Zombie Villager'
-[04:08:36] [Async Chat Thread - #28/INFO]: [Not Secure] <XxMatos15> donde andas papus
-[04:09:37] [Server thread/INFO]: Churrupakin has made the advancement [Not Today, Thank You]
-[04:10:18] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[04:10:18] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[04:10:18] [Server thread/INFO]: SKrampusPEcausa left the game
-[04:10:22] [User Authenticator #7/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[04:10:22] [Server thread/INFO]: SKrampusPEcausa joined the game
-[04:10:22] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:59713] logged in with entity id 20328 at ([world]176.30000001192093, -30.0, -38.406730173594205)
-[04:10:47] [Async Chat Thread - #30/INFO]: [Not Secure] <Churrupakin> cuerman
-[04:10:51] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
-[04:10:51] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[04:10:51] [Server thread/INFO]: SKrampusPEcausa left the game
-[04:10:56] [Async Chat Thread - #30/INFO]: [Not Secure] <Churrupakin> duerman
-[04:11:01] [Async Chat Thread - #30/INFO]: [Not Secure] <XxMatos15> goo
-[04:11:06] [User Authenticator #7/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[04:11:06] [Server thread/INFO]: SKrampusPEcausa joined the game
-[04:11:06] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:59757] logged in with entity id 20550 at ([world]176.30000001192093, -30.0, -38.406730173594205)
-[04:11:52] [Server thread/INFO]: XxMatos15 has made the advancement [Not Today, Thank You]
-[04:12:17] [Async Chat Thread - #32/INFO]: [Not Secure] <Churrupakin> duerman p
-[04:12:23] [Async Chat Thread - #33/INFO]: [Not Secure] <XxMatos15> ya va a ser dedia
-[04:12:23] [Server thread/INFO]: XxMatos15 was slain by Spider
-[04:12:35] [Async Chat Thread - #32/INFO]: [Not Secure] <Proxe_> angel
-[04:12:37] [Async Chat Thread - #32/INFO]: [Not Secure] <Proxe_> el duolingo
-[04:12:38] [Async Chat Thread - #33/INFO]: [Not Secure] <Proxe_> csm
-[04:12:50] [Async Chat Thread - #32/INFO]: [Not Secure] <SKrampusPEcausa> verdad xd
-[04:12:57] [Async Chat Thread - #32/INFO]: [Not Secure] <Churrupakin> pero duermes?
-[04:13:41] [Server thread/WARN]: XxMatos15 moved wrongly!
-[04:15:00] [Server thread/INFO]: Proxe_ has made the advancement [Cover Me with Diamonds]
-[04:16:03] [Async Chat Thread - #34/INFO]: [Not Secure] <Proxe_> hay aldeano con armadura de diamante
-[04:16:07] [Async Chat Thread - #34/INFO]: [Not Secure] <Proxe_> 214 6
-[04:16:25] [Server thread/INFO]: SKrampusPEcausa drowned
-[04:17:10] [Server thread/INFO]: SKrampusPEcausa drowned
-[04:18:07] [Server thread/INFO]: SKrampusPEcausa drowned
-[04:19:03] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Diamonds!]
-[04:22:16] [Async Chat Thread - #36/INFO]: [Not Secure] <SKrampusPEcausa> 10 diamantes rico
-[04:22:23] [Async Chat Thread - #37/INFO]: [Not Secure] <Churrupakin> donde
-[04:22:31] [Async Chat Thread - #36/INFO]: [Not Secure] <SKrampusPEcausa> aqui
-[04:22:41] [Async Chat Thread - #37/INFO]: [Not Secure] <Churrupakin> full diamante ya
-[04:22:55] [Async Chat Thread - #36/INFO]: [Not Secure] <SKrampusPEcausa> pepa vamo al nether
-[04:23:04] [Server thread/INFO]: Churrupakin has made the advancement [Cover Me with Diamonds]
-[04:23:45] [Async Chat Thread - #37/INFO]: [Not Secure] <Churrupakin> duerman
-[04:24:18] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[04:24:18] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[04:24:18] [Server thread/INFO]: SKrampusPEcausa left the game
-[04:24:54] [Async Chat Thread - #38/INFO]: [Not Secure] <Proxe_> zzzzzzzzzzzzzzz
-[04:24:56] [Server thread/INFO]: XxMatos15 tried to swim in lava
-[04:24:57] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> zzz
-[04:25:30] [Server thread/INFO]: XxMatos15 has made the advancement [Isn't It Iron Pick]
-[04:29:11] [Server thread/INFO]: XxMatos15 has made the advancement [Diamonds!]
-[04:30:29] [Server thread/INFO]: Proxe_ issued server command: /ban-ip skrampuspe
-[04:30:38] [Server thread/INFO]: Proxe_ issued server command: /ban-ip skrampuspecausa no entra al server
-[04:30:43] [Server thread/INFO]: Proxe_ issued server command: /ban skrampuspecausa no entra al server
-[04:30:43] [Server thread/INFO]: [Proxe_: Banned SKrampusPEcausa: no entra al server]
-[04:30:49] [Server thread/INFO]: Proxe_ issued server command: /pardon SKrampusPEcausa
-[04:30:49] [Server thread/INFO]: [Proxe_: Unbanned SKrampusPEcausa]
-[04:36:26] [Async Chat Thread - #40/INFO]: [Not Secure] <Proxe_> o chifa tas q juegas
-[04:36:30] [Async Chat Thread - #41/INFO]: [Not Secure] <XxMatos15> ZI
-[04:36:41] [Async Chat Thread - #41/INFO]: [Not Secure] <Churrupakin> angel s fue pq se murio x
-[04:38:30] [Async Chat Thread - #42/INFO]: [Not Secure] <XxMatos15> 40 diamantes
-[04:38:42] [Async Chat Thread - #43/INFO]: [Not Secure] <Churrupakin> q hago?
-[04:38:44] [Async Chat Thread - #43/INFO]: [Not Secure] <Churrupakin> fiesta
-[04:38:52] [Async Chat Thread - #42/INFO]: [Not Secure] <XxMatos15> pa ir al nete
-[04:39:00] [Async Chat Thread - #42/INFO]: [Not Secure] <Churrupakin> go p
-[04:43:31] [Server thread/INFO]: XxMatos15 has made the advancement [Cover Me with Diamonds]
-[04:48:19] [Server thread/INFO]: XxMatos15 tried to swim in lava
-[04:48:29] [Async Chat Thread - #44/INFO]: [Not Secure] <Churrupakin> y tus diamantes
-[04:48:33] [Async Chat Thread - #44/INFO]: [Not Secure] <XxMatos15> aca
-[04:48:40] [Async Chat Thread - #45/INFO]: [Not Secure] <Churrupakin> a ver
-[04:48:44] [Server thread/INFO]: XxMatos15 has made the advancement [Hot Stuff]
-[04:48:46] [Async Chat Thread - #45/INFO]: [Not Secure] <XxMatos15> ven
-[04:48:59] [Async Chat Thread - #46/INFO]: [Not Secure] <Churrupakin> paja
-[04:49:06] [Async Chat Thread - #46/INFO]: [Not Secure] <XxMatos15> ya tengo portal
-[04:49:11] [Async Chat Thread - #44/INFO]: [Not Secure] <XxMatos15> ven
-[04:50:22] [Server thread/INFO]: Proxe_ lost connection: Disconnected
-[04:50:22] [Server thread/INFO]: [voicechat] Disconnecting client Proxe_
-[04:50:22] [Server thread/INFO]: Proxe_ left the game
-[04:52:48] [Server thread/INFO]: XxMatos15 has made the advancement [Who is Cutting Onions?]
-[04:52:55] [User Authenticator #8/INFO]: UUID of player Proxe_ is 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[04:52:55] [Server thread/INFO]: Proxe_ joined the game
-[04:52:55] [Server thread/INFO]: Proxe_[/172.28.149.78:49277] logged in with entity id 34657 at ([world]216.29841106813652, 71.5625, 6.699999988079071)
-[04:52:56] [Server thread/INFO]: [voicechat] Received secret request of Proxe_ (18)
-[04:52:56] [Server thread/INFO]: [voicechat] Sent secret to Proxe_
-[04:52:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[04:52:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[04:52:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Proxe_ (291b5db3-a54f-3f99-bee4-fa14a07e9d7d) successfully connected to voice chat
-[04:53:39] [Async Chat Thread - #47/INFO]: [Not Secure] <XxMatos15> 797.285
-[04:54:48] [Server thread/INFO]: XxMatos15 has made the advancement [We Need to Go Deeper]
-[04:55:25] [Server thread/INFO]: XxMatos15 tried to swim in lava
-[04:55:57] [Server thread/INFO]: XxMatos15 was slain by Zombified Piglin
-[04:56:05] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[04:56:05] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
-[04:56:05] [Server thread/INFO]: XxMatos15 left the game
-[05:07:06] [Server thread/INFO]: Proxe_ has made the advancement [Diamonds!]
-[05:08:47] [Server thread/INFO]: Proxe_ has made the advancement [Hot Stuff]
-[05:09:47] [Server thread/INFO]: Proxe_ has made the advancement [We Need to Go Deeper]
-[05:10:30] [Async Chat Thread - #49/INFO]: [Not Secure] <Proxe_> 97 53
-[05:14:20] [Server thread/INFO]: Churrupakin has made the advancement [We Need to Go Deeper]
-[05:17:18] [Server thread/INFO]: Proxe_ has made the advancement [Ol' Betsy]
-[05:18:10] [Async Chat Thread - #51/INFO]: [Not Secure] <Proxe_> 246 178
-[05:19:40] [Server thread/INFO]: Churrupakin has made the advancement [Who is Cutting Onions?]
-[05:20:34] [Server thread/INFO]: Churrupakin has made the advancement [Ice Bucket Challenge]
-[05:23:08] [Server thread/INFO]: Proxe_ has made the advancement [Who is Cutting Onions?]
-[05:24:09] [Server thread/INFO]: Proxe_ has made the advancement [Those Were the Days]
-[05:26:09] [Async Chat Thread - #54/INFO]: [Not Secure] <Proxe_> 323 85
-[05:27:29] [Async Chat Thread - #55/INFO]: [Not Secure] <Proxe_> 339 81
-[05:27:39] [Server thread/INFO]: Proxe_ has made the advancement [War Pigs]
-[05:28:19] [Server thread/INFO]: Churrupakin has made the advancement [Those Were the Days]
-[05:30:58] [Server thread/INFO]: Churrupakin has made the advancement [Ol' Betsy]
-[05:30:58] [Server thread/INFO]: Churrupakin has made the advancement [Take Aim]
-[05:32:11] [Server thread/INFO]: Churrupakin has made the advancement [War Pigs]
-[05:36:47] [Server thread/INFO]: Proxe_ has made the advancement [Ice Bucket Challenge]
-[05:42:15] [Server thread/INFO]: Churrupakin has made the advancement [A Terrible Fortress]
-[05:42:18] [Server thread/INFO]: Proxe_ has made the advancement [A Terrible Fortress]
-[05:45:29] [Server thread/INFO]: Proxe_ has made the advancement [Into Fire]
-[05:47:40] [Server thread/INFO]: Churrupakin has made the advancement [Into Fire]
+[17:32:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[17:32:08] [Server thread/INFO]: Default game type: SURVIVAL
+[17:32:08] [Server thread/INFO]: Generating keypair
+[17:32:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:32:08] [Server thread/INFO]: Using epoll channel type
+[17:32:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:32:08] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:32:08] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[17:32:08] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.4
+[17:32:08] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:32:08] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.4
+[17:32:09] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[17:32:10] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[17:32:10] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:32:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:32:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:32:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:32:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:32:10] [Server thread/INFO]: Preparing level "world"
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.4
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dc501c7
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:32:11] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:32:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:32:12] [Server thread/INFO]: Time elapsed: 461 ms
+[17:32:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:32:12] [Server thread/INFO]: Time elapsed: 130 ms
+[17:32:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:32:12] [Server thread/INFO]: Time elapsed: 133 ms
+[17:32:12] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[17:32:12] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[17:32:12] [Server thread/INFO]: [voicechat] Compatibility version 18
+[17:32:13] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[17:32:13] [Server thread/INFO]: Running delayed init tasks
+[17:32:13] [Server thread/INFO]: Done (7.526s)! For help, type "help"
+[17:32:13] [Server thread/INFO]: Timings Reset
+[17:32:13] [Server thread/INFO]: [voicechat] Loading plugins
+[17:32:13] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[17:32:13] [Server thread/INFO]: [voicechat] Initializing plugins
+[17:32:13] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[17:32:13] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[17:32:13] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[17:32:26] [User Authenticator #0/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[17:32:26] [Server thread/INFO]: XxMatos15 joined the game
+[17:32:26] [Server thread/INFO]: XxMatos15[/172.28.131.63:53779] logged in with entity id 108 at ([world]768.6424237397129, 64.0, 66.3010523156194)
+[17:34:31] [Server thread/INFO]: Villager EntityVillager['Nitwit'/138, uuid='50e36af0-cf5c-4efd-82a3-2639123ef121', l='ServerLevel[world]', x=736.93, y=63.00, z=33.16, cpos=[46, 2], tl=74407, v=true] died, message: 'Nitwit was slain by Zombie'
+[17:35:00] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[17:35:00] [Server thread/INFO]: Churrupakin joined the game
+[17:35:00] [Server thread/INFO]: Churrupakin[/172.28.161.65:51404] logged in with entity id 717 at ([world]3080.64812901102, 23.0, 685.6999999880791)
+[17:35:03] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[17:35:03] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[17:35:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[17:35:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[17:35:06] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[17:35:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> manda cord chifon
+[17:35:43] [Async Chat Thread - #0/INFO]: [Not Secure] <XxMatos15> ya
+[17:36:22] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> ya tengo polvo de blaze
+[17:36:22] [Server thread/INFO]: XxMatos15 was slain by Spider
+[17:36:31] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> vamos a la aldea a comprar espadas y arco
+[17:37:03] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> espera
+[17:37:39] [Async Chat Thread - #0/INFO]: [Not Secure] <XxMatos15> 768.876
+[17:37:42] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> eso es ?
+[17:37:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> es 200 2
+[17:38:11] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> qseso
+[17:38:36] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> de la aldea
+[17:39:02] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> xd
+[17:39:05] [Async Chat Thread - #0/INFO]: [Not Secure] <XxMatos15> soy wbon
+[17:39:10] [Server thread/INFO]: XxMatos15 was slain by Zombie
+[17:39:23] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> me meti a la lava con armadur de diamante
