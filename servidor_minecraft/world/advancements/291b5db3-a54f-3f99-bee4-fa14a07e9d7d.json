@@ -688,8 +688,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-07 03:16:37 +0000",
+      "minecraft:hoglin": "2024-12-07 05:14:07 +0000",
       "minecraft:spider": "2024-12-07 04:40:16 +0000",
       "minecraft:creeper": "2024-12-07 04:37:16 +0000",
+      "minecraft:piglin": "2024-12-07 05:14:55 +0000",
+      "minecraft:enderman": "2024-12-07 05:12:00 +0000",
       "minecraft:zombie": "2024-12-07 03:38:06 +0000",
       "minecraft:drowned": "2024-12-07 03:26:11 +0000"
     },
@@ -1283,6 +1286,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-07 05:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-07 04:56:14 +0000"
@@ -1325,9 +1334,28 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-07 05:12:21 +0000",
+      "minecraft:nether_wastes": "2024-12-07 05:09:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-07 05:17:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2024-12-07 05:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-07 05:09:47 +0000"
     },
     "done": true
   },
@@ -1373,9 +1401,27 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-07 05:09:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-07 05:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-07 05:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-07 05:17:55 +0000"
     },
     "done": true
   },
@@ -1406,6 +1452,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-12-07 04:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-07 05:15:34 +0000"
     },
     "done": true
   },
@@ -1535,9 +1587,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-07 05:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-07 05:02:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-07 05:17:18 +0000"
     },
     "done": true
   },
