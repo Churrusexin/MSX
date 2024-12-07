@@ -310,3 +310,22 @@
 [20:23:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
 [20:24:47] [Async Chat Thread - #46/INFO]: [Not Secure] <Churrupakin> chifon hoy juega tu madrid
 [20:25:15] [Async Chat Thread - #47/INFO]: [Not Secure] <XxMatos15> esya jugando
+[20:30:50] [Async Chat Thread - #48/INFO]: [Not Secure] <Churrupakin> oe y tu armadura xd
+[20:30:58] [Async Chat Thread - #49/INFO]: [Not Secure] <XxMatos15> me falta esmeralda
+[20:31:02] [Async Chat Thread - #48/INFO]: [Not Secure] <Churrupakin> cuanto
+[20:31:06] [Async Chat Thread - #49/INFO]: [Not Secure] <XxMatos15> son como 80 9 creo
+[20:31:11] [Async Chat Thread - #48/INFO]: [Not Secure] <XxMatos15> 40 mas
+[20:31:17] [Async Chat Thread - #48/INFO]: [Not Secure] <Churrupakin> a la mrd
+[20:31:34] [Async Chat Thread - #49/INFO]: [Not Secure] <Churrupakin> voa ser la granja de hiero para las esmeraldas
+[20:31:36] [Async Chat Thread - #48/INFO]: [Not Secure] <Churrupakin> duerme
+[20:34:04] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[20:34:04] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:34:04] [Server thread/INFO]: Churrupakin left the game
+[20:34:50] [User Authenticator #11/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:34:50] [Server thread/INFO]: Churrupakin joined the game
+[20:34:50] [Server thread/INFO]: Churrupakin[/172.28.161.65:56251] logged in with entity id 57139 at ([world]189.69999998807907, 59.9375, 81.78603390756557)
+[20:34:50] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:34:50] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:34:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:34:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:34:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
