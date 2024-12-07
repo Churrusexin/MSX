@@ -200,3 +200,31 @@
 [19:24:01] [Server thread/INFO]: Churrupakin lost connection: Disconnected
 [19:24:01] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
 [19:24:01] [Server thread/INFO]: Churrupakin left the game
+[19:24:30] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:24:30] [Server thread/INFO]: Churrupakin joined the game
+[19:24:30] [Server thread/INFO]: Churrupakin[/172.28.161.65:57196] logged in with entity id 33194 at ([world]181.15797282007614, 70.0, 41.6706446640857)
+[19:24:30] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[19:24:30] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[19:24:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:24:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:24:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[19:29:08] [User Authenticator #6/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[19:29:08] [Server thread/INFO]: XxMatos15 joined the game
+[19:29:08] [Server thread/INFO]: XxMatos15[/172.28.131.63:59449] logged in with entity id 33899 at ([world]191.5, 63.0, 89.5)
+[19:29:33] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[19:29:33] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[19:29:33] [Server thread/INFO]: XxMatos15 left the game
+[19:29:43] [User Authenticator #6/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[19:29:43] [Server thread/INFO]: XxMatos15 joined the game
+[19:29:43] [Server thread/INFO]: XxMatos15[/172.28.131.63:59200] logged in with entity id 34155 at ([world]12.54359962631694, 106.0, 12.88483242598142)
+[19:30:10] [Server thread/INFO]: XxMatos15 fell from a high place
+[19:30:15] [Async Chat Thread - #26/INFO]: [Not Secure] <Churrupakin> chifon tienes caña?
+[19:30:20] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> no
+[19:30:23] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> no puedo romper
+[19:30:25] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> xd
+[19:30:31] [Async Chat Thread - #27/INFO]: [Not Secure] <Churrupakin> ve
+[19:30:32] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> en mi aldea creo q tenia
+[19:30:36] [Async Chat Thread - #26/INFO]: [Not Secure] <Churrupakin> on tas
+[19:30:51] [Async Chat Thread - #27/INFO]: [Not Secure] <XxMatos15> aca
+[19:33:12] [Async Chat Thread - #28/INFO]: [Not Secure] <XxMatos15> matame
+[19:33:22] [Server thread/INFO]: XxMatos15 was slain by Churrupakin
