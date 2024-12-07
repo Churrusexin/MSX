@@ -295,6 +295,7 @@
       "cooked_porkchop": "2024-12-07 04:16:17 +0000",
       "cooked_mutton": "2024-12-07 04:42:11 +0000",
       "cooked_beef": "2024-12-07 04:42:38 +0000",
+      "baked_potato": "2024-12-07 22:01:17 +0000",
       "mutton": "2024-12-07 05:03:48 +0000",
       "bread": "2024-12-07 03:30:11 +0000",
       "rotten_flesh": "2024-12-07 03:03:23 +0000",
@@ -2592,6 +2593,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-07 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-07 21:55:49 +0000"
     },
     "done": true
   },
