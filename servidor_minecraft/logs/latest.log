@@ -362,3 +362,14 @@
 [21:39:48] [Server thread/INFO]: XxMatos15 was slain by Iron Golem
 [21:47:43] [Server thread/INFO]: XxMatos15 was slain by Spider
 [21:54:30] [Server thread/INFO]: XxMatos15 issued server command: /bukkit:?
+[22:23:24] [Server thread/INFO]: XxMatos15 was impaled by Drowned
+[22:23:57] [Server thread/INFO]: XxMatos15 was impaled by Drowned
+[22:26:03] [Async Chat Thread - #60/INFO]: [Not Secure] <Churrupakin> ya vengo chifon voa comer
+[22:26:08] [Async Chat Thread - #60/INFO]: [Not Secure] <XxMatos15> ya
+[22:26:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[22:26:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[22:26:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:26:35] [Server thread/INFO]: Churrupakin lost connection: Timed out
+[22:26:35] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[22:26:35] [Server thread/INFO]: Churrupakin left the game
+[22:26:53] [Server thread/INFO]: Unknown command. Type "/help" for help.
