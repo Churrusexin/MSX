@@ -169,3 +169,23 @@
 [18:38:32] [Server thread/INFO]: Churrupakin left the game
 [18:38:39] [Server thread/INFO]: Unknown command. Type "/help" for help.
 [18:49:12] [Server thread/INFO]: XxMatos15 was shot by Skeleton
+[19:01:20] [User Authenticator #3/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:01:20] [Server thread/INFO]: Churrupakin joined the game
+[19:01:20] [Server thread/INFO]: Churrupakin[/172.28.161.65:56840] logged in with entity id 30034 at ([world]217.69999998807907, 71.875, 6.699999988079071)
+[19:01:20] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[19:01:20] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[19:01:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:01:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[19:01:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[19:01:27] [Server thread/INFO]: XxMatos15 was slain by Drowned
+[19:01:29] [Async Chat Thread - #24/INFO]: [Not Secure] <Churrupakin> xdddd
+[19:01:46] [Server thread/INFO]: XxMatos15 lost connection: Timed out
+[19:01:46] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[19:01:46] [Server thread/INFO]: XxMatos15 left the game
+[19:01:47] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> tmano duerme
+[19:03:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[19:03:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[19:03:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[19:03:27] [Server thread/INFO]: Churrupakin lost connection: Timed out
+[19:03:27] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[19:03:27] [Server thread/INFO]: Churrupakin left the game
