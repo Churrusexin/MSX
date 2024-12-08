@@ -666,6 +666,7 @@
       "cooked_mutton": "2024-12-07 03:25:23 +0000",
       "pumpkin_pie": "2024-12-07 04:42:35 +0000",
       "golden_apple": "2024-12-07 05:36:02 +0000",
+      "golden_carrot": "2024-12-08 03:40:38 +0000",
       "cooked_chicken": "2024-12-07 03:34:50 +0000"
     },
     "done": false
@@ -697,6 +698,7 @@
       "minecraft:spider": "2024-12-07 04:40:16 +0000",
       "minecraft:piglin_brute": "2024-12-07 05:26:31 +0000",
       "minecraft:creeper": "2024-12-07 04:37:16 +0000",
+      "minecraft:phantom": "2024-12-08 03:37:55 +0000",
       "minecraft:wither_skeleton": "2024-12-07 05:43:30 +0000",
       "minecraft:piglin": "2024-12-07 05:14:55 +0000",
       "minecraft:enderman": "2024-12-07 05:12:00 +0000",
@@ -2017,6 +2019,24 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2024-12-08 03:16:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2024-12-08 03:40:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-08 03:36:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 03:40:52 +0000"
     },
     "done": true
   },
