@@ -296,6 +296,7 @@
       "cooked_mutton": "2024-12-07 04:42:11 +0000",
       "cooked_beef": "2024-12-07 04:42:38 +0000",
       "baked_potato": "2024-12-07 22:01:17 +0000",
+      "poisonous_potato": "2024-12-08 04:09:30 +0000",
       "mutton": "2024-12-07 05:03:48 +0000",
       "bread": "2024-12-07 03:30:11 +0000",
       "rotten_flesh": "2024-12-07 03:03:23 +0000",
@@ -2658,6 +2659,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-08 04:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-08 04:14:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2024-12-08 03:43:31 +0000"
@@ -2667,6 +2680,12 @@
   "minecraft:adventure/throw_trident": {
     "criteria": {
       "shot_trident": "2024-12-08 04:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-08 04:14:27 +0000"
     },
     "done": true
   },
