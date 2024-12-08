@@ -42,7 +42,8 @@
       "cooked_beef": "2024-12-07 03:48:42 +0000",
       "beef": "2024-12-07 03:08:03 +0000",
       "porkchop": "2024-12-07 03:08:58 +0000",
-      "rotten_flesh": "2024-12-07 03:14:21 +0000"
+      "rotten_flesh": "2024-12-07 03:14:21 +0000",
+      "cookie": "2024-12-08 22:46:50 +0000"
     },
     "done": false
   },
@@ -600,6 +601,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-08 22:39:38 +0000",
       "minecraft:skeleton": "2024-12-07 03:38:25 +0000",
       "minecraft:spider": "2024-12-07 03:20:28 +0000",
       "minecraft:creeper": "2024-12-07 03:02:24 +0000",
@@ -1492,6 +1494,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-07 04:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-08 22:39:12 +0000"
     },
     "done": true
   },
