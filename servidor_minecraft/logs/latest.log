@@ -89,3 +89,37 @@
 [04:38:54] [Server thread/INFO]: Proxe_ has made the advancement [Local Brewery]
 [04:48:30] [Server thread/INFO]: Churrupakin has reached the goal [Zombie Doctor]
 [04:50:06] [Server thread/INFO]: Proxe_ has made the advancement [Enchanter]
+[05:04:40] [Server thread/INFO]: Proxe_ lost connection: Disconnected
+[05:04:40] [Server thread/INFO]: [voicechat] Disconnecting client Proxe_
+[05:04:40] [Server thread/INFO]: Proxe_ left the game
+[05:05:03] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[05:05:03] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[05:05:03] [Server thread/INFO]: Churrupakin left the game
+[05:05:53] [Server thread/INFO]: Stopping the server
+[05:05:53] [Server thread/INFO]: Stopping server
+[05:05:53] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.4
+[05:05:53] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[05:05:53] [Server thread/INFO]: Saving players
+[05:05:53] [Server thread/INFO]: Saving worlds
+[05:05:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Saved 35 block chunks, 260 entity chunks, 1 poi chunks in world 'world' in 0.21s
+[05:05:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[05:05:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 121 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[05:05:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[05:05:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[05:05:53] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[05:05:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[05:05:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[05:05:53] [Server thread/INFO]: Flushing Chunk IO
+[05:05:53] [Server thread/INFO]: Closing Thread Pool
+[05:05:53] [Server thread/INFO]: Closing Server
