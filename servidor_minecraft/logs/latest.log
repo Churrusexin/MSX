@@ -87,3 +87,5 @@
 [04:33:25] [Server thread/INFO]: Villager EntityVillager['Farmer'/620, uuid='a9a3b6fc-fc24-4e91-8a48-51566cdc0817', l='ServerLevel[world]', x=171.62, y=63.00, z=68.67, cpos=[10, 4], tl=563408, v=true] died, message: 'Farmer was slain by Zombie'
 [04:34:47] [Server thread/INFO]: Villager EntityVillager['Fletcher'/242, uuid='8a14fe10-09a5-49ce-bdb1-f2ef90985a97', l='ServerLevel[world]', x=214.05, y=70.00, z=151.14, cpos=[13, 9], tl=564424, v=true] died, message: 'Fletcher suffocated in a wall'
 [04:38:54] [Server thread/INFO]: Proxe_ has made the advancement [Local Brewery]
+[04:48:30] [Server thread/INFO]: Churrupakin has reached the goal [Zombie Doctor]
+[04:50:06] [Server thread/INFO]: Proxe_ has made the advancement [Enchanter]
