@@ -81,3 +81,6 @@
 [03:27:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Churrupakin> 207104
 [03:27:52] [Async Chat Thread - #5/INFO]: [Not Secure] <Churrupakin> 207 104
 [03:29:17] [Async Chat Thread - #8/INFO]: [Not Secure] <Churrupakin> 9 44 15
+[04:01:18] [Server thread/INFO]: Proxe_ has made the advancement [A Throwaway Joke]
+[04:01:20] [Server thread/INFO]: Churrupakin has made the advancement [A Throwaway Joke]
+[04:08:22] [Tuinity Chunk System Worker #0/ERROR]: Detected setBlock in a far chunk [27, 56], pos: BlockPosition{x=447, y=41, z=903}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
