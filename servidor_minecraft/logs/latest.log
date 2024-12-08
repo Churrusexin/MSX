@@ -107,3 +107,15 @@
 [20:13:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [20:13:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [20:13:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:21:41] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[20:21:41] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:21:41] [Server thread/INFO]: Churrupakin left the game
+[20:22:53] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:22:54] [Server thread/INFO]: Churrupakin joined the game
+[20:22:54] [Server thread/INFO]: Churrupakin[/172.28.161.65:64156] logged in with entity id 5441 at ([world]207.71641065986685, 63.0, 120.42281330390502)
+[20:22:54] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:22:54] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:22:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:22:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:22:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:25:54] [Server thread/INFO]: Villager EntityVillager['Fletcher'/238, uuid='99d26d80-bb30-468e-b302-262217a7c830', l='ServerLevel[world]', x=214.50, y=63.06, z=143.51, cpos=[13, 8], tl=726361, v=true] died, message: 'Fletcher was impaled by Drowned'
