@@ -148,3 +148,19 @@
 [21:33:53] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> aaah
 [21:34:06] [Async Chat Thread - #5/INFO]: [Not Secure] <XxMatos15> donde ay eso pes
 [21:38:13] [Async Chat Thread - #6/INFO]: [Not Secure] <Churrupakin> en esas estructuras q saqueamos
+[21:49:53] [Server thread/INFO]: Villager EntityVillager['Armorer'/235, uuid='01015725-217c-42ae-9818-674f58337df1', l='ServerLevel[world]', x=134.51, y=67.00, z=-19.50, cpos=[8, -2], tl=828289, v=true] died, message: 'Armorer was slain by Zombie'
+[21:50:29] [Server thread/INFO]: XxMatos15 was impaled by Drowned
+[21:51:43] [Async Chat Thread - #8/INFO]: [Not Secure] <XxMatos15> zzz
+[21:52:07] [Async Chat Thread - #9/INFO]: [Not Secure] <Churrupakin> despues q tengo q curar un zmbi
+[21:52:25] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> tiene q ser cualquier pillager?
+[21:52:51] [Server thread/INFO]: Churrupakin has made the advancement [Local Brewery]
+[21:53:42] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[21:53:42] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[21:53:54] [Server thread/INFO]: Churrupakin issued server command: /gamemode spectator
+[21:53:54] [Server thread/INFO]: [Churrupakin: Set own game mode to Spectator Mode]
+[21:54:06] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[21:54:06] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[21:54:52] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[21:54:52] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[21:55:02] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[21:55:02] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
