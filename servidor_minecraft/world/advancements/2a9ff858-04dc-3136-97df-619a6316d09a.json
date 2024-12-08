@@ -15,6 +15,7 @@
       "minecraft:stony_shore": "2024-12-07 03:27:19 +0000",
       "minecraft:snowy_plains": "2024-12-07 20:02:26 +0000",
       "minecraft:dripstone_caves": "2024-12-07 04:21:56 +0000",
+      "minecraft:snowy_taiga": "2024-12-08 21:00:47 +0000",
       "minecraft:cold_ocean": "2024-12-07 17:47:54 +0000",
       "minecraft:forest": "2024-12-07 03:01:01 +0000",
       "minecraft:ice_spikes": "2024-12-07 20:02:46 +0000",
@@ -2080,6 +2081,30 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-08 20:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-08 21:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 21:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-08 21:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 21:00:50 +0000"
     },
     "done": true
   },
