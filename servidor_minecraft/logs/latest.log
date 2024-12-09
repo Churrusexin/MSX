@@ -96,3 +96,39 @@
 [00:41:10] [Async Chat Thread - #7/INFO]: [Not Secure] <SKrampusPEcausa> tp
 [00:41:19] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
 [00:41:19] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
+[00:41:42] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
+[00:41:42] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
+[00:41:42] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[00:41:42] [Server thread/INFO]: SKrampusPEcausa left the game
+[00:41:46] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> por q xuxa
+[00:41:53] [User Authenticator #2/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[00:41:53] [Server thread/INFO]: SKrampusPEcausa joined the game
+[00:41:53] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:63924] logged in with entity id 5674 at ([world]144.4800086979151, 63.05769456007345, 70.11669275729548)
+[00:41:53] [Async Chat Thread - #7/INFO]: [Not Secure] <XxMatos15> angelito gamer estaba volando
+[00:41:54] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> xd
+[00:42:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Churrupakin> si?
+[00:42:11] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
+[00:42:11] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
+[00:42:11] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[00:42:11] [Server thread/INFO]: SKrampusPEcausa left the game
+[00:42:11] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> si on
+[00:42:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> esta lag
+[00:42:12] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> XD
+[00:42:20] [User Authenticator #2/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[00:42:20] [Server thread/INFO]: SKrampusPEcausa joined the game
+[00:42:20] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:63942] logged in with entity id 5722 at ([world]162.10039730680916, 63.53211240730908, 71.18718214593177)
+[00:42:24] [Async Chat Thread - #7/INFO]: [Not Secure] <XxMatos15> ese movistar de boolivia
+[00:42:28] [Async Chat Thread - #6/INFO]: [Not Secure] <SKrampusPEcausa> xd
+[00:42:35] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> xdddddddddd
+[00:43:13] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[00:43:13] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[00:43:13] [Server thread/INFO]: Churrupakin left the game
+[00:43:22] [User Authenticator #3/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:43:22] [Server thread/INFO]: Churrupakin joined the game
+[00:43:22] [Server thread/INFO]: Churrupakin[/172.28.161.65:52886] logged in with entity id 5858 at ([world]141.47154962095098, 66.0, 109.18233693000542)
+[00:43:22] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[00:43:22] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[00:43:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:43:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:43:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[00:44:13] [Server thread/WARN]: SKrampusPEcausa moved too quickly! -14.060836727476001,1.0,2.788130623118583
