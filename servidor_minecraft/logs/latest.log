@@ -1,499 +1,75 @@
-[00:11:08] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:11:11] [ServerMain/INFO]: Loaded 7 recipes
-[00:11:11] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:11:11] [Server thread/INFO]: Loading properties
-[00:11:12] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[00:11:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:11:13] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:11:13] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[04:48:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[04:48:28] [ServerMain/INFO]: Loaded 7 recipes
+[04:48:29] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[04:48:29] [Server thread/INFO]: Loading properties
+[04:48:30] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[04:48:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:48:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:48:32] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[00:11:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[00:11:14] [Server thread/INFO]: Default game type: SURVIVAL
-[00:11:14] [Server thread/INFO]: Generating keypair
-[00:11:14] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:11:14] [Server thread/INFO]: Using epoll channel type
-[00:11:14] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:11:14] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:11:15] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[00:11:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
-[00:11:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:11:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
-[00:11:16] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[00:11:16] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[00:11:17] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:11:17] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[00:11:17] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[00:11:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:11:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:11:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:11:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:11:17] [Server thread/INFO]: Preparing level "world"
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:11:17] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:11:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:11:18] [Server thread/INFO]: Time elapsed: 494 ms
-[00:11:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:11:19] [Server thread/INFO]: Time elapsed: 167 ms
-[00:11:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:11:19] [Server thread/INFO]: Time elapsed: 141 ms
-[00:11:19] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[00:11:19] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[00:11:19] [Server thread/INFO]: [voicechat] Compatibility version 18
-[00:11:19] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[00:11:19] [Server thread/INFO]: Running delayed init tasks
-[00:11:19] [Server thread/INFO]: Done (7.684s)! For help, type "help"
-[00:11:19] [Server thread/INFO]: Timings Reset
-[00:11:19] [Server thread/INFO]: [voicechat] Loading plugins
-[00:11:19] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[00:11:19] [Server thread/INFO]: [voicechat] Initializing plugins
-[00:11:19] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[00:11:19] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[00:11:19] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[00:11:22] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:11:22] [Server thread/INFO]: Churrupakin joined the game
-[00:11:22] [Server thread/INFO]: Churrupakin[/172.28.161.65:50858] logged in with entity id 5 at ([world]185.3130134643607, 60.0, 87.69999998807907)
-[00:11:23] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:11:23] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:11:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:11:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:11:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:11:34] [User Authenticator #0/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
-[00:11:34] [Server thread/INFO]: XxMatos15 joined the game
-[00:11:34] [Server thread/INFO]: XxMatos15[/172.28.131.63:64590] logged in with entity id 362 at ([world]146.30000001192093, 63.0, 58.2485449832476)
-[00:11:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> m dio weba ponerlo
-[00:11:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> lo baneo d frente nd mas
-[00:12:11] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> XD
-[00:12:15] [Async Chat Thread - #0/INFO]: [Not Secure] <XxMatos15> ve
-[00:12:24] [Async Chat Thread - #1/INFO]: [Not Secure] <XxMatos15> pone mods de ferraris
-[00:12:59] [Server thread/INFO]: XxMatos15 was blown up by Creeper
-[00:15:13] [Async Chat Thread - #2/INFO]: [Not Secure] <XxMatos15> duerme
-[00:31:29] [Async Chat Thread - #4/INFO]: [Not Secure] <XxMatos15> mata
-[00:31:32] [Server thread/INFO]: XxMatos15 was slain by Churrupakin
-[00:34:24] [Server thread/INFO]: XxMatos15 was impaled by Drowned
-[00:34:44] [Server thread/INFO]: XxMatos15 was impaled by Drowned
-[00:34:56] [Server thread/INFO]: XxMatos15 was impaled by Drowned
-[00:36:23] [Server thread/INFO]: XxMatos15 has made the advancement [A Throwaway Joke]
-[00:39:18] [User Authenticator #1/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[00:39:18] [Server thread/INFO]: SKrampusPEcausa joined the game
-[00:39:18] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:63814] logged in with entity id 4794 at ([world]428.79648916125745, 67.0, -198.0635433786392)
-[00:40:12] [Server thread/INFO]: XxMatos15 hit the ground too hard
-[00:40:37] [Async Chat Thread - #6/INFO]: [Not Secure] <SKrampusPEcausa> oi
-[00:40:41] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> habla
-[00:40:49] [Async Chat Thread - #6/INFO]: [Not Secure] <SKrampusPEcausa> tas en la base?
-[00:40:54] [Server thread/INFO]: Churrupakin issued server command: /msg SKrampusPEcausa si
-[00:41:10] [Async Chat Thread - #7/INFO]: [Not Secure] <SKrampusPEcausa> tp
-[00:41:19] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[00:41:19] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
-[00:41:42] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
-[00:41:42] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
-[00:41:42] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[00:41:42] [Server thread/INFO]: SKrampusPEcausa left the game
-[00:41:46] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> por q xuxa
-[00:41:53] [User Authenticator #2/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[00:41:53] [Server thread/INFO]: SKrampusPEcausa joined the game
-[00:41:53] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:63924] logged in with entity id 5674 at ([world]144.4800086979151, 63.05769456007345, 70.11669275729548)
-[00:41:53] [Async Chat Thread - #7/INFO]: [Not Secure] <XxMatos15> angelito gamer estaba volando
-[00:41:54] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> xd
-[00:42:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Churrupakin> si?
-[00:42:11] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
-[00:42:11] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
-[00:42:11] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[00:42:11] [Server thread/INFO]: SKrampusPEcausa left the game
-[00:42:11] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> si on
-[00:42:12] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> esta lag
-[00:42:12] [Async Chat Thread - #6/INFO]: [Not Secure] <XxMatos15> XD
-[00:42:20] [User Authenticator #2/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[00:42:20] [Server thread/INFO]: SKrampusPEcausa joined the game
-[00:42:20] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:63942] logged in with entity id 5722 at ([world]162.10039730680916, 63.53211240730908, 71.18718214593177)
-[00:42:24] [Async Chat Thread - #7/INFO]: [Not Secure] <XxMatos15> ese movistar de boolivia
-[00:42:28] [Async Chat Thread - #6/INFO]: [Not Secure] <SKrampusPEcausa> xd
-[00:42:35] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> xdddddddddd
-[00:43:13] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:43:13] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:43:13] [Server thread/INFO]: Churrupakin left the game
-[00:43:22] [User Authenticator #3/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:43:22] [Server thread/INFO]: Churrupakin joined the game
-[00:43:22] [Server thread/INFO]: Churrupakin[/172.28.161.65:52886] logged in with entity id 5858 at ([world]141.47154962095098, 66.0, 109.18233693000542)
-[00:43:22] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:43:22] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:43:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:43:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:43:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:44:13] [Server thread/WARN]: SKrampusPEcausa moved too quickly! -14.060836727476001,1.0,2.788130623118583
-[00:53:37] [Async Chat Thread - #8/INFO]: [Not Secure] <Churrupakin> voa comer
-[00:53:40] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:53:40] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:53:40] [Server thread/INFO]: Churrupakin left the game
-[00:53:47] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> tan temprano
-[00:53:56] [Async Chat Thread - #8/INFO]: [Not Secure] <SKrampusPEcausa> ptmr
-[00:54:03] [Async Chat Thread - #9/INFO]: [Not Secure] <SKrampusPEcausa> le hiba pedir tp xd
-[00:54:14] [Async Chat Thread - #8/INFO]: [Not Secure] <XxMatos15> X
-[00:54:16] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> d
-[00:54:19] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:54:19] [Server thread/INFO]: Churrupakin joined the game
-[00:54:19] [Server thread/INFO]: Churrupakin[/172.28.161.65:53564] logged in with entity id 10319 at ([world]186.2101938561955, 63.0, 77.69507839190808)
-[00:54:19] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[00:54:19] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[00:54:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:54:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[00:54:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[00:54:27] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[00:54:27] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
-[00:54:30] [Async Chat Thread - #9/INFO]: [Not Secure] <Churrupakin> ahi ta tu tp
-[00:54:35] [Async Chat Thread - #9/INFO]: [Not Secure] <SKrampusPEcausa> chevere
-[00:54:37] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[00:54:37] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[00:54:37] [Server thread/INFO]: Churrupakin left the game
-[01:02:24] [Server thread/INFO]: XxMatos15 fell from a high place
-[01:03:08] [Async Chat Thread - #10/INFO]: [Not Secure] <SKrampusPEcausa> chifon
-[01:03:16] [Async Chat Thread - #10/INFO]: [Not Secure] <SKrampusPEcausa> tienes lana?
-[01:03:31] [Server thread/INFO]: XxMatos15 was slain by SKrampusPEcausa
-[01:04:01] [Server thread/WARN]: SKrampusPEcausa was kicked due to keepalive timeout!
-[01:04:01] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[01:04:01] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[01:04:01] [Server thread/INFO]: SKrampusPEcausa left the game
-[01:04:36] [User Authenticator #5/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[01:04:36] [Server thread/INFO]: SKrampusPEcausa joined the game
-[01:04:36] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:65084] logged in with entity id 11978 at ([world]163.6580466047409, 63.0, 68.74151605347559)
-[01:04:47] [Async Chat Thread - #12/INFO]: [Not Secure] <SKrampusPEcausa> oe chif
-[01:04:49] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> A
-[01:04:51] [Async Chat Thread - #12/INFO]: [Not Secure] <SKrampusPEcausa> pasa lana
-[01:04:59] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> no tengo
-[01:05:02] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> pero
-[01:05:05] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> se donde ay
-[01:05:11] [Async Chat Thread - #12/INFO]: [Not Secure] <SKrampusPEcausa> donde
-[01:05:11] [Async Chat Thread - #13/INFO]: [Not Secure] <XxMatos15> vente
-[01:06:30] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> tven
-[01:06:40] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> altoque
-[01:06:46] [Async Chat Thread - #14/INFO]: [Not Secure] <SKrampusPEcausa> como se salia del barco xd
-[01:06:50] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> shif
-[01:07:26] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> mira
-[01:07:32] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> abajo
-[01:07:34] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> hay lana
-[01:07:41] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> vhevere
-[01:07:45] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> aca mrd
-[01:08:01] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> anda
-[01:08:04] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> espera
-[01:08:07] [Async Chat Thread - #14/INFO]: [Not Secure] <SKrampusPEcausa> ta uno de la raid
-[01:08:16] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> de la maldicion?
-[01:08:19] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> si
-[01:08:23] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> aique traerlo
-[01:08:35] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> traigo el nbarco
-[01:08:48] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> como p
-[01:08:51] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> osea
-[01:08:56] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> lo metemos al barco
-[01:09:03] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> y ay lo traemos
-[01:09:05] [Async Chat Thread - #14/INFO]: [Not Secure] <SKrampusPEcausa> pero igual te ataca
-[01:09:08] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> no
-[01:09:19] [User Authenticator #6/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:09:19] [Server thread/INFO]: Churrupakin joined the game
-[01:09:19] [Server thread/INFO]: Churrupakin[/172.28.161.65:54514] logged in with entity id 13185 at ([world]189.53740065390315, 64.0, 75.22378189115221)
-[01:09:19] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[01:09:19] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[01:09:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:09:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[01:09:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[01:09:21] [Async Chat Thread - #14/INFO]: [Not Secure] <SKrampusPEcausa> ya pe tarilo
-[01:09:26] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> chusexin
-[01:09:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> donde estala raid papus
-[01:09:33] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> encontramos al pillager maldecido
-[01:09:44] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> pera encierro a mis aldeanos
-[01:09:44] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> vente paca
-[01:09:51] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> traete 1 barco
-[01:10:38] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> yaya
-[01:10:42] [Async Chat Thread - #14/INFO]: [Not Secure] <Churrupakin> pasen ip
-[01:10:42] [Async Chat Thread - #14/INFO]: [Not Secure] <XxMatos15> donde estas
-[01:10:56] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> en la house
-[01:10:59] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> cord
-[01:11:01] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> angel
-[01:11:05] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> ves mi hpuse
-[01:11:07] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> house
-[01:11:13] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> hay un rio
-[01:11:17] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> te vienes defrente
-[01:11:19] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> y ay esta
-[01:11:27] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> no hay nd
-[01:11:31] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> vente a 144 456
-[01:11:32] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> 118.686
-[01:12:00] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> 148 74
-[01:12:31] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> matalo
-[01:12:42] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> DON TAS ANGEL
-[01:12:49] [Async Chat Thread - #16/INFO]: [Not Secure] <SKrampusPEcausa> escondido
-[01:12:52] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> salte
-[01:12:56] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> vamo a matal
-[01:13:00] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> tengo como 10 zombis arriba xd
-[01:13:09] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> tienen comida?
-[01:13:12] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> correte pe
-[01:13:16] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> trai comida
-[01:13:17] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> si
-[01:13:18] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> no tengo nd
-[01:13:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> no teng
-[01:14:00] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> comida pe
-[01:14:37] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> van
-[01:14:47] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> voa ser mi grnja de totems
-[01:15:09] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> pasen comida
-[01:15:15] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> donde chch esta
-[01:15:26] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> despawneo tu wbda
-[01:15:31] [Async Chat Thread - #16/INFO]: [Not Secure] <SKrampusPEcausa> xd
-[01:15:36] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> te dije chifa
-[01:15:47] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> tu p
-[01:15:49] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> te estcondes
-[01:16:03] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> que respawne otro
-[01:18:56] [Server thread/INFO]: XxMatos15 issued server command: /skin Peru
-[01:18:57] [Thread-20/WARN]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
-[01:18:57] [Thread-20/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
-[01:18:57] [Thread-20/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetShort(SkinCommand.java:153)
-[01:18:57] [Thread-20/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
-[01:18:57] [Thread-20/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
-[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
-[01:18:57] [Thread-20/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
-[01:18:57] [Thread-20/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
-[01:18:57] [Thread-20/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
-[01:19:08] [Server thread/INFO]: XxMatos15 issued server command: /skin EEUU
-[01:19:16] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Ol' Betsy]
-[01:20:27] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> o chifon
-[01:20:36] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> q rica skin
-[01:20:42] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> xd
-[01:20:50] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> no sale esa wbd
-[01:21:01] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> era q lo mates
-[01:21:23] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> no se traia a la aldea?
-[01:21:24] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> xd
-[01:21:28] [Async Chat Thread - #18/INFO]: [Not Secure] <SKrampusPEcausa> pasen comida
-[01:21:29] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> no wbn
-[01:21:34] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> XD
-[01:21:37] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> tmre
-[01:21:40] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> se mata y te da la malcion x 1 hora
-[01:21:48] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> y te acercas a una aldea
-[01:21:49] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> de ay viene ese toro gris
-[01:22:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> marlylu p
-[01:22:12] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> yrz
-[01:23:19] [Server thread/INFO]: XxMatos15 issued server command: /skin acenix
-[01:24:20] [Async Chat Thread - #19/INFO]: [Not Secure] <SKrampusPEcausa> aqui esta
-[01:24:23] [Async Chat Thread - #19/INFO]: [Not Secure] <SKrampusPEcausa> venganse
-[01:24:34] [Server thread/INFO]: Churrupakin has made the advancement [Voluntary Exile]
-[01:24:36] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> esa p3rra
-[01:24:42] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> la tienes
-[01:24:46] [Async Chat Thread - #20/INFO]: [Not Secure] <Churrupakin> chifon van a otra aldea
-[01:24:52] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> pa q
-[01:24:53] [Async Chat Thread - #20/INFO]: [Not Secure] <Churrupakin> no a la nuestra
-[01:24:57] [Async Chat Thread - #21/INFO]: [Not Secure] <XxMatos15> ay esta mi house
-[01:25:00] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> aea
-[01:25:00] [Async Chat Thread - #19/INFO]: [Not Secure] <Churrupakin> se va a joder mi granja
-[01:25:05] [Async Chat Thread - #19/INFO]: [Not Secure] <XxMatos15> yaya
-[01:25:16] [Async Chat Thread - #19/INFO]: [Not Secure] <Churrupakin> a tu aldea p
-[01:25:20] [Async Chat Thread - #21/INFO]: [Not Secure] <XxMatos15> ns donde esta
-[01:25:25] [Async Chat Thread - #20/INFO]: [Not Secure] <Churrupakin> tamare
-[01:25:27] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> ay tenia 1 stack de diamante
-[01:25:28] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> xd
-[01:25:31] [Async Chat Thread - #21/INFO]: [Not Secure] <Churrupakin> vamos a buscar
-[01:25:38] [Async Chat Thread - #20/INFO]: [Not Secure] <Churrupakin> era 800 y algo
-[01:25:39] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> era algo de 700.618
-[01:25:49] [Async Chat Thread - #20/INFO]: [Not Secure] <Churrupakin> sigan o
-[01:26:04] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
-[01:26:04] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
-[01:26:04] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[01:26:04] [Server thread/INFO]: SKrampusPEcausa left the game
-[01:26:05] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> pera cvsa
-[01:26:13] [Async Chat Thread - #20/INFO]: [Not Secure] <XxMatos15> q se cocine diego
-[01:27:04] [Server thread/INFO]: Churrupakin was shot by Pillager
-[01:27:12] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15 Churrupakin
-[01:27:12] [Server thread/INFO]: [Churrupakin: Teleported XxMatos15 to Churrupakin]
-[01:27:20] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> xd
-[01:27:38] [User Authenticator #7/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[01:27:39] [Server thread/INFO]: SKrampusPEcausa joined the game
-[01:27:39] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:49989] logged in with entity id 16933 at ([world]48.407442966553205, 73.77080861019918, 576.2039679982187)
-[01:27:45] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> mano
-[01:27:48] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> y tus cosas
-[01:27:48] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[01:27:48] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
-[01:27:48] [Async Chat Thread - #23/INFO]: [Not Secure] <XxMatos15> xd
-[01:28:05] [Server thread/INFO]: Churrupakin issued server command: /tp 600
-[01:28:10] [Async Chat Thread - #23/INFO]: [Not Secure] <SKrampusPEcausa> explotaron xd
-[01:28:17] [Server thread/INFO]: Churrupakin issued server command: /tp 600 118.27
-[01:28:22] [Async Chat Thread - #22/INFO]: [Not Secure] <SKrampusPEcausa> oi donde estan
-[01:28:22] [Server thread/INFO]: Churrupakin issued server command: /tp 600.118.27
-[01:28:23] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> XD
-[01:28:27] [Server thread/INFO]: Churrupakin issued server command: /tp 600 118 27
-[01:28:27] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to 600.500000, 118.000000, 27.500000]
-[01:28:28] [Async Chat Thread - #22/INFO]: [Not Secure] <XxMatos15> en la base pe
-[01:28:36] [Async Chat Thread - #23/INFO]: [Not Secure] <SKrampusPEcausa> tepea
-[01:29:31] [Server thread/INFO]: Churrupakin issued server command: /tp 144 118 400
-[01:29:31] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to 144.500000, 118.000000, 400.500000]
-[01:29:37] [Async Chat Thread - #24/INFO]: [Not Secure] <SKrampusPEcausa> churrosexo tp
-[01:30:03] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> ya
-[01:30:09] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
-[01:30:09] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
-[01:30:25] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Voluntary Exile]
-[01:30:33] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[01:30:33] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
-[01:30:44] [Async Chat Thread - #24/INFO]: [Not Secure] <Churrupakin> tmr mi viejo m llamó
-[01:30:54] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> aldea
-[01:30:57] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> mira
-[01:30:58] [Async Chat Thread - #25/INFO]: [Not Secure] <SKrampusPEcausa> pasen lechita me dio el efecto xd
-[01:31:01] [Async Chat Thread - #24/INFO]: [Not Secure] <Churrupakin> perdi el efecto tmr
-[01:31:07] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> vente
-[01:31:09] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> angel
-[01:31:10] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> me lo saco de creativo ya q chc
-[01:31:26] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[01:31:26] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
-[01:31:42] [Async Chat Thread - #24/INFO]: [Not Secure] <SKrampusPEcausa> ay dios mio
-[01:31:46] [Async Chat Thread - #24/INFO]: [Not Secure] <SKrampusPEcausa> vente matias
-[01:31:49] [Async Chat Thread - #24/INFO]: [Not Secure] <Churrupakin> PERA
-[01:31:50] [Server thread/WARN]: SKrampusPEcausa moved too quickly! 12.081337905524151,-1.9388359791121417,-0.7621814803756024
-[01:31:54] [Async Chat Thread - #24/INFO]: [Not Secure] <Churrupakin> tienen el efecto?
-[01:31:58] [Async Chat Thread - #25/INFO]: [Not Secure] <SKrampusPEcausa> si
-[01:32:03] [Async Chat Thread - #25/INFO]: [Not Secure] <SKrampusPEcausa> ya inicio la raid
-[01:32:07] [Async Chat Thread - #24/INFO]: [Not Secure] <Churrupakin> voy
-[01:32:11] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[01:32:11] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
-[01:32:19] [Server thread/INFO]: Villager EntityVillager['Villager'/17270, uuid='31e309d3-bd00-4b68-8554-f97e349178da', l='ServerLevel[world]', x=299.22, y=66.30, z=697.81, cpos=[18, 43], tl=6015, v=true] died, message: 'Villager was slain by Vindicator'
-[01:33:38] [Async Chat Thread - #26/INFO]: [Not Secure] <Churrupakin> aca
-[01:34:16] [Server thread/INFO]: Villager EntityVillager['Cleric'/19550, uuid='e9fdb767-200f-4b65-975e-862477cf5be8', l='ServerLevel[world]', x=338.51, y=74.00, z=633.03, cpos=[21, 39], tl=8192, v=true] died, message: 'Cleric was slain by Vindicator'
-[01:34:35] [Server thread/INFO]: SKrampusPEcausa was blown up by Creeper
-[01:34:48] [Async Chat Thread - #28/INFO]: [Not Secure] <Churrupakin> MANO
-[01:34:51] [Async Chat Thread - #30/INFO]: [Not Secure] <Churrupakin> OVEJA ROSA
-[01:35:11] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> tanto pega esa mrd
-[01:35:24] [Async Chat Thread - #29/INFO]: [Not Secure] <Churrupakin> MARL
-[01:35:45] [Server thread/INFO]: SKrampusPEcausa was slain by Vindicator
-[01:36:23] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> MANO
-[01:36:28] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> TENGO A MARYL
-[01:36:32] [Async Chat Thread - #29/INFO]: [Not Secure] <SKrampusPEcausa> viene marilu
-[01:36:39] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> mete mods de ametralladora mano
-[01:37:03] [Async Chat Thread - #29/INFO]: [Not Secure] <Churrupakin> no se puede
-[01:37:09] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> el server es vanilla
-[01:37:17] [Async Chat Thread - #29/INFO]: [Not Secure] <Churrupakin> fuera fabric o forge seria a
-[01:37:30] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> XD
-[01:38:21] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> manos pasen cmida
-[01:38:49] [Server thread/INFO]: SKrampusPEcausa was slain by Vindicator
-[01:39:48] [Async Chat Thread - #32/INFO]: [Not Secure] <Churrupakin> mano
-[01:40:22] [Server thread/INFO]: SKrampusPEcausa was slain by Vindicator
-[01:41:53] [Server thread/INFO]: Villager EntityVillager['Villager'/17266, uuid='a87bf07c-3529-4c61-b584-d4f0584876e6', l='ServerLevel[world]', x=293.59, y=87.00, z=646.63, cpos=[18, 40], tl=24608, v=true] died, message: 'Villager was slain by Vindicator'
-[01:41:53] [Server thread/INFO]: SKrampusPEcausa was slain by Ravager
-[01:41:58] [Async Chat Thread - #34/INFO]: [Not Secure] <Churrupakin> jaajjajaas
-[01:42:11] [Server thread/INFO]: Villager EntityVillager['Mason'/19474, uuid='8726645f-946c-47f9-a945-af5e0fffabff', l='ServerLevel[world]', x=299.30, y=80.94, z=634.24, cpos=[18, 39], tl=17089, v=true] died, message: 'Mason was slain by Vindicator'
-[01:42:29] [Server thread/INFO]: Villager EntityVillager['Villager'/17265, uuid='bcec969b-b7c9-416a-a53b-0b635480fd65', l='ServerLevel[world]', x=280.76, y=88.56, z=646.54, cpos=[17, 40], tl=24426, v=true] died, message: 'Villager was slain by Vindicator'
-[01:42:29] [Server thread/INFO]: Villager EntityVillager['Farmer'/17269, uuid='56199530-016a-41e5-88e3-bb2bacab8abf', l='ServerLevel[world]', x=281.70, y=88.19, z=646.35, cpos=[17, 40], tl=22917, v=true] died, message: 'Farmer was slain by Vindicator'
-[01:42:32] [Server thread/INFO]: Churrupakin was slain by Vindicator
-[01:42:41] [Server thread/INFO]: Churrupakin issued server command: /tp Churrupakin SKrampusPEcausa
-[01:42:41] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to SKrampusPEcausa]
-[01:42:41] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/17263, uuid='978f7449-9913-4106-a923-60f2dd7d99d6', l='ServerLevel[world]', x=296.21, y=78.60, z=606.24, cpos=[18, 37], tl=22928, v=true] died, message: 'Weaponsmith was slain by Vindicator'
-[01:42:44] [Server thread/INFO]: XxMatos15 has made the advancement [Voluntary Exile]
-[01:43:32] [Async Chat Thread - #36/INFO]: [Not Secure] <Churrupakin> s acabo?
-[01:43:43] [Async Chat Thread - #38/INFO]: [Not Secure] <SKrampusPEcausa> pinga
-[01:43:46] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
-[01:43:46] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[01:43:46] [Server thread/INFO]: SKrampusPEcausa left the game
-[01:43:55] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> mano ven
-[01:44:00] [Async Chat Thread - #37/INFO]: [Not Secure] <Churrupakin> ya
-[01:44:07] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> arriba mio
-[01:44:07] [Async Chat Thread - #38/INFO]: [Not Secure] <Churrupakin> donde estas
-[01:44:12] [Async Chat Thread - #37/INFO]: [Not Secure] <XxMatos15> ay uno q tiene totem
-[01:44:18] [Async Chat Thread - #38/INFO]: [Not Secure] <XxMatos15> cueva
-[01:44:43] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[01:44:43] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[01:45:33] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[01:45:33] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[01:46:17] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> s murio
-[01:46:21] [Async Chat Thread - #39/INFO]: [Not Secure] <Churrupakin> se acabo?
-[01:46:22] [Async Chat Thread - #40/INFO]: [Not Secure] <XxMatos15> no
-[01:47:17] [Async Chat Thread - #40/INFO]: [Not Secure] <Churrupakin> ctos faltan
-[01:47:32] [Async Chat Thread - #39/INFO]: [Not Secure] <XxMatos15> ns
-[01:48:42] [Async Chat Thread - #41/INFO]: [Not Secure] <Churrupakin> acabo creo xd
-[01:48:47] [Async Chat Thread - #41/INFO]: [Not Secure] <XxMatos15> q dan
-[01:48:50] [Async Chat Thread - #43/INFO]: [Not Secure] <Churrupakin> nd
-[01:48:51] [Async Chat Thread - #43/INFO]: [Not Secure] <XxMatos15> de regalo
-[01:48:57] [Async Chat Thread - #41/INFO]: [Not Secure] <XxMatos15> XD
-[01:48:59] [Async Chat Thread - #43/INFO]: [Not Secure] <Churrupakin> un logro pero no hay nd
-[01:49:11] [Async Chat Thread - #43/INFO]: [Not Secure] <Churrupakin> vamos pa la casa
-[01:49:12] [Async Chat Thread - #43/INFO]: [Not Secure] <XxMatos15> 0tienes cuerda
-[01:49:16] [Async Chat Thread - #43/INFO]: [Not Secure] <XxMatos15> qiero ese caballo
-[01:50:58] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[01:50:58] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[01:52:25] [Async Chat Thread - #44/INFO]: [Not Secure] <XxMatos15> qeora vienen
-[01:52:30] [Async Chat Thread - #44/INFO]: [Not Secure] <Churrupakin> s murieron los aldeannos
-[01:52:35] [Async Chat Thread - #44/INFO]: [Not Secure] <Churrupakin> no hay por eso crep
-[01:52:43] [Async Chat Thread - #44/INFO]: [Not Secure] <XxMatos15> q nuv
-[01:53:00] [Async Chat Thread - #44/INFO]: [Not Secure] <Churrupakin> tienes el efecto?
-[01:53:03] [Async Chat Thread - #44/INFO]: [Not Secure] <XxMatos15> si
-[01:53:15] [Async Chat Thread - #44/INFO]: [Not Secure] <Churrupakin> no lo lleves para la cas
-[01:53:25] [Async Chat Thread - #46/INFO]: [Not Secure] <Churrupakin> ven toma leche para q se te pase
-[01:53:38] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[01:53:38] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[01:54:50] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[01:54:50] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[01:56:18] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[01:56:18] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[01:58:26] [Async Chat Thread - #48/INFO]: [Not Secure] <XxMatos15> almrd
-[01:58:28] [Async Chat Thread - #48/INFO]: [Not Secure] <XxMatos15> 1 hora dura
-[01:59:26] [Server thread/INFO]: XxMatos15 has made the advancement [Tactical Fishing]
-[02:00:30] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[02:00:30] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[02:02:04] [Server thread/INFO]: Churrupakin issued server command: /tp XxMatos15
-[02:02:04] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to XxMatos15]
-[02:02:11] [Async Chat Thread - #49/INFO]: [Not Secure] <Churrupakin> oma
-[02:02:22] [Async Chat Thread - #49/INFO]: [Not Secure] <Churrupakin> tomalo
-[02:02:27] [Async Chat Thread - #49/INFO]: [Not Secure] <XxMatos15> ya
-[02:02:27] [Async Chat Thread - #50/INFO]: [Not Secure] <Churrupakin> pasa el cubo
-[02:19:43] [Async Chat Thread - #51/INFO]: [Not Secure] <XxMatos15> VOA COMER
-[02:19:47] [Async Chat Thread - #51/INFO]: [Not Secure] <Churrupakin> ok
-[02:19:48] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
-[02:19:48] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
-[02:19:48] [Server thread/INFO]: XxMatos15 left the game
-[03:08:09] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[03:08:09] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[03:08:09] [Server thread/INFO]: Churrupakin left the game
-[03:08:24] [Server thread/INFO]: Stopping the server
-[03:08:24] [Server thread/INFO]: Stopping server
-[03:08:24] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
-[03:08:24] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[03:08:24] [Server thread/INFO]: Saving players
-[03:08:24] [Server thread/INFO]: Saving worlds
-[03:08:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:08:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:08:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:08:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:08:24] [Server thread/INFO]: [ChunkHolderManager] Saved 18 block chunks, 236 entity chunks, 3 poi chunks in world 'world' in 0.07s
-[03:08:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:08:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:08:24] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:08:24] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:08:24] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:08:24] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 77 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
-[03:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:08:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:08:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:08:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:08:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:08:25] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[03:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:08:25] [Server thread/INFO]: Flushing Chunk IO
-[03:08:25] [Server thread/INFO]: Closing Thread Pool
-[03:08:25] [Server thread/INFO]: Closing Server
+[04:48:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[04:48:33] [Server thread/INFO]: Default game type: SURVIVAL
+[04:48:33] [Server thread/INFO]: Generating keypair
+[04:48:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:48:34] [Server thread/INFO]: Using epoll channel type
+[04:48:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:48:34] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:48:34] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[04:48:34] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
+[04:48:34] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:48:34] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[04:48:36] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[04:48:37] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[04:48:38] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:48:38] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[04:48:38] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[04:48:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:48:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:48:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:48:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:48:38] [Server thread/INFO]: Preparing level "world"
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:48:38] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:48:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:48:41] [Server thread/INFO]: Time elapsed: 899 ms
+[04:48:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:48:41] [Server thread/INFO]: Time elapsed: 191 ms
+[04:48:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:48:41] [Server thread/INFO]: Time elapsed: 227 ms
+[04:48:41] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[04:48:41] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[04:48:41] [Server thread/INFO]: [voicechat] Compatibility version 18
+[04:48:42] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[04:48:43] [Server thread/INFO]: Running delayed init tasks
+[04:48:43] [Server thread/INFO]: Done (13.393s)! For help, type "help"
+[04:48:43] [Server thread/INFO]: Timings Reset
+[04:48:43] [Server thread/INFO]: [voicechat] Loading plugins
+[04:48:43] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[04:48:43] [Server thread/INFO]: [voicechat] Initializing plugins
+[04:48:43] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[04:48:43] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[04:48:43] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[04:48:44] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[04:48:45] [Server thread/INFO]: Churrupakin joined the game
+[04:48:45] [Server thread/INFO]: Churrupakin[/172.28.161.65:50853] logged in with entity id 1 at ([world]196.59818581725114, 64.0, 73.48645876459177)
+[04:48:48] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[04:48:48] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[04:48:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[04:48:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[04:48:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[04:48:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[04:48:51] [User Authenticator #0/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
+[04:48:51] [Server thread/INFO]: XxMatos15 joined the game
+[04:48:51] [Server thread/INFO]: XxMatos15[/172.28.131.63:53051] logged in with entity id 38 at ([world]136.3688418314409, 63.0, 107.32239889324792)
