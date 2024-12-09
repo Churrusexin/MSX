@@ -132,3 +132,27 @@
 [00:43:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [00:43:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
 [00:44:13] [Server thread/WARN]: SKrampusPEcausa moved too quickly! -14.060836727476001,1.0,2.788130623118583
+[00:53:37] [Async Chat Thread - #8/INFO]: [Not Secure] <Churrupakin> voa comer
+[00:53:40] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[00:53:40] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[00:53:40] [Server thread/INFO]: Churrupakin left the game
+[00:53:47] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> tan temprano
+[00:53:56] [Async Chat Thread - #8/INFO]: [Not Secure] <SKrampusPEcausa> ptmr
+[00:54:03] [Async Chat Thread - #9/INFO]: [Not Secure] <SKrampusPEcausa> le hiba pedir tp xd
+[00:54:14] [Async Chat Thread - #8/INFO]: [Not Secure] <XxMatos15> X
+[00:54:16] [Async Chat Thread - #9/INFO]: [Not Secure] <XxMatos15> d
+[00:54:19] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:54:19] [Server thread/INFO]: Churrupakin joined the game
+[00:54:19] [Server thread/INFO]: Churrupakin[/172.28.161.65:53564] logged in with entity id 10319 at ([world]186.2101938561955, 63.0, 77.69507839190808)
+[00:54:19] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[00:54:19] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[00:54:19] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:54:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:54:20] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[00:54:27] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa Churrupakin
+[00:54:27] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to Churrupakin]
+[00:54:30] [Async Chat Thread - #9/INFO]: [Not Secure] <Churrupakin> ahi ta tu tp
+[00:54:35] [Async Chat Thread - #9/INFO]: [Not Secure] <SKrampusPEcausa> chevere
+[00:54:37] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[00:54:37] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[00:54:37] [Server thread/INFO]: Churrupakin left the game
