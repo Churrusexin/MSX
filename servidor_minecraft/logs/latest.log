@@ -73,3 +73,30 @@
 [04:48:51] [User Authenticator #0/INFO]: UUID of player XxMatos15 is 2a9ff858-04dc-3136-97df-619a6316d09a
 [04:48:51] [Server thread/INFO]: XxMatos15 joined the game
 [04:48:51] [Server thread/INFO]: XxMatos15[/172.28.131.63:53051] logged in with entity id 38 at ([world]136.3688418314409, 63.0, 107.32239889324792)
+[05:00:34] [Server thread/INFO]: XxMatos15 issued server command: /skin timbavk
+[05:00:35] [Thread-20/WARN]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[05:00:35] [Thread-20/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[05:00:35] [Thread-20/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetShort(SkinCommand.java:153)
+[05:00:35] [Thread-20/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[05:00:35] [Thread-20/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[05:00:35] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[05:00:35] [Thread-20/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[05:00:35] [Thread-20/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[05:00:35] [Thread-20/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[05:06:23] [Server thread/INFO]: XxMatos15 was shot by Skeleton
