@@ -226,3 +226,71 @@
 [01:11:27] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> no hay nd
 [01:11:31] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> vente a 144 456
 [01:11:32] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> 118.686
+[01:12:00] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> 148 74
+[01:12:31] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> matalo
+[01:12:42] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> DON TAS ANGEL
+[01:12:49] [Async Chat Thread - #16/INFO]: [Not Secure] <SKrampusPEcausa> escondido
+[01:12:52] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> salte
+[01:12:56] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> vamo a matal
+[01:13:00] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> tengo como 10 zombis arriba xd
+[01:13:09] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> tienen comida?
+[01:13:12] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> correte pe
+[01:13:16] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> trai comida
+[01:13:17] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> si
+[01:13:18] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> no tengo nd
+[01:13:24] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> no teng
+[01:14:00] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> comida pe
+[01:14:37] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> van
+[01:14:47] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> voa ser mi grnja de totems
+[01:15:09] [Async Chat Thread - #15/INFO]: [Not Secure] <Churrupakin> pasen comida
+[01:15:15] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> donde chch esta
+[01:15:26] [Async Chat Thread - #16/INFO]: [Not Secure] <Churrupakin> despawneo tu wbda
+[01:15:31] [Async Chat Thread - #16/INFO]: [Not Secure] <SKrampusPEcausa> xd
+[01:15:36] [Async Chat Thread - #15/INFO]: [Not Secure] <SKrampusPEcausa> te dije chifa
+[01:15:47] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> tu p
+[01:15:49] [Async Chat Thread - #15/INFO]: [Not Secure] <XxMatos15> te estcondes
+[01:16:03] [Async Chat Thread - #16/INFO]: [Not Secure] <XxMatos15> que respawne otro
+[01:18:56] [Server thread/INFO]: XxMatos15 issued server command: /skin Peru
+[01:18:57] [Thread-20/WARN]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[01:18:57] [Thread-20/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[01:18:57] [Thread-20/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetShort(SkinCommand.java:153)
+[01:18:57] [Thread-20/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[01:18:57] [Thread-20/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[01:18:57] [Thread-20/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[01:18:57] [Thread-20/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[01:18:57] [Thread-20/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[01:18:57] [Thread-20/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[01:19:08] [Server thread/INFO]: XxMatos15 issued server command: /skin EEUU
+[01:19:16] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Ol' Betsy]
+[01:20:27] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> o chifon
+[01:20:36] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> q rica skin
+[01:20:42] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> xd
+[01:20:50] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> no sale esa wbd
+[01:21:01] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> era q lo mates
+[01:21:23] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> no se traia a la aldea?
+[01:21:24] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> xd
+[01:21:28] [Async Chat Thread - #18/INFO]: [Not Secure] <SKrampusPEcausa> pasen comida
+[01:21:29] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> no wbn
+[01:21:34] [Async Chat Thread - #18/INFO]: [Not Secure] <XxMatos15> XD
+[01:21:37] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> tmre
+[01:21:40] [Async Chat Thread - #17/INFO]: [Not Secure] <Churrupakin> se mata y te da la malcion x 1 hora
+[01:21:48] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> y te acercas a una aldea
+[01:21:49] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> de ay viene ese toro gris
+[01:22:03] [Async Chat Thread - #18/INFO]: [Not Secure] <Churrupakin> marlylu p
+[01:22:12] [Async Chat Thread - #17/INFO]: [Not Secure] <XxMatos15> yrz

@@ -663,6 +663,7 @@
       "bread": "2024-12-07 03:22:35 +0000",
       "rotten_flesh": "2024-12-07 19:38:16 +0000",
       "golden_carrot": "2024-12-07 03:56:39 +0000",
+      "cooked_rabbit": "2024-12-09 01:20:58 +0000",
       "cooked_salmon": "2024-12-07 20:30:54 +0000",
       "carrot": "2024-12-07 19:44:02 +0000"
     },
@@ -2511,9 +2512,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-09 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-09 01:20:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-09 00:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-09 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-09 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-09 01:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-12-09 01:20:55 +0000"
     },
     "done": true
   },
