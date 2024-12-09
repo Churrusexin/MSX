@@ -510,6 +510,7 @@
       "minecraft:pillager": "2024-12-07 19:51:54 +0000",
       "minecraft:skeleton": "2024-12-07 04:11:58 +0000",
       "minecraft:vindicator": "2024-12-09 01:42:44 +0000",
+      "minecraft:magma_cube": "2024-12-09 05:29:28 +0000",
       "minecraft:spider": "2024-12-07 04:11:51 +0000",
       "minecraft:creeper": "2024-12-07 17:35:27 +0000",
       "minecraft:evoker": "2024-12-09 01:45:02 +0000",
@@ -1474,6 +1475,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-09 05:29:48 +0000",
       "minecraft:nether_wastes": "2024-12-07 04:54:48 +0000"
     },
     "done": false
