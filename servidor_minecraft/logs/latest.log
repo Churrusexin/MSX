@@ -374,3 +374,34 @@
 [01:32:11] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
 [01:32:11] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
 [01:32:19] [Server thread/INFO]: Villager EntityVillager['Villager'/17270, uuid='31e309d3-bd00-4b68-8554-f97e349178da', l='ServerLevel[world]', x=299.22, y=66.30, z=697.81, cpos=[18, 43], tl=6015, v=true] died, message: 'Villager was slain by Vindicator'
+[01:33:38] [Async Chat Thread - #26/INFO]: [Not Secure] <Churrupakin> aca
+[01:34:16] [Server thread/INFO]: Villager EntityVillager['Cleric'/19550, uuid='e9fdb767-200f-4b65-975e-862477cf5be8', l='ServerLevel[world]', x=338.51, y=74.00, z=633.03, cpos=[21, 39], tl=8192, v=true] died, message: 'Cleric was slain by Vindicator'
+[01:34:35] [Server thread/INFO]: SKrampusPEcausa was blown up by Creeper
+[01:34:48] [Async Chat Thread - #28/INFO]: [Not Secure] <Churrupakin> MANO
+[01:34:51] [Async Chat Thread - #30/INFO]: [Not Secure] <Churrupakin> OVEJA ROSA
+[01:35:11] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> tanto pega esa mrd
+[01:35:24] [Async Chat Thread - #29/INFO]: [Not Secure] <Churrupakin> MARL
+[01:35:45] [Server thread/INFO]: SKrampusPEcausa was slain by Vindicator
+[01:36:23] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> MANO
+[01:36:28] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> TENGO A MARYL
+[01:36:32] [Async Chat Thread - #29/INFO]: [Not Secure] <SKrampusPEcausa> viene marilu
+[01:36:39] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> mete mods de ametralladora mano
+[01:37:03] [Async Chat Thread - #29/INFO]: [Not Secure] <Churrupakin> no se puede
+[01:37:09] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> el server es vanilla
+[01:37:17] [Async Chat Thread - #29/INFO]: [Not Secure] <Churrupakin> fuera fabric o forge seria a
+[01:37:30] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> XD
+[01:38:21] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> manos pasen cmida
+[01:38:49] [Server thread/INFO]: SKrampusPEcausa was slain by Vindicator
+[01:39:48] [Async Chat Thread - #32/INFO]: [Not Secure] <Churrupakin> mano
+[01:40:22] [Server thread/INFO]: SKrampusPEcausa was slain by Vindicator
+[01:41:53] [Server thread/INFO]: Villager EntityVillager['Villager'/17266, uuid='a87bf07c-3529-4c61-b584-d4f0584876e6', l='ServerLevel[world]', x=293.59, y=87.00, z=646.63, cpos=[18, 40], tl=24608, v=true] died, message: 'Villager was slain by Vindicator'
+[01:41:53] [Server thread/INFO]: SKrampusPEcausa was slain by Ravager
+[01:41:58] [Async Chat Thread - #34/INFO]: [Not Secure] <Churrupakin> jaajjajaas
+[01:42:11] [Server thread/INFO]: Villager EntityVillager['Mason'/19474, uuid='8726645f-946c-47f9-a945-af5e0fffabff', l='ServerLevel[world]', x=299.30, y=80.94, z=634.24, cpos=[18, 39], tl=17089, v=true] died, message: 'Mason was slain by Vindicator'
+[01:42:29] [Server thread/INFO]: Villager EntityVillager['Villager'/17265, uuid='bcec969b-b7c9-416a-a53b-0b635480fd65', l='ServerLevel[world]', x=280.76, y=88.56, z=646.54, cpos=[17, 40], tl=24426, v=true] died, message: 'Villager was slain by Vindicator'
+[01:42:29] [Server thread/INFO]: Villager EntityVillager['Farmer'/17269, uuid='56199530-016a-41e5-88e3-bb2bacab8abf', l='ServerLevel[world]', x=281.70, y=88.19, z=646.35, cpos=[17, 40], tl=22917, v=true] died, message: 'Farmer was slain by Vindicator'
+[01:42:32] [Server thread/INFO]: Churrupakin was slain by Vindicator
+[01:42:41] [Server thread/INFO]: Churrupakin issued server command: /tp Churrupakin SKrampusPEcausa
+[01:42:41] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to SKrampusPEcausa]
+[01:42:41] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/17263, uuid='978f7449-9913-4106-a923-60f2dd7d99d6', l='ServerLevel[world]', x=296.21, y=78.60, z=606.24, cpos=[18, 37], tl=22928, v=true] died, message: 'Weaponsmith was slain by Vindicator'
+[01:42:44] [Server thread/INFO]: XxMatos15 has made the advancement [Voluntary Exile]

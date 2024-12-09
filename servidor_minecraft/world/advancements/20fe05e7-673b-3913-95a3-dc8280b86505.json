@@ -45,6 +45,7 @@
       "cooked_beef": "2024-12-07 03:48:42 +0000",
       "beef": "2024-12-07 03:08:03 +0000",
       "porkchop": "2024-12-07 03:08:58 +0000",
+      "mutton": "2024-12-09 01:33:00 +0000",
       "rotten_flesh": "2024-12-07 03:14:21 +0000",
       "cookie": "2024-12-08 22:46:50 +0000",
       "cooked_chicken": "2024-12-09 01:20:28 +0000"
@@ -609,6 +610,7 @@
       "minecraft:skeleton": "2024-12-07 03:38:25 +0000",
       "minecraft:spider": "2024-12-07 03:20:28 +0000",
       "minecraft:creeper": "2024-12-07 03:02:24 +0000",
+      "minecraft:witch": "2024-12-09 01:36:06 +0000",
       "minecraft:zombie": "2024-12-07 03:12:51 +0000"
     },
     "done": false
@@ -1747,15 +1749,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-09 01:19:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-09 01:23:08 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "shot_crossbow": "2024-12-09 01:19:15 +0000"
+      "voluntary_exile": "2024-12-09 01:30:25 +0000"
     },
     "done": true
   },
