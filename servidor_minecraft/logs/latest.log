@@ -127,3 +127,37 @@
 [21:16:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fda94c63-d427-37bf-89dc-8504ed7b7103
 [21:16:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fda94c63-d427-37bf-89dc-8504ed7b7103
 [21:16:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pingaparaangel (fda94c63-d427-37bf-89dc-8504ed7b7103) successfully connected to voice chat
+[21:20:02] [Async Chat Thread - #5/INFO]: [Not Secure] <pingaparaangel> yapaga el micro yaya cuando quieras habalr presionas v y le das a activar
+[21:20:26] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[21:20:26] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[21:20:26] [Server thread/INFO]: pingaparaangel left the game
+[21:20:58] [User Authenticator #3/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:20:58] [Server thread/INFO]: pingaparaangel joined the game
+[21:20:58] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49752] logged in with entity id 9298 at ([world]37.360139609158594, 86.0, 11.728189878982139)
+[21:20:58] [Server thread/INFO]: [voicechat] Received secret request of pingaparaangel (18)
+[21:20:58] [Server thread/INFO]: [voicechat] Sent secret to pingaparaangel
+[21:20:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:21:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:21:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pingaparaangel (fda94c63-d427-37bf-89dc-8504ed7b7103) successfully connected to voice chat
+[21:23:32] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[21:23:32] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[21:23:32] [Server thread/INFO]: pingaparaangel left the game
+[21:26:10] [Server thread/INFO]: SKrampusPEcausa burned to death
+[21:28:17] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
+[21:28:17] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[21:28:17] [Server thread/INFO]: SKrampusPEcausa left the game
+[21:28:19] [User Authenticator #4/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[21:28:19] [Server thread/INFO]: SKrampusPEcausa joined the game
+[21:28:19] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:59057] logged in with entity id 10651 at ([world_nether]71.85556107160497, 91.0, 1.9409941672445579)
+[21:28:30] [User Authenticator #4/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:28:30] [Server thread/INFO]: pingaparaangel joined the game
+[21:28:30] [Server thread/INFO]: pingaparaangel[/172.28.117.248:50217] logged in with entity id 10674 at ([world]-6.699999988079071, 82.0, 78.69999998807907)
+[21:28:31] [Server thread/INFO]: [voicechat] Received secret request of pingaparaangel (18)
+[21:28:31] [Server thread/INFO]: [voicechat] Sent secret to pingaparaangel
+[21:28:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:28:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:28:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pingaparaangel (fda94c63-d427-37bf-89dc-8504ed7b7103) successfully connected to voice chat
+[21:28:52] [Server thread/INFO]: SKrampusPEcausa fell from a high place
+[21:29:12] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[21:29:12] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[21:29:12] [Server thread/INFO]: pingaparaangel left the game
