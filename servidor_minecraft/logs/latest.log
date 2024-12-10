@@ -161,3 +161,26 @@
 [21:29:12] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
 [21:29:12] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
 [21:29:12] [Server thread/INFO]: pingaparaangel left the game
+[21:30:14] [Server thread/INFO]: SKrampusPEcausa fell from a high place
+[21:30:46] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:30:46] [Server thread/INFO]: Churrupakin joined the game
+[21:30:46] [Server thread/INFO]: Churrupakin[/172.28.161.65:63634] logged in with entity id 11274 at ([world]169.61826470254417, 63.0, 70.92500001192093)
+[21:30:48] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[21:30:48] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:30:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:30:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:30:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:35:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[21:35:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[21:35:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:35:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:35:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:35:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:38:21] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> mno duerme
+[21:38:31] [Async Chat Thread - #8/INFO]: [Not Secure] <SKrampusPEcausa> pera
+[21:38:33] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
+[21:38:33] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[21:38:33] [Server thread/INFO]: SKrampusPEcausa left the game
+[21:38:55] [User Authenticator #6/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[21:38:55] [Server thread/INFO]: SKrampusPEcausa joined the game
+[21:38:55] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:59616] logged in with entity id 12821 at ([world]223.69999998807907, 46.0, 70.30000001192093)
