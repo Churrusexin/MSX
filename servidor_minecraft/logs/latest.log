@@ -119,3 +119,11 @@
 [21:05:20] [Server thread/WARN]: SKrampusPEcausa moved too quickly! -12.131453883292153,-0.25805609425616893,-9.107017493586774
 [21:06:30] [Server thread/WARN]: SKrampusPEcausa moved too quickly! 15.10119451000699,1.0,2.8742249881552553
 [21:07:34] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Ice Bucket Challenge]
+[21:15:59] [User Authenticator #2/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:16:00] [Server thread/INFO]: pingaparaangel joined the game
+[21:16:00] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49451] logged in with entity id 8181 at ([world]4.5, 108.0, 8.5)
+[21:16:01] [Server thread/INFO]: [voicechat] Received secret request of pingaparaangel (18)
+[21:16:01] [Server thread/INFO]: [voicechat] Sent secret to pingaparaangel
+[21:16:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:16:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:16:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pingaparaangel (fda94c63-d427-37bf-89dc-8504ed7b7103) successfully connected to voice chat
