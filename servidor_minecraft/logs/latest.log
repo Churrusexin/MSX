@@ -184,3 +184,7 @@
 [21:38:55] [User Authenticator #6/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
 [21:38:55] [Server thread/INFO]: SKrampusPEcausa joined the game
 [21:38:55] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:59616] logged in with entity id 12821 at ([world]223.69999998807907, 46.0, 70.30000001192093)
+[21:41:53] [Server thread/WARN]: Churrupakin moved too quickly! -6.4027417621390725,-3.0,7.2555581079875395
+[21:43:33] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[21:43:33] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[21:43:33] [Server thread/INFO]: Churrupakin left the game
