@@ -188,3 +188,11 @@
 [21:43:33] [Server thread/INFO]: Churrupakin lost connection: Disconnected
 [21:43:33] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
 [21:43:33] [Server thread/INFO]: Churrupakin left the game
+[22:07:08] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
+[22:07:08] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
+[22:07:08] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[22:07:08] [Server thread/INFO]: SKrampusPEcausa left the game
+[22:07:29] [User Authenticator #7/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[22:07:29] [Server thread/INFO]: SKrampusPEcausa joined the game
+[22:07:29] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:61201] logged in with entity id 17006 at ([world_nether]76.89808051956139, 60.0, -16.333711095558364)
+[22:07:45] [Server thread/WARN]: SKrampusPEcausa moved too quickly! 25.360134987003704,-1.1767592750642422,1.4143209865691686
