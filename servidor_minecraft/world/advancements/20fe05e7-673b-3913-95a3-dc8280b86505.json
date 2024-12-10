@@ -48,7 +48,8 @@
       "mutton": "2024-12-09 01:33:00 +0000",
       "rotten_flesh": "2024-12-07 03:14:21 +0000",
       "cookie": "2024-12-08 22:46:50 +0000",
-      "cooked_chicken": "2024-12-09 01:20:28 +0000"
+      "cooked_chicken": "2024-12-09 01:20:28 +0000",
+      "carrot": "2024-12-10 21:02:22 +0000"
     },
     "done": false
   },
@@ -1774,12 +1775,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2024-12-10 20:55:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
       "has_white_terracotta": "2024-12-10 20:52:19 +0000"
@@ -1792,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-10 20:55:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2024-12-10 20:55:39 +0000"
@@ -1801,6 +1802,18 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-12-10 20:55:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-10 21:07:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-10 21:07:34 +0000"
     },
     "done": true
   },
