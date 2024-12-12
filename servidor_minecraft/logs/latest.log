@@ -81,3 +81,44 @@
 [20:55:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [20:55:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [20:55:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:01:28] [User Authenticator #2/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:01:28] [Server thread/INFO]: pingaparaangel joined the game
+[21:01:28] [Server thread/INFO]: pingaparaangel[/172.28.117.248:51906] logged in with entity id 1914 at ([world]-5.300000011920929, 82.0, 78.47379963499372)
+[21:01:29] [Server thread/INFO]: [voicechat] Received secret request of pingaparaangel (18)
+[21:01:29] [Server thread/INFO]: [voicechat] Sent secret to pingaparaangel
+[21:01:30] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:01:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fda94c63-d427-37bf-89dc-8504ed7b7103
+[21:01:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pingaparaangel (fda94c63-d427-37bf-89dc-8504ed7b7103) successfully connected to voice chat
+[21:02:48] [Server thread/INFO]: Churrupakin issued server command: /tp pingaparaangel
+[21:02:48] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to pingaparaangel]
+[21:04:04] [Server thread/WARN]: Churrupakin moved too quickly! 7.023493719568194,-6.166109260938214,3.808729520322494
+[21:05:34] [Server thread/INFO]: pingaparaangel has made the advancement [Suit Up]
+[21:06:40] [Server thread/INFO]: pingaparaangel has made the advancement [Sweet Dreams]
+[21:07:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[21:07:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[21:07:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:07:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:07:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:07:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:07:34] [User Authenticator #3/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:07:34] [Server thread/INFO]: Churrupakin lost connection: You logged in from another location
+[21:07:34] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[21:07:34] [Server thread/INFO]: Churrupakin left the game
+[21:07:34] [Server thread/INFO]: Churrupakin joined the game
+[21:07:34] [Server thread/INFO]: Churrupakin[/172.28.161.65:54084] logged in with entity id 3084 at ([world]140.92761656247876, 64.0, 108.68674214813998)
+[21:07:35] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[21:07:35] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:07:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:07:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:07:37] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:07:54] [Server thread/INFO]: pingaparaangel has made the advancement [Diamonds!]
+[21:08:25] [Server thread/INFO]: pingaparaangel has made the advancement [Stone Age]
+[21:08:26] [User Authenticator #3/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[21:08:26] [Server thread/INFO]: SKrampusPEcausa joined the game
+[21:08:26] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:62534] logged in with entity id 3205 at ([world]171.24223135387703, 63.0, 77.78196615613845)
+[21:08:52] [Async Chat Thread - #0/INFO]: [Not Secure] <pingaparaangel> duerman pedazos de giles
+[21:09:14] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> duerme p
+[21:09:24] [Async Chat Thread - #0/INFO]: [Not Secure] <pingaparaangel> hace rato
+[21:09:30] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
+[21:09:30] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[21:09:30] [Server thread/INFO]: SKrampusPEcausa left the game
