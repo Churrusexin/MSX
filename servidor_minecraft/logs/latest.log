@@ -138,3 +138,35 @@
 [22:08:29] [Server thread/INFO]: Churrupakin issued server command: /plugins
 [22:12:00] [Server thread/INFO]: pingaparaangel fell from a high place
 [22:13:25] [Server thread/INFO]: XxMatos15 drowned
+[22:19:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[22:19:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[22:19:28] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:19:49] [Server thread/INFO]: Churrupakin lost connection: Timed out
+[22:19:49] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[22:19:49] [Server thread/INFO]: Churrupakin left the game
+[22:19:51] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:19:51] [Server thread/INFO]: Churrupakin joined the game
+[22:19:51] [Server thread/INFO]: Churrupakin[/172.28.161.65:51809] logged in with entity id 8229 at ([world]138.5, 63.0, 102.5)
+[22:19:51] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[22:19:51] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:19:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:19:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:19:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[22:19:59] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> duerman p
+[22:20:07] [Async Chat Thread - #8/INFO]: [Not Secure] <Churrupakin> s m van los rodrigos
+[22:20:21] [Async Chat Thread - #7/INFO]: [Not Secure] <pingaparaangel> XDDDDD
+[22:20:44] [Async Chat Thread - #8/INFO]: [Not Secure] <pingaparaangel> quieren ir a mendigar comida
+[22:20:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[22:20:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[22:20:50] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:20:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:20:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:20:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[22:21:14] [Server thread/INFO]: XxMatos15 was shot by Skeleton
+[22:21:34] [Server thread/INFO]: XxMatos15 fell from a high place
+[22:21:44] [Async Chat Thread - #9/INFO]: [Not Secure] <Churrupakin> duerman perras
+[22:21:58] [Async Chat Thread - #10/INFO]: [Not Secure] <XxMatos15> perdi a mi angel ptmre
+[22:22:05] [Async Chat Thread - #9/INFO]: [Not Secure] <Churrupakin> XDDDDDD
+[22:22:24] [Async Chat Thread - #10/INFO]: [Not Secure] <XxMatos15> duerme
+[22:22:25] [Async Chat Thread - #10/INFO]: [Not Secure] <pingaparaangel> xdd
+[22:25:01] [Server thread/INFO]: XxMatos15 issued server command: /skin boyd
