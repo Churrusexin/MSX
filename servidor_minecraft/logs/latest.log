@@ -1,236 +1,83 @@
-[20:38:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:38:26] [ServerMain/INFO]: Loaded 7 recipes
-[20:38:26] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[20:38:26] [Server thread/INFO]: Loading properties
-[20:38:27] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[20:38:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:38:28] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:38:28] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[20:49:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20:49:56] [ServerMain/INFO]: Loaded 7 recipes
+[20:49:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[20:49:58] [Server thread/INFO]: Loading properties
+[20:49:58] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[20:50:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:50:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:50:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[20:38:28] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[20:38:29] [Server thread/INFO]: Default game type: SURVIVAL
-[20:38:29] [Server thread/INFO]: Generating keypair
-[20:38:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:38:29] [Server thread/INFO]: Using epoll channel type
-[20:38:29] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[20:38:29] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[20:38:29] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[20:38:29] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
-[20:38:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:38:29] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
-[20:38:30] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[20:38:31] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[20:38:32] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[20:38:32] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[20:38:32] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[20:38:32] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:38:32] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:38:32] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:38:32] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:38:32] [Server thread/INFO]: Preparing level "world"
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[20:38:32] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[20:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:38:33] [Server thread/INFO]: Time elapsed: 537 ms
-[20:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:38:33] [Server thread/INFO]: Time elapsed: 173 ms
-[20:38:33] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:38:34] [Server thread/INFO]: Time elapsed: 148 ms
-[20:38:34] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[20:38:34] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[20:38:34] [Server thread/INFO]: [voicechat] Compatibility version 18
-[20:38:34] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[20:38:34] [Server thread/INFO]: Running delayed init tasks
-[20:38:34] [Server thread/INFO]: Done (7.851s)! For help, type "help"
-[20:38:34] [Server thread/INFO]: Timings Reset
-[20:38:34] [Server thread/INFO]: [voicechat] Loading plugins
-[20:38:34] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[20:38:34] [Server thread/INFO]: [voicechat] Initializing plugins
-[20:38:34] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[20:38:34] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20:38:34] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[20:39:06] [User Authenticator #0/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[20:39:06] [Server thread/INFO]: SKrampusPEcausa joined the game
-[20:39:06] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:56491] logged in with entity id 261 at ([world]299.46885961107984, 79.0, 620.8035029173132)
-[20:39:20] [Server thread/INFO]: [Not Secure] * Server no rompas nd de mi granja p
-[20:40:07] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> pasa cords de la base
-[20:40:14] [Async Chat Thread - #1/INFO]: [Not Secure] <SKrampusPEcausa> ando en la aldea xd
-[20:42:39] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Best Friends Forever]
-[20:45:02] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -15.645383345961193,0.0,12.682517558321706
-[20:45:02] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -15.93567736548107,0.0,13.108751624148795
-[20:45:02] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -16.225964295708593,0.0,13.534991045942206
-[20:45:02] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -16.516247432597083,0.0,13.961233333606401
-[20:45:02] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -16.8065285397455,0.0,14.387477154740964
-[20:45:02] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -17.096808560820477,0.0,14.813721796404934
-[20:45:02] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -17.387600525210416,0.0,15.239616853099733
-[20:45:02] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -17.680217412654883,0.0,15.664253745768633
-[20:45:03] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! 22.196432364438067,-1.0,-28.469563978032625
-[20:45:03] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -17.369662651629824,1.0,22.424725432511195
-[20:45:03] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 16.22329646527055
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -18.013216558961233,1.0,23.23071955481737
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -18.33499351044685,1.0,23.63371661818769
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 25.763933012857507
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -18.973807897249003,0.9231679985046384,24.44342574377083
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -19.15818231728133,0.7725465413369932,24.679955964567853
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -19.33707202238014,0.5510576895623984,24.910014855607642
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -19.511070458560255,0.26150779068264285,25.134302614603598
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -19.680706860992927,-0.0625,25.353443677894575
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -19.976634530389845,0.0,25.74008601848493
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -20.279625447470494,0.0,26.138182960833433
-[20:45:04] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved too quickly! -20.58639576756076,-0.0625,26.542409032202613
-[20:47:44] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.34733586769982594
-[20:47:44] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.7709252870399723
-[20:47:45] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 1.1986270307337463
-[20:47:45] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 1.6285291971981906
-[20:49:54] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.30590065658157073
-[20:49:54] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.6373583282181698
-[20:49:54] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.9633612728666776
-[20:49:54] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 1.285958043432288
-[20:49:54] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.6067322381579174
-[20:51:16] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.3295610639472244
-[20:51:16] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.293170194229198
-[20:51:16] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.2532801971235301
-[20:51:16] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.7106315869760707
-[20:51:16] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.28296618073832036
-[20:51:16] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.2702060261327663
-[20:51:16] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 0.7856543365565967
-[20:51:16] [Server thread/WARN]: Horse (vehicle of SKrampusPEcausa) moved wrongly! 1.3012132747647174
-[20:55:39] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Hidden in the Depths]
-[20:57:30] [Server thread/INFO]: [Not Secure] * Server 200 y -170 creo
-[20:57:48] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
-[20:57:48] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[20:57:48] [Server thread/INFO]: SKrampusPEcausa left the game
-[20:58:00] [User Authenticator #1/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[20:58:01] [Server thread/INFO]: SKrampusPEcausa joined the game
-[20:58:01] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:57389] logged in with entity id 5034 at ([world]142.48688520819107, 65.0, -45.15402519997093)
-[20:59:12] [Async Chat Thread - #3/INFO]: [Not Secure] <SKrampusPEcausa> ee
-[21:05:20] [Server thread/WARN]: SKrampusPEcausa moved too quickly! -12.131453883292153,-0.25805609425616893,-9.107017493586774
-[21:06:30] [Server thread/WARN]: SKrampusPEcausa moved too quickly! 15.10119451000699,1.0,2.8742249881552553
-[21:07:34] [Server thread/INFO]: SKrampusPEcausa has made the advancement [Ice Bucket Challenge]
-[21:15:59] [User Authenticator #2/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:16:00] [Server thread/INFO]: pingaparaangel joined the game
-[21:16:00] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49451] logged in with entity id 8181 at ([world]4.5, 108.0, 8.5)
-[21:16:01] [Server thread/INFO]: [voicechat] Received secret request of pingaparaangel (18)
-[21:16:01] [Server thread/INFO]: [voicechat] Sent secret to pingaparaangel
-[21:16:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:16:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:16:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pingaparaangel (fda94c63-d427-37bf-89dc-8504ed7b7103) successfully connected to voice chat
-[21:20:02] [Async Chat Thread - #5/INFO]: [Not Secure] <pingaparaangel> yapaga el micro yaya cuando quieras habalr presionas v y le das a activar
-[21:20:26] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[21:20:26] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[21:20:26] [Server thread/INFO]: pingaparaangel left the game
-[21:20:58] [User Authenticator #3/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:20:58] [Server thread/INFO]: pingaparaangel joined the game
-[21:20:58] [Server thread/INFO]: pingaparaangel[/172.28.117.248:49752] logged in with entity id 9298 at ([world]37.360139609158594, 86.0, 11.728189878982139)
-[21:20:58] [Server thread/INFO]: [voicechat] Received secret request of pingaparaangel (18)
-[21:20:58] [Server thread/INFO]: [voicechat] Sent secret to pingaparaangel
-[21:20:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:21:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:21:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pingaparaangel (fda94c63-d427-37bf-89dc-8504ed7b7103) successfully connected to voice chat
-[21:23:32] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[21:23:32] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[21:23:32] [Server thread/INFO]: pingaparaangel left the game
-[21:26:10] [Server thread/INFO]: SKrampusPEcausa burned to death
-[21:28:17] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[21:28:17] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[21:28:17] [Server thread/INFO]: SKrampusPEcausa left the game
-[21:28:19] [User Authenticator #4/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[21:28:19] [Server thread/INFO]: SKrampusPEcausa joined the game
-[21:28:19] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:59057] logged in with entity id 10651 at ([world_nether]71.85556107160497, 91.0, 1.9409941672445579)
-[21:28:30] [User Authenticator #4/INFO]: UUID of player pingaparaangel is fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:28:30] [Server thread/INFO]: pingaparaangel joined the game
-[21:28:30] [Server thread/INFO]: pingaparaangel[/172.28.117.248:50217] logged in with entity id 10674 at ([world]-6.699999988079071, 82.0, 78.69999998807907)
-[21:28:31] [Server thread/INFO]: [voicechat] Received secret request of pingaparaangel (18)
-[21:28:31] [Server thread/INFO]: [voicechat] Sent secret to pingaparaangel
-[21:28:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:28:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player fda94c63-d427-37bf-89dc-8504ed7b7103
-[21:28:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player pingaparaangel (fda94c63-d427-37bf-89dc-8504ed7b7103) successfully connected to voice chat
-[21:28:52] [Server thread/INFO]: SKrampusPEcausa fell from a high place
-[21:29:12] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
-[21:29:12] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
-[21:29:12] [Server thread/INFO]: pingaparaangel left the game
-[21:30:14] [Server thread/INFO]: SKrampusPEcausa fell from a high place
-[21:30:46] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:30:46] [Server thread/INFO]: Churrupakin joined the game
-[21:30:46] [Server thread/INFO]: Churrupakin[/172.28.161.65:63634] logged in with entity id 11274 at ([world]169.61826470254417, 63.0, 70.92500001192093)
-[21:30:48] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[21:30:48] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[21:30:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:30:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:30:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[21:35:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
-[21:35:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
-[21:35:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
-[21:35:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:35:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[21:35:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[21:38:21] [Async Chat Thread - #7/INFO]: [Not Secure] <Churrupakin> mno duerme
-[21:38:31] [Async Chat Thread - #8/INFO]: [Not Secure] <SKrampusPEcausa> pera
-[21:38:33] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
-[21:38:33] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[21:38:33] [Server thread/INFO]: SKrampusPEcausa left the game
-[21:38:55] [User Authenticator #6/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[21:38:55] [Server thread/INFO]: SKrampusPEcausa joined the game
-[21:38:55] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:59616] logged in with entity id 12821 at ([world]223.69999998807907, 46.0, 70.30000001192093)
-[21:41:53] [Server thread/WARN]: Churrupakin moved too quickly! -6.4027417621390725,-3.0,7.2555581079875395
-[21:43:33] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[21:43:33] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[21:43:33] [Server thread/INFO]: Churrupakin left the game
-[22:07:08] [Server thread/WARN]: SKrampusPEcausa was kicked for floating too long!
-[22:07:08] [Server thread/INFO]: SKrampusPEcausa lost connection: Flying is not enabled on this server
-[22:07:08] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[22:07:08] [Server thread/INFO]: SKrampusPEcausa left the game
-[22:07:29] [User Authenticator #7/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[22:07:29] [Server thread/INFO]: SKrampusPEcausa joined the game
-[22:07:29] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:61201] logged in with entity id 17006 at ([world_nether]76.89808051956139, 60.0, -16.333711095558364)
-[22:07:45] [Server thread/WARN]: SKrampusPEcausa moved too quickly! 25.360134987003704,-1.1767592750642422,1.4143209865691686
-[22:30:19] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
-[22:30:19] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[22:30:19] [Server thread/INFO]: SKrampusPEcausa left the game
-[22:30:21] [User Authenticator #8/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
-[22:30:21] [Server thread/INFO]: SKrampusPEcausa joined the game
-[22:30:21] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:62484] logged in with entity id 19711 at ([world_nether]55.86737660983328, 24.0, 27.685312465872418)
-[22:40:14] [Server thread/INFO]: SKrampusPEcausa has made the advancement [A Seedy Place]
-[22:46:45] [Server thread/INFO]: SKrampusPEcausa lost connection: Disconnected
-[22:46:45] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
-[22:46:45] [Server thread/INFO]: SKrampusPEcausa left the game
-[23:23:49] [Server thread/INFO]: Stopping the server
-[23:23:49] [Server thread/INFO]: Stopping server
-[23:23:49] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
-[23:23:49] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[23:23:49] [Server thread/INFO]: Saving players
-[23:23:49] [Server thread/INFO]: Saving worlds
-[23:23:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 183 entity chunks, 0 poi chunks in world 'world' in 0.05s
-[23:23:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:23:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Saved 187 block chunks, 125 entity chunks, 0 poi chunks in world 'world_nether' in 0.22s
-[23:23:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:23:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:23:49] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[23:23:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:23:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:23:49] [Server thread/INFO]: Flushing Chunk IO
-[23:23:49] [Server thread/INFO]: Closing Thread Pool
-[23:23:49] [Server thread/INFO]: Closing Server
+[20:50:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[20:50:02] [Server thread/INFO]: Default game type: SURVIVAL
+[20:50:02] [Server thread/INFO]: Generating keypair
+[20:50:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:50:03] [Server thread/INFO]: Using epoll channel type
+[20:50:03] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[20:50:03] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[20:50:03] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[20:50:03] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
+[20:50:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:50:03] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[20:50:04] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[20:50:05] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[20:50:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[20:50:06] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[20:50:06] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[20:50:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:50:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:50:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:50:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:50:06] [Server thread/INFO]: Preparing level "world"
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:50:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:50:07] [Server thread/INFO]: Time elapsed: 583 ms
+[20:50:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:50:08] [Server thread/INFO]: Time elapsed: 201 ms
+[20:50:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:50:08] [Server thread/INFO]: Time elapsed: 190 ms
+[20:50:08] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[20:50:08] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[20:50:08] [Server thread/INFO]: [voicechat] Compatibility version 18
+[20:50:08] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[20:50:08] [Server thread/INFO]: Running delayed init tasks
+[20:50:08] [Server thread/INFO]: Done (10.317s)! For help, type "help"
+[20:50:08] [Server thread/INFO]: Timings Reset
+[20:50:08] [Server thread/INFO]: [voicechat] Loading plugins
+[20:50:08] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[20:50:08] [Server thread/INFO]: [voicechat] Initializing plugins
+[20:50:08] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[20:50:08] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:50:08] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[20:53:09] [User Authenticator #0/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:53:09] [Server thread/INFO]: Churrupakin joined the game
+[20:53:09] [Server thread/INFO]: Churrupakin[/172.28.161.65:53315] logged in with entity id 267 at ([world]182.72983670459658, 64.0, 71.98196144130543)
+[20:53:12] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:53:12] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:53:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:53:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:53:16] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:54:57] [Server thread/WARN]: Churrupakin was kicked for floating too long!
+[20:54:57] [Server thread/INFO]: Churrupakin lost connection: Flying is not enabled on this server
+[20:54:57] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:54:57] [Server thread/INFO]: Churrupakin left the game
+[20:55:12] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:55:12] [Server thread/INFO]: Churrupakin joined the game
+[20:55:12] [Server thread/INFO]: Churrupakin[/172.28.161.65:53444] logged in with entity id 655 at ([world]155.66580966711257, 63.81005658050603, 74.39908285279898)
+[20:55:12] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:55:12] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:55:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:55:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:55:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
