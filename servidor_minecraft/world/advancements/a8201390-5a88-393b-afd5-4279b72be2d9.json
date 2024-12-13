@@ -541,6 +541,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-13 22:47:33 +0000",
+      "apple": "2024-12-13 23:45:47 +0000",
       "rotten_flesh": "2024-12-13 22:53:04 +0000",
       "cooked_salmon": "2024-12-13 22:58:09 +0000",
       "carrot": "2024-12-13 23:24:39 +0000"
@@ -997,6 +998,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2024-12-13 23:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-13 23:41:27 +0000"
     },
     "done": true
   },
