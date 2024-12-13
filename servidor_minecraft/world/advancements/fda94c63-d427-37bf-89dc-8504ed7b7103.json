@@ -1378,33 +1378,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_slab": {
-    "criteria": {
-      "has_planks": "2024-12-12 22:38:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_door": {
-    "criteria": {
-      "has_planks": "2024-12-12 22:38:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_fence_gate": {
-    "criteria": {
-      "has_planks": "2024-12-12 22:38:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-12 22:02:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-12 22:38:21 +0000"
     },
     "done": true
   },
@@ -1420,18 +1396,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-12-12 22:14:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-12 22:02:43 +0000"
@@ -1441,36 +1405,6 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2024-12-12 22:02:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dark_oak_button": {
-    "criteria": {
-      "has_planks": "2024-12-12 22:38:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-12-12 22:30:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-12 22:14:47 +0000"
     },
     "done": true
   },
@@ -1498,33 +1432,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-12 22:38:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dark_oak_sign": {
-    "criteria": {
-      "has_planks": "2024-12-12 22:38:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-12 22:02:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
     },
     "done": true
   },
@@ -1540,6 +1450,102 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-12 22:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-12 22:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-12 22:30:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-12 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-12 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-12 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-12 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-12 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-12 22:38:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-12 22:38:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-12 22:38:21 +0000"
@@ -1549,12 +1555,6 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-12 22:38:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2024-12-12 22:21:59 +0000"
     },
     "done": true
   },
