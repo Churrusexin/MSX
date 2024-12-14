@@ -294,3 +294,51 @@
 [02:22:41] [Server thread/INFO]: Proxe_ lost connection: Disconnected
 [02:22:41] [Server thread/INFO]: [voicechat] Disconnecting client Proxe_
 [02:22:41] [Server thread/INFO]: Proxe_ left the game
+[02:24:26] [User Authenticator #3/INFO]: UUID of player fran19 is 5b3621c2-4171-38fe-a537-50a73d395b45
+[02:24:26] [Server thread/INFO]: fran19 joined the game
+[02:24:26] [Server thread/INFO]: fran19[/172.28.159.154:61861] logged in with entity id 31249 at ([world]202.69999998807907, 79.0, 26.819845200886785)
+[02:24:46] [Async Chat Thread - #43/INFO]: [Not Secure] <Ram_Tz> te unes cuando cantaro se va
+[02:24:57] [Async Chat Thread - #43/INFO]: [Not Secure] <fran19> mejor p
+[02:25:14] [Async Chat Thread - #44/INFO]: [Not Secure] <Ram_Tz> donde estás
+[02:25:41] [Async Chat Thread - #44/INFO]: [Not Secure] <fran19> en la aldea
+[02:25:49] [Async Chat Thread - #44/INFO]: [Not Secure] <fran19> me compre un mouse
+[02:25:59] [Async Chat Thread - #44/INFO]: [Not Secure] <Ram_Tz> cual
+[02:27:29] [Async Chat Thread - #45/INFO]: [Not Secure] <Ram_Tz> te vas a hacer tu casa en el centro?
+[02:27:39] [Async Chat Thread - #47/INFO]: [Not Secure] <fran19> me compre un mouse para jugar mejor
+[02:28:05] [Async Chat Thread - #46/INFO]: [Not Secure] <Ram_Tz> toma
+[02:28:32] [Async Chat Thread - #47/INFO]: [Not Secure] <Ram_Tz> habla tu aplana
+[02:31:06] [Server thread/INFO]: [Not Secure] * Server voa cerrar el server para abrulo de mi lap
+[02:31:13] [Server thread/INFO]: [Not Secure] * Server ahora lo prendo
+[02:31:18] [Async Chat Thread - #48/INFO]: [Not Secure] <Ram_Tz> yaya
+[02:31:39] [Server thread/INFO]: Stopping the server
+[02:31:39] [Server thread/INFO]: Stopping server
+[02:31:39] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[02:31:39] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[02:31:39] [Server thread/INFO]: Saving players
+[02:31:39] [Server thread/INFO]: Ram_Tz lost connection: Server closed
+[02:31:39] [Server thread/INFO]: Ram_Tz left the game
+[02:31:39] [Server thread/INFO]: fran19 lost connection: Server closed
+[02:31:39] [Server thread/INFO]: fran19 left the game
+[02:31:39] [Server thread/INFO]: Saving worlds
+[02:31:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saved 34 block chunks, 289 entity chunks, 0 poi chunks in world 'world' in 0.09s
+[02:31:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:31:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saved 195 block chunks, 115 entity chunks, 0 poi chunks in world 'world_nether' in 0.21s
+[02:31:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:31:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[02:31:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:31:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:31:39] [Server thread/INFO]: Flushing Chunk IO
+[02:31:39] [Server thread/INFO]: Closing Thread Pool
+[02:31:39] [Server thread/INFO]: Closing Server
