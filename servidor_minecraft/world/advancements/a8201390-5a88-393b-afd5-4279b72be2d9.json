@@ -1019,5 +1019,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-13 23:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-13 23:58:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
