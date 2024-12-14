@@ -1,170 +1,66 @@
-[02:35:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:35:42] [ServerMain/INFO]: Loaded 7 recipes
-[02:35:43] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:35:43] [Server thread/INFO]: Loading properties
-[02:35:43] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[02:35:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:35:44] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:35:45] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[03:36:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:36:38] [ServerMain/INFO]: Loaded 7 recipes
+[03:36:39] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:36:39] [Server thread/INFO]: Loading properties
+[03:36:39] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[03:36:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:36:40] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:36:41] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[02:35:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[02:35:45] [Server thread/INFO]: Default game type: SURVIVAL
-[02:35:45] [Server thread/INFO]: Generating keypair
-[02:35:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:35:46] [Server thread/INFO]: Using epoll channel type
-[02:35:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:35:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:35:46] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[02:35:46] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
-[02:35:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:35:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
-[02:35:47] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[02:35:48] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[02:35:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:35:48] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[02:35:48] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[02:35:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:35:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:35:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:35:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:35:48] [Server thread/INFO]: Preparing level "world"
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:35:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:35:50] [Server thread/INFO]: Time elapsed: 394 ms
-[02:35:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:35:50] [Server thread/INFO]: Time elapsed: 171 ms
-[02:35:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:35:50] [Server thread/INFO]: Time elapsed: 129 ms
-[02:35:50] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[02:35:50] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[02:35:50] [Server thread/INFO]: [voicechat] Compatibility version 18
-[02:35:50] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[02:35:51] [Server thread/INFO]: Running delayed init tasks
-[02:35:51] [Server thread/INFO]: Done (7.393s)! For help, type "help"
-[02:35:51] [Server thread/INFO]: Timings Reset
-[02:35:51] [Server thread/INFO]: [voicechat] Loading plugins
-[02:35:51] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[02:35:51] [Server thread/INFO]: [voicechat] Initializing plugins
-[02:35:51] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[02:35:51] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[02:35:51] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[02:36:45] [User Authenticator #0/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
-[02:36:46] [Server thread/INFO]: Ram_Tz joined the game
-[02:36:46] [Server thread/INFO]: Ram_Tz[/172.28.72.140:54303] logged in with entity id 240 at ([world]196.95312785530155, 66.0, -162.7705357717353)
-[02:37:32] [Server thread/INFO]: Ram_Tz burned to death
-[02:38:05] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
-[02:38:05] [Server thread/INFO]: Churrupakin joined the game
-[02:38:05] [Server thread/INFO]: Churrupakin[/172.28.161.65:60564] logged in with entity id 511 at ([world]193.7414032562794, 63.0, 88.21514441733908)
-[02:38:08] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
-[02:38:08] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
-[02:38:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[02:38:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
-[02:38:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
-[02:55:15] [Server thread/INFO]: Ram_Tz has made the advancement [What a Deal!]
-[02:58:40] [User Authenticator #2/INFO]: UUID of player fran19 is 5b3621c2-4171-38fe-a537-50a73d395b45
-[02:58:40] [Server thread/INFO]: fran19 joined the game
-[02:58:40] [Server thread/INFO]: fran19[/172.28.159.154:63623] logged in with entity id 9655 at ([world]194.3042594304561, 65.9375, -154.38917929010103)
-[02:59:39] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> oe qn a cagado la casa de chifon xd
-[02:59:41] [Async Chat Thread - #1/INFO]: [Not Secure] <fran19> donde estas
-[02:59:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Ram_Tz> ya estaba así
-[03:00:03] [Async Chat Thread - #1/INFO]: [Not Secure] <fran19> oe donde estan
-[03:00:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Ram_Tz> yo en los aldean os
-[03:00:32] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> aldea
-[03:01:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Ram_Tz> malditoaldeano
-[03:01:54] [Async Chat Thread - #1/INFO]: [Not Secure] <Ram_Tz> duarme fran
-[03:02:07] [Async Chat Thread - #0/INFO]: [Not Secure] <fran19> estoy perdido
-[03:02:17] [Server thread/INFO]: Churrupakin issued server command: /tp fran19 Churrupakin
-[03:02:17] [Server thread/INFO]: [Churrupakin: Teleported fran19 to Churrupakin]
-[03:02:17] [Async Chat Thread - #1/INFO]: [Not Secure] <Ram_Tz> tdonde estas}
-[03:02:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Ram_Tz> si vale el pico ese con eficiencia III?
-[03:03:04] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> si agarralo
-[03:03:15] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> aca yo tengo xd
-[03:03:15] [Async Chat Thread - #0/INFO]: [Not Secure] <Ram_Tz> cuesta 30 pepepe
-[03:03:27] [Async Chat Thread - #1/INFO]: [Not Secure] <Ram_Tz> aea
-[03:03:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Ram_Tz> gracias
-[03:03:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> yo lo tengo a 5
-[03:03:51] [Async Chat Thread - #1/INFO]: [Not Secure] <fran19> mano como se hacen las herramientas
-[03:04:01] [Async Chat Thread - #1/INFO]: [Not Secure] <fran19> ayuden con los controles
-[03:04:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> machuca el libro
-[03:04:14] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> click derecho a la mesa
-[03:04:20] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> sale un libro verde
-[03:04:31] [Async Chat Thread - #1/INFO]: [Not Secure] <Churrupakin> le das ahi para q veas los crafteos
-[03:05:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Ram_Tz> 36 por una campana p
-[03:05:47] [Async Chat Thread - #1/INFO]: [Not Secure] <fran19> oe
-[03:05:56] [Async Chat Thread - #0/INFO]: [Not Secure] <fran19> d quien es su pico?
-[03:06:47] [Async Chat Thread - #1/INFO]: [Not Secure] <Ram_Tz> xd
-[03:06:58] [Async Chat Thread - #0/INFO]: [Not Secure] <fran19> oe tienen comida
-[03:07:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Ram_Tz> oe, fran, ayuda a aplanar, mientras pico piedrita
-[03:07:39] [Server thread/INFO]: Ram_Tz has made the advancement [Hidden in the Depths]
-[03:09:13] [Async Chat Thread - #2/INFO]: [Not Secure] <fran19> coomo se pone bloques
-[03:09:19] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> derecha
-[03:09:45] [Server thread/INFO]: fran19 has made the advancement [We Need to Go Deeper]
-[03:10:11] [Async Chat Thread - #2/INFO]: [Not Secure] <Ram_Tz> XD
-[03:10:29] [Async Chat Thread - #2/INFO]: [Not Secure] <fran19> wwtwwwy
-[03:10:42] [Async Chat Thread - #3/INFO]: [Not Secure] <Churrupakin> pasen oro
-[03:11:18] [Server thread/INFO]: fran19 has made the advancement [Stone Age]
-[03:12:57] [Async Chat Thread - #4/INFO]: [Not Secure] <Churrupakin> sabes donde es la casa de agel
-[03:14:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Ram_Tz> 31ESMERALDASSOYRICO
-[03:15:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Ram_Tz> vale la pena tener un pico con toque de seda?
-[03:16:02] [Async Chat Thread - #9/INFO]: [Not Secure] <Churrupakin> yo si lo tengo
-[03:18:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Ram_Tz> que fue con fran
-[03:22:25] [Server thread/INFO]: Villager EntityVillager['Librarian'/222, uuid='30293ce0-e561-41dd-879f-e681fa32c658', l='ServerLevel[world]', x=122.51, y=59.00, z=110.49, cpos=[7, 6], tl=381051, v=true] died, message: 'Librarian was slain by Zombie'
-[03:22:26] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
-[03:22:26] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
-[03:22:40] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
-[03:22:40] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
-[03:31:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> me jalo voa jugar fut
-[03:32:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Ram_Tz> a las 10?
-[03:32:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> voy a abrir el server desde mi pc
-[03:32:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Ram_Tz> xd
-[03:32:26] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> ahora lo apago
-[03:32:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> y entran
-[03:32:34] [Server thread/INFO]: Churrupakin lost connection: Disconnected
-[03:32:34] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
-[03:32:34] [Server thread/INFO]: Churrupakin left the game
-[03:32:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Ram_Tz> yaya
-[03:32:40] [Server thread/INFO]: Stopping the server
-[03:32:40] [Server thread/INFO]: Stopping server
-[03:32:40] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
-[03:32:40] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[03:32:40] [Server thread/INFO]: Saving players
-[03:32:40] [Server thread/INFO]: Ram_Tz lost connection: Server closed
-[03:32:40] [Server thread/INFO]: Ram_Tz left the game
-[03:32:40] [Server thread/INFO]: fran19 lost connection: Server closed
-[03:32:40] [Server thread/INFO]: fran19 left the game
-[03:32:41] [Server thread/INFO]: Saving worlds
-[03:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saved 56 block chunks, 387 entity chunks, 0 poi chunks in world 'world' in 0.18s
-[03:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saved 32 block chunks, 115 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
-[03:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[03:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03:32:41] [Server thread/INFO]: Flushing Chunk IO
-[03:32:41] [Server thread/INFO]: Closing Thread Pool
-[03:32:41] [Server thread/INFO]: Closing Server
+[03:36:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[03:36:41] [Server thread/INFO]: Default game type: SURVIVAL
+[03:36:41] [Server thread/INFO]: Generating keypair
+[03:36:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:36:42] [Server thread/INFO]: Using epoll channel type
+[03:36:42] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:36:42] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:36:42] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[03:36:42] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
+[03:36:42] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:36:42] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[03:36:43] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[03:36:44] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[03:36:45] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[03:36:45] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[03:36:45] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[03:36:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:36:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:36:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:36:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:36:45] [Server thread/INFO]: Preparing level "world"
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[03:36:45] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[03:36:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:36:46] [Server thread/INFO]: Time elapsed: 515 ms
+[03:36:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:36:47] [Server thread/INFO]: Time elapsed: 158 ms
+[03:36:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:36:47] [Server thread/INFO]: Time elapsed: 200 ms
+[03:36:47] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[03:36:47] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[03:36:47] [Server thread/INFO]: [voicechat] Compatibility version 18
+[03:36:47] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[03:36:47] [Server thread/INFO]: Running delayed init tasks
+[03:36:47] [Server thread/INFO]: Done (8.314s)! For help, type "help"
+[03:36:47] [Server thread/INFO]: Timings Reset
+[03:36:47] [Server thread/INFO]: [voicechat] Loading plugins
+[03:36:47] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[03:36:47] [Server thread/INFO]: [voicechat] Initializing plugins
+[03:36:47] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[03:36:47] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[03:36:48] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[03:37:01] [User Authenticator #0/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
+[03:37:01] [Server thread/INFO]: Ram_Tz joined the game
+[03:37:01] [Server thread/INFO]: Ram_Tz[/172.28.72.140:59725] logged in with entity id 231 at ([world]197.56732976996605, 66.5, -151.32651922796396)
