@@ -3011,6 +3011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-14 03:02:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz_from_blasting": {
     "criteria": {
       "has_nether_quartz_ore": "2024-12-14 02:45:08 +0000"
