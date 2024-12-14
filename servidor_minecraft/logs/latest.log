@@ -120,3 +120,9 @@
 [03:14:15] [Async Chat Thread - #6/INFO]: [Not Secure] <Ram_Tz> 31ESMERALDASSOYRICO
 [03:15:53] [Async Chat Thread - #8/INFO]: [Not Secure] <Ram_Tz> vale la pena tener un pico con toque de seda?
 [03:16:02] [Async Chat Thread - #9/INFO]: [Not Secure] <Churrupakin> yo si lo tengo
+[03:18:40] [Async Chat Thread - #10/INFO]: [Not Secure] <Ram_Tz> que fue con fran
+[03:22:25] [Server thread/INFO]: Villager EntityVillager['Librarian'/222, uuid='30293ce0-e561-41dd-879f-e681fa32c658', l='ServerLevel[world]', x=122.51, y=59.00, z=110.49, cpos=[7, 6], tl=381051, v=true] died, message: 'Librarian was slain by Zombie'
+[03:22:26] [Server thread/INFO]: Churrupakin issued server command: /gamemode creative
+[03:22:26] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
+[03:22:40] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
+[03:22:40] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
