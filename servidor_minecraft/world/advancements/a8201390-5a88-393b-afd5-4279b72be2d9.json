@@ -1146,9 +1146,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
     },
     "done": true
   },
@@ -1164,6 +1182,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:59:36 +0000"
@@ -1173,6 +1203,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-14 01:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
     },
     "done": true
   },
@@ -1197,6 +1233,24 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-14 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:11:45 +0000"
     },
     "done": true
   },

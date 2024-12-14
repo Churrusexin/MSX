@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2024-12-08 04:08:16 +0000",
+      "minecraft:cherry_grove": "2024-12-14 01:58:06 +0000",
       "minecraft:beach": "2024-12-07 03:24:07 +0000",
       "minecraft:river": "2024-12-07 03:26:02 +0000",
       "minecraft:stony_shore": "2024-12-07 03:25:01 +0000",
@@ -15,9 +16,11 @@
       "minecraft:dripstone_caves": "2024-12-08 04:10:16 +0000",
       "minecraft:snowy_taiga": "2024-12-08 04:09:04 +0000",
       "minecraft:forest": "2024-12-07 03:04:26 +0000",
+      "minecraft:ice_spikes": "2024-12-14 02:03:28 +0000",
       "minecraft:ocean": "2024-12-08 03:13:10 +0000",
       "minecraft:deep_dark": "2024-12-08 03:16:48 +0000",
       "minecraft:meadow": "2024-12-07 04:57:55 +0000",
+      "minecraft:windswept_gravelly_hills": "2024-12-14 02:02:51 +0000",
       "minecraft:plains": "2024-12-07 03:26:27 +0000"
     },
     "done": false
@@ -711,6 +714,7 @@
       "minecraft:cave_spider": "2024-12-08 04:31:19 +0000",
       "minecraft:piglin": "2024-12-07 05:14:55 +0000",
       "minecraft:enderman": "2024-12-07 05:12:00 +0000",
+      "minecraft:silverfish": "2024-12-14 02:07:43 +0000",
       "minecraft:endermite": "2024-12-14 00:27:06 +0000",
       "minecraft:zombie": "2024-12-07 03:38:06 +0000",
       "minecraft:drowned": "2024-12-07 03:26:11 +0000",
@@ -2406,6 +2410,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-14 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2024-12-14 02:07:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2024-12-14 01:11:20 +0000"
@@ -2430,9 +2446,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-14 02:01:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2024-12-14 01:49:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-14 02:01:55 +0000"
     },
     "done": true
   },
@@ -2469,6 +2497,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2024-12-14 01:11:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-14 02:01:56 +0000"
     },
     "done": true
   },
@@ -2541,6 +2575,18 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-14 01:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-12-14 02:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-14 02:01:55 +0000"
     },
     "done": true
   },
