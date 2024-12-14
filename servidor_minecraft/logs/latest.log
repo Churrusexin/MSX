@@ -126,3 +126,45 @@
 [03:22:26] [Server thread/INFO]: [Churrupakin: Set own game mode to Creative Mode]
 [03:22:40] [Server thread/INFO]: Churrupakin issued server command: /gamemode survival
 [03:22:40] [Server thread/INFO]: [Churrupakin: Set own game mode to Survival Mode]
+[03:31:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> me jalo voa jugar fut
+[03:32:10] [Async Chat Thread - #12/INFO]: [Not Secure] <Ram_Tz> a las 10?
+[03:32:13] [Async Chat Thread - #13/INFO]: [Not Secure] <Churrupakin> voy a abrir el server desde mi pc
+[03:32:19] [Async Chat Thread - #13/INFO]: [Not Secure] <Ram_Tz> xd
+[03:32:26] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> ahora lo apago
+[03:32:33] [Async Chat Thread - #12/INFO]: [Not Secure] <Churrupakin> y entran
+[03:32:34] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[03:32:34] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[03:32:34] [Server thread/INFO]: Churrupakin left the game
+[03:32:38] [Async Chat Thread - #12/INFO]: [Not Secure] <Ram_Tz> yaya
+[03:32:40] [Server thread/INFO]: Stopping the server
+[03:32:40] [Server thread/INFO]: Stopping server
+[03:32:40] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[03:32:40] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[03:32:40] [Server thread/INFO]: Saving players
+[03:32:40] [Server thread/INFO]: Ram_Tz lost connection: Server closed
+[03:32:40] [Server thread/INFO]: Ram_Tz left the game
+[03:32:40] [Server thread/INFO]: fran19 lost connection: Server closed
+[03:32:40] [Server thread/INFO]: fran19 left the game
+[03:32:41] [Server thread/INFO]: Saving worlds
+[03:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saved 56 block chunks, 387 entity chunks, 0 poi chunks in world 'world' in 0.18s
+[03:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saved 32 block chunks, 115 entity chunks, 0 poi chunks in world 'world_nether' in 0.10s
+[03:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:32:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:32:41] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[03:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:32:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:32:41] [Server thread/INFO]: Flushing Chunk IO
+[03:32:41] [Server thread/INFO]: Closing Thread Pool
+[03:32:41] [Server thread/INFO]: Closing Server
