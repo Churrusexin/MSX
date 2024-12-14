@@ -673,7 +673,8 @@
       "bread": "2024-12-08 04:33:22 +0000",
       "cookie": "2024-12-09 05:49:21 +0000",
       "golden_carrot": "2024-12-08 03:40:38 +0000",
-      "cooked_chicken": "2024-12-07 03:34:50 +0000"
+      "cooked_chicken": "2024-12-07 03:34:50 +0000",
+      "carrot": "2024-12-14 00:09:16 +0000"
     },
     "done": false
   },
@@ -710,6 +711,7 @@
       "minecraft:cave_spider": "2024-12-08 04:31:19 +0000",
       "minecraft:piglin": "2024-12-07 05:14:55 +0000",
       "minecraft:enderman": "2024-12-07 05:12:00 +0000",
+      "minecraft:endermite": "2024-12-14 00:27:06 +0000",
       "minecraft:zombie": "2024-12-07 03:38:06 +0000",
       "minecraft:drowned": "2024-12-07 03:26:11 +0000",
       "minecraft:zombie_villager": "2024-12-08 04:54:03 +0000"
