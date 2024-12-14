@@ -1,344 +1,75 @@
-[00:52:09] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:52:12] [ServerMain/INFO]: Loaded 7 recipes
-[00:52:13] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:52:13] [Server thread/INFO]: Loading properties
-[00:52:13] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[00:52:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:52:14] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:52:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[02:35:40] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:35:42] [ServerMain/INFO]: Loaded 7 recipes
+[02:35:43] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:35:43] [Server thread/INFO]: Loading properties
+[02:35:43] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[02:35:44] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:35:44] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:35:45] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[00:52:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[00:52:15] [Server thread/INFO]: Default game type: SURVIVAL
-[00:52:15] [Server thread/INFO]: Generating keypair
-[00:52:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:52:15] [Server thread/INFO]: Using epoll channel type
-[00:52:16] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[00:52:16] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[00:52:16] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
-[00:52:16] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
-[00:52:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:52:16] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
-[00:52:17] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[00:52:17] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[00:52:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[00:52:18] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[00:52:18] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[00:52:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:52:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:52:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:52:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:52:18] [Server thread/INFO]: Preparing level "world"
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[00:52:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[00:52:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:52:20] [Server thread/INFO]: Time elapsed: 477 ms
-[00:52:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:52:20] [Server thread/INFO]: Time elapsed: 164 ms
-[00:52:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:52:20] [Server thread/INFO]: Time elapsed: 112 ms
-[00:52:20] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
-[00:52:20] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
-[00:52:20] [Server thread/INFO]: [voicechat] Compatibility version 18
-[00:52:20] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[00:52:21] [Server thread/INFO]: Running delayed init tasks
-[00:52:21] [Server thread/INFO]: Done (7.487s)! For help, type "help"
-[00:52:21] [Server thread/INFO]: Timings Reset
-[00:52:21] [Server thread/INFO]: [voicechat] Loading plugins
-[00:52:21] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[00:52:21] [Server thread/INFO]: [voicechat] Initializing plugins
-[00:52:21] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[00:52:21] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[00:52:21] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
-[00:52:46] [User Authenticator #0/INFO]: UUID of player Proxe_ is 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[00:52:46] [Server thread/INFO]: Proxe_ joined the game
-[00:52:46] [Server thread/INFO]: Proxe_[/172.28.149.78:59041] logged in with entity id 293 at ([world_nether]39.61302937086881, 88.0, 1.509870814933119)
-[00:52:46] [Server thread/INFO]: [voicechat] Received secret request of Proxe_ (18)
-[00:52:46] [Server thread/INFO]: [voicechat] Sent secret to Proxe_
-[00:52:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[00:52:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 291b5db3-a54f-3f99-bee4-fa14a07e9d7d
-[00:52:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Proxe_ (291b5db3-a54f-3f99-bee4-fa14a07e9d7d) successfully connected to voice chat
-[00:52:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Proxe_> csm estoy yo nomas
-[00:53:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Proxe_> habla p server
-[00:57:37] [User Authenticator #1/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
-[00:57:37] [Server thread/INFO]: Ram_Tz joined the game
-[00:57:37] [Server thread/INFO]: Ram_Tz[/172.28.72.140:62543] logged in with entity id 1241 at ([world]134.30000001192093, 63.0, 111.30000001192093)
-[00:57:46] [Async Chat Thread - #2/INFO]: [Not Secure] <Ram_Tz> AYUa
-[00:57:49] [Async Chat Thread - #2/INFO]: [Not Secure] <Proxe_> q
-[00:57:52] [Async Chat Thread - #3/INFO]: [Not Secure] <Ram_Tz> me quedé acá xd
-[00:58:05] [Async Chat Thread - #2/INFO]: [Not Secure] <Proxe_> donde acá
-[00:58:16] [Async Chat Thread - #3/INFO]: [Not Secure] <Ram_Tz> aldeanos
-[00:58:45] [Async Chat Thread - #2/INFO]: [Not Secure] <Ram_Tz> le di sin quere a la cama
-[00:58:45] [Async Chat Thread - #3/INFO]: [Not Secure] <Proxe_> q haces ahi wbn
-[00:58:46] [Async Chat Thread - #3/INFO]: [Not Secure] <Proxe_> xd
-[00:58:59] [Async Chat Thread - #2/INFO]: [Not Secure] <Proxe_> aca
-[00:59:11] [Async Chat Thread - #3/INFO]: [Not Secure] <Ram_Tz> gracias
-[00:59:40] [Server thread/INFO]: Proxe_ issued server command: /msg Proxe_ 39 3
-[01:05:04] [Async Chat Thread - #4/INFO]: [Not Secure] <Ram_Tz> duermes?
-[01:06:56] [Server thread/INFO]: Proxe_ has made the advancement [Hidden in the Depths]
-[01:14:08] [Async Chat Thread - #6/INFO]: [Not Secure] <Proxe_> oe se supone q matias le instalo el minecraft a aguilar y todavia no entra xdd
-[01:15:12] [Async Chat Thread - #8/INFO]: [Not Secure] <Ram_Tz> le explotó la pece
-[01:15:47] [Async Chat Thread - #8/INFO]: [Not Secure] <Ram_Tz> hace cuanto se lo instaló?
-[01:16:06] [Async Chat Thread - #9/INFO]: [Not Secure] <Proxe_> hace como media hora cuando matias entro como 5 minutos y se fue
-[01:16:12] [Async Chat Thread - #9/INFO]: [Not Secure] <Proxe_> dijo que se lo fue a instalar
-[01:16:47] [Async Chat Thread - #8/INFO]: [Not Secure] <Ram_Tz> si le dijieron como poner la ip y esas cosas?
-[01:16:56] [Async Chat Thread - #9/INFO]: [Not Secure] <Proxe_> ns
-[01:17:00] [Async Chat Thread - #8/INFO]: [Not Secure] <Proxe_> matias le habra dicho
-[01:17:23] [Server thread/INFO]: /172.28.159.154:62042 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:17:24] [Server thread/INFO]: [Not Secure] * Server aguilar ya va a entar
-[01:17:31] [Async Chat Thread - #8/INFO]: [Not Secure] <Proxe_> omg!!
-[01:17:34] [Server thread/INFO]: /172.28.159.154:62054 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:17:35] [Async Chat Thread - #9/INFO]: [Not Secure] <Ram_Tz> de la nada
-[01:17:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Ram_Tz> eladmin
-[01:17:47] [Server thread/INFO]: /172.28.159.154:62065 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:17:50] [Async Chat Thread - #9/INFO]: [Not Secure] <Proxe_> diego le das la acogida
-[01:17:56] [Async Chat Thread - #8/INFO]: [Not Secure] <Proxe_> yo ando en nether farmeando bolas
-[01:18:08] [Server thread/INFO]: /172.28.159.154:62082 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:18:11] [Async Chat Thread - #9/INFO]: [Not Secure] <Ram_Tz> yo le doy su cogida a aguilar
-[01:18:54] [Server thread/INFO]: /172.28.159.154:62121 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:20:52] [Server thread/INFO]: [Not Secure] * Server oe a aguilar no le deja entar por su nombre xd
-[01:20:59] [Async Chat Thread - #10/INFO]: [Not Secure] <Proxe_> que se puso?
-[01:21:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> franx?
-[01:21:39] [Server thread/INFO]: [Not Secure] * Server si xd
-[01:21:44] [Async Chat Thread - #10/INFO]: [Not Secure] <Proxe_> XDDDDDDDDDDDDDDDDDDDDDD
-[01:21:49] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> tmr
-[01:21:57] [Server thread/INFO]: [Not Secure] * Server q no se puede poner en el nombre
-[01:22:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> el niñito consumido por el tiktok y fri fayer
-[01:22:05] [Server thread/INFO]: [Not Secure] * Server di p
-[01:22:13] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> webadas p
-[01:22:15] [Server thread/INFO]: Villager EntityVillager['Farmer'/278, uuid='9e83bbc2-394a-4d22-a282-1a587cb8b98a', l='ServerLevel[world]', x=184.87, y=60.00, z=83.47, cpos=[11, 5], tl=691107, v=true] died, message: 'Farmer was slain by Zombie'
-[01:22:18] [Server thread/INFO]: Villager EntityVillager['Weaponsmith'/277, uuid='7f39f753-5b14-4505-aedc-4dd1b67206ee', l='ServerLevel[world]', x=186.60, y=59.94, z=83.70, cpos=[11, 5], tl=1615063, v=true] died, message: 'Weaponsmith was slain by Zombie'
-[01:22:37] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> oe pero hay pocas restricciones para los nombres wtfff
-[01:23:23] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> no se permiten espacios ni caracteres especiales
-[01:23:24] [Server thread/INFO]: [Not Secure] * Server le sale username invalid
-[01:23:27] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> no se permiten espacios ni caracteres especiales
-[01:23:27] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> no se permiten espacios ni caracteres especiales
-[01:23:31] [Async Chat Thread - #12/INFO]: [Not Secure] <Ram_Tz> whenpingaparaangel
-[01:23:34] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> solo letras numeros y guion bajo
-[01:23:46] [Server thread/INFO]: [Not Secure] * Server el wn puso un .
-[01:23:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> no p
-[01:23:54] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> pendejo
-[01:23:55] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> imbecil
-[01:23:57] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> estupido
-[01:23:58] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> subnormal
-[01:23:59] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> down
-[01:24:00] [Server thread/INFO]: [Not Secure] * Server XDDDD
-[01:24:01] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> retrasado
-[01:24:44] [Async Chat Thread - #12/INFO]: [Not Secure] <Proxe_> ese on piensa que esta en ig
-[01:25:02] [Server thread/INFO]: [Not Secure] * Server ya se puso otra wbd
-[01:25:16] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> le pusiste el voice chat?
-[01:25:24] [Server thread/INFO]: [Not Secure] * Server su pc tiene un ryzen 5 4500u y 8 ram
-[01:25:31] [Server thread/INFO]: [Not Secure] * Server no
-[01:25:36] [Async Chat Thread - #11/INFO]: [Not Secure] <Proxe_> yara
-[01:25:44] [Server thread/INFO]: [Not Secure] * Server me olvide xd
-[01:26:40] [Server thread/INFO]: [Not Secure] * Server quienes estan en el server xd
-[01:26:45] [Server thread/INFO]: [Not Secure] * Server ??
-[01:27:00] [Server thread/INFO]: /172.28.159.154:62574 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:27:11] [Server thread/INFO]: /172.28.159.154:62585 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:28:03] [Server thread/INFO]: /172.28.159.154:62642 lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
-[01:28:20] [Async Chat Thread - #13/INFO]: [Not Secure] <Proxe_> yo y dieguita
-[01:30:10] [Server thread/INFO]: [Not Secure] * Server aun no le deja entrar xd
-[01:30:26] [Async Chat Thread - #16/INFO]: [Not Secure] <Proxe_> capaz esta usando un nombre q ya este tomado?
-[01:31:08] [Async Chat Thread - #15/INFO]: [Not Secure] <Proxe_> oe
-[01:31:12] [Async Chat Thread - #15/INFO]: [Not Secure] <Proxe_> está en fácil el server
-[01:31:14] [Async Chat Thread - #15/INFO]: [Not Secure] <Proxe_> tamare
-[01:31:59] [Server thread/INFO]: [Not Secure] * Server no
-[01:32:14] [Async Chat Thread - #16/INFO]: [Not Secure] <Proxe_> si
-[01:32:22] [User Authenticator #2/INFO]: UUID of player fran19 is 5b3621c2-4171-38fe-a537-50a73d395b45
-[01:32:22] [Server thread/INFO]: fran19 joined the game
-[01:32:22] [Server thread/INFO]: fran19[/172.28.159.154:62873] logged in with entity id 11705 at ([world]7.5, 107.0, 7.5)
-[01:32:25] [Async Chat Thread - #16/INFO]: [Not Secure] <Proxe_> diablo
-[01:32:30] [Server thread/INFO]: The difficulty did not change; it is already set to hard
-[01:32:34] [Async Chat Thread - #15/INFO]: [Not Secure] <Ram_Tz> vamo a darlesu cogida
-[01:32:59] [Async Chat Thread - #16/INFO]: [Not Secure] <Proxe_> fran hablas con la t
-[01:33:01] [Async Chat Thread - #16/INFO]: [Not Secure] <Proxe_> T
-[01:33:13] [Server thread/INFO]: [Not Secure] * Server escirbe con la t
-[01:33:16] [Async Chat Thread - #16/INFO]: [Not Secure] <fran19> ayuda
-[01:33:20] [Async Chat Thread - #15/INFO]: [Not Secure] <Proxe_> te mueves con w a s d
-[01:33:22] [Async Chat Thread - #16/INFO]: [Not Secure] <Proxe_> saltas con espacio
-[01:33:24] [Server thread/INFO]: [Not Secure] * Server XDDD
-[01:33:27] [Async Chat Thread - #17/INFO]: [Not Secure] <Proxe_> abres el inventario con la e
-[01:33:32] [Async Chat Thread - #17/INFO]: [Not Secure] <Proxe_> el mouse
-[01:33:34] [Async Chat Thread - #15/INFO]: [Not Secure] <Proxe_> se enchufa
-[01:33:38] [Async Chat Thread - #17/INFO]: [Not Secure] <Proxe_> usas la mano
-[01:33:40] [Async Chat Thread - #17/INFO]: [Not Secure] <Proxe_> para moverlo
-[01:33:54] [Server thread/INFO]: [Not Secure] * Server mno hasle tp a la base
-[01:34:08] [Server thread/INFO]: Proxe_ issued server command: /msg matiassexo no p xd
-[01:34:11] [Server thread/INFO]: Proxe_ issued server command: /msg matiassexo que aprenda
-[01:34:25] [Server thread/INFO]: No player was found
-[01:34:34] [Server thread/INFO]: You whisper to Proxe_: yaya
-[01:34:50] [Async Chat Thread - #17/INFO]: [Not Secure] <Proxe_> dale su cogida diego
-[01:34:55] [Server thread/INFO]: No player was found
-[01:35:00] [Async Chat Thread - #17/INFO]: [Not Secure] <Ram_Tz> onta
-[01:35:09] [Server thread/INFO]: No player was found
-[01:35:18] [Server thread/INFO]: You whisper to Proxe_: pero en el spaw no se puede romper en un area de 5 bloques creo xd
-[01:35:18] [Async Chat Thread - #18/INFO]: [Not Secure] <Ram_Tz> no hay nadie en la base
-[01:35:31] [Async Chat Thread - #17/INFO]: [Not Secure] <Proxe_> anda al spawn diego
-[01:35:50] [Async Chat Thread - #18/INFO]: [Not Secure] <Ram_Tz> cuál es el spawn}
-[01:36:00] [Async Chat Thread - #17/INFO]: [Not Secure] <Proxe_> xD
-[01:36:11] [Async Chat Thread - #19/INFO]: [Not Secure] <Proxe_> donde apareces cuando entras al server por primera vez
-[01:36:11] [Async Chat Thread - #17/INFO]: [Not Secure] <fran19> quien eres?
-[01:36:12] [Async Chat Thread - #17/INFO]: [Not Secure] <Ram_Tz> aca andamo con el fran
-[01:36:18] [Server thread/INFO]: [Not Secure] * Server por el portal que esta al frente de la casa de chifa de frente a eso
-[01:36:24] [Server thread/INFO]: [Not Secure] * Server m jalo
-[01:36:29] [Async Chat Thread - #19/INFO]: [Not Secure] <Proxe_> chau server
-[01:36:30] [Async Chat Thread - #19/INFO]: [Not Secure] <Ram_Tz> eso te lo metes por el
-[01:37:28] [Server thread/INFO]: fran19 has made the advancement [Isn't It Iron Pick]
-[01:37:47] [Async Chat Thread - #20/INFO]: [Not Secure] <Ram_Tz> ya mano, hora de independizarte
-[01:39:41] [Async Chat Thread - #22/INFO]: [Not Secure] <fran19> como mrd se come
-[01:39:46] [Async Chat Thread - #22/INFO]: [Not Secure] <Proxe_> click derecho
-[01:39:50] [Async Chat Thread - #22/INFO]: [Not Secure] <Proxe_> mantenlo presionado
-[01:39:53] [Async Chat Thread - #22/INFO]: [Not Secure] <Ram_Tz> chi
-[01:40:03] [Async Chat Thread - #22/INFO]: [Not Secure] <Proxe_> oe diego tienes webos de ender?
-[01:40:10] [Async Chat Thread - #23/INFO]: [Not Secure] <Ram_Tz> ño
-[01:40:27] [Async Chat Thread - #22/INFO]: [Not Secure] <Ram_Tz> fran te doy chamba
-[01:40:36] [Async Chat Thread - #23/INFO]: [Not Secure] <fran19> quein eres
-[01:40:43] [Async Chat Thread - #22/INFO]: [Not Secure] <Ram_Tz> yo
-[01:40:51] [Async Chat Thread - #23/INFO]: [Not Secure] <fran19> imbecil
-[01:40:55] [Async Chat Thread - #24/INFO]: [Not Secure] <Proxe_> XDDD
-[01:40:57] [Async Chat Thread - #23/INFO]: [Not Secure] <Ram_Tz> vamos nomas
-[01:41:18] [Async Chat Thread - #24/INFO]: [Not Secure] <Ram_Tz> ven oe
-[01:41:48] [Server thread/INFO]: fran19 was slain by Zombie
-[01:43:14] [Async Chat Thread - #27/INFO]: [Not Secure] <Ram_Tz> yo puedo hacerle tp o solo un admin?
-[01:43:19] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> yo puedo
-[01:43:23] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> pero ando en nether cdddd
-[01:43:26] [Async Chat Thread - #26/INFO]: [Not Secure] <Ram_Tz> pa hacerle tp a mi base
-[01:43:38] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> lo tepeo ahorita?
-[01:43:40] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> a ti
-[01:43:41] [Async Chat Thread - #26/INFO]: [Not Secure] <Proxe_> el a ti
-[01:43:46] [Async Chat Thread - #27/INFO]: [Not Secure] <Ram_Tz> si
-[01:43:52] [Server thread/INFO]: Proxe_ issued server command: /tp fran19 Ram_Tz
-[01:43:52] [Server thread/INFO]: [Proxe_: Teleported fran19 to Ram_Tz]
-[01:44:03] [Async Chat Thread - #26/INFO]: [Not Secure] <Ram_Tz> ya
-[01:44:09] [Async Chat Thread - #26/INFO]: [Not Secure] <Ram_Tz> oe, duerme
-[01:44:17] [Async Chat Thread - #27/INFO]: [Not Secure] <Ram_Tz> fran
-[01:45:05] [Async Chat Thread - #26/INFO]: [Not Secure] <Ram_Tz> se está haciendo una paja maincraftera
-[01:45:24] [Async Chat Thread - #27/INFO]: [Not Secure] <Ram_Tz> esta es mi base
-[01:45:37] [Async Chat Thread - #27/INFO]: [Not Secure] <fran19> eres angel
-[01:45:45] [Async Chat Thread - #26/INFO]: [Not Secure] <Ram_Tz> no, soy diego
-[01:45:54] [Async Chat Thread - #27/INFO]: [Not Secure] <Proxe_> mentira es chifa
-[01:45:59] [Async Chat Thread - #26/INFO]: [Not Secure] <fran19> aya
-[01:46:20] [Async Chat Thread - #27/INFO]: [Not Secure] <Ram_Tz> xd, no, yerson se yama fenixemece
-[01:47:24] [Async Chat Thread - #28/INFO]: [Not Secure] <Ram_Tz> ahí tienes una que otra cosa, agarra y hace tu full hierrito
-[01:50:22] [Async Chat Thread - #30/INFO]: [Not Secure] <Ram_Tz> matiu tiene una granjita de hierro por si necesitas más
-[01:50:27] [Async Chat Thread - #31/INFO]: [Not Secure] <fran19> oe
-[01:50:54] [Async Chat Thread - #30/INFO]: [Not Secure] <fran19> donde esta
-[01:51:02] [Server thread/INFO]: [Not Secure] * Server q hablan de mi bbsitas
-[01:51:06] [Async Chat Thread - #31/INFO]: [Not Secure] <Proxe_> donde mrd estan
-[01:51:07] [Async Chat Thread - #30/INFO]: [Not Secure] <Ram_Tz> la granja?
-[01:51:18] [Server thread/INFO]: [Not Secure] * Server que tiene mi grnja
-[01:51:20] [Async Chat Thread - #32/INFO]: [Not Secure] <fran19> si
-[01:51:20] [Async Chat Thread - #32/INFO]: [Not Secure] <Ram_Tz> somos 3xd
-[01:51:24] [Async Chat Thread - #32/INFO]: [Not Secure] <Ram_Tz> ven
-[01:51:32] [Async Chat Thread - #30/INFO]: [Not Secure] <Proxe_> or diego don tas
-[01:51:33] [Async Chat Thread - #30/INFO]: [Not Secure] <Ram_Tz> sube
-[01:51:35] [Server thread/INFO]: [Not Secure] * Server los cofres estan abajo de la granja, en el agua
-[01:51:39] [Async Chat Thread - #30/INFO]: [Not Secure] <fran19> como
-[01:52:02] [Server thread/WARN]: Boat (vehicle of fran19) moved wrongly! 1.5299497483094355
-[01:52:11] [Async Chat Thread - #32/INFO]: [Not Secure] <Ram_Tz> baja con ctrl
-[01:52:25] [Async Chat Thread - #30/INFO]: [Not Secure] <fran19> rompe el bpte
-[01:52:40] [Async Chat Thread - #32/INFO]: [Not Secure] <Proxe_> DIEGO DONDE ESTÁS
-[01:52:49] [Async Chat Thread - #30/INFO]: [Not Secure] <Ram_Tz> acá en la base
-[01:53:00] [Async Chat Thread - #32/INFO]: [Not Secure] <Proxe_> donde p wbn
-[01:53:10] [Async Chat Thread - #30/INFO]: [Not Secure] <Proxe_> estoy aca
-[01:53:12] [Async Chat Thread - #30/INFO]: [Not Secure] <Ram_Tz> en los arbolitos sacura
-[01:53:21] [Async Chat Thread - #30/INFO]: [Not Secure] <Ram_Tz> ven
-[01:53:40] [Async Chat Thread - #30/INFO]: [Not Secure] <Proxe_> sumare
-[01:54:02] [Server thread/INFO]: fran19 has made the advancement [Cover Me with Diamonds]
-[01:54:17] [Async Chat Thread - #33/INFO]: [Not Secure] <fran19> mano vuelvo voy a cenar
-[01:54:41] [Async Chat Thread - #32/INFO]: [Not Secure] <Ram_Tz> se demoró más de lo que estuvo activo en el server
-[01:56:52] [Async Chat Thread - #34/INFO]: [Not Secure] <fran19> mano d quien es la hacha
-[01:57:53] [Async Chat Thread - #36/INFO]: [Not Secure] <fran19> don tan
-[01:58:06] [Async Chat Thread - #36/INFO]: [Not Secure] <Ram_Tz> no te ibas a comer?
-[01:58:13] [Async Chat Thread - #36/INFO]: [Not Secure] <fran19> aun falta
-[01:58:44] [Async Chat Thread - #36/INFO]: [Not Secure] <Ram_Tz> yo en mi base y cantaro en el nether creo
-[01:58:55] [Async Chat Thread - #36/INFO]: [Not Secure] <fran19> ayuda me persi
-[01:58:55] [Async Chat Thread - #37/INFO]: [Not Secure] <Proxe_> toy yendo a la stronghold
-[01:59:06] [Async Chat Thread - #37/INFO]: [Not Secure] <fran19> ayuda me perdi
-[01:59:06] [Server thread/INFO]: [Not Secure] * Server oe esperen p
-[01:59:21] [Server thread/INFO]: [Not Secure] * Server no lo maten si mi :(
-[01:59:35] [Async Chat Thread - #37/INFO]: [Not Secure] <Proxe_> voy a buscarla nomas
-[01:59:43] [Server thread/INFO]: fran19 lost connection: Disconnected
-[01:59:43] [Server thread/INFO]: [voicechat] Disconnecting client fran19
-[01:59:43] [Server thread/INFO]: fran19 left the game
-[02:00:01] [Server thread/INFO]: Ram_Tz was slain by Zombie
-[02:10:50] [Server thread/INFO]: Proxe_ issued server command: /seed
-[02:15:03] [Server thread/INFO]: Proxe_ has made the advancement [Eye Spy]
-[02:15:07] [Async Chat Thread - #38/INFO]: [Not Secure] <Proxe_> wiii
-[02:15:16] [Async Chat Thread - #38/INFO]: [Not Secure] <Ram_Tz> encontraste?
-[02:15:21] [Async Chat Thread - #40/INFO]: [Not Secure] <Proxe_> no
-[02:15:28] [Async Chat Thread - #39/INFO]: [Not Secure] <Proxe_> me regalaron el logro
-[02:15:29] [Async Chat Thread - #40/INFO]: [Not Secure] <Proxe_> porque si
-[02:15:44] [Async Chat Thread - #39/INFO]: [Not Secure] <Ram_Tz> soybaboso
-[02:16:09] [Async Chat Thread - #40/INFO]: [Not Secure] <Ram_Tz> es que no me conosco los logros
-[02:18:54] [Async Chat Thread - #41/INFO]: [Not Secure] <Proxe_> encontreel portal
-[02:19:12] [Async Chat Thread - #41/INFO]: [Not Secure] <Proxe_> TIENE 1 OJO NOMAS
-[02:19:13] [Async Chat Thread - #41/INFO]: [Not Secure] <Proxe_> XDDDD
-[02:19:24] [Async Chat Thread - #41/INFO]: [Not Secure] <Proxe_> ya
-[02:19:27] [Async Chat Thread - #41/INFO]: [Not Secure] <Proxe_> llené
-[02:19:28] [Async Chat Thread - #41/INFO]: [Not Secure] <Proxe_> le falta uno
-[02:19:54] [Async Chat Thread - #41/INFO]: [Not Secure] <Proxe_> portal end: -665 1574
-[02:19:59] [Async Chat Thread - #42/INFO]: [Not Secure] <Proxe_> apunta diego
-[02:20:43] [Async Chat Thread - #41/INFO]: [Not Secure] <Ram_Tz> ya}
-[02:22:41] [Server thread/INFO]: Proxe_ lost connection: Disconnected
-[02:22:41] [Server thread/INFO]: [voicechat] Disconnecting client Proxe_
-[02:22:41] [Server thread/INFO]: Proxe_ left the game
-[02:24:26] [User Authenticator #3/INFO]: UUID of player fran19 is 5b3621c2-4171-38fe-a537-50a73d395b45
-[02:24:26] [Server thread/INFO]: fran19 joined the game
-[02:24:26] [Server thread/INFO]: fran19[/172.28.159.154:61861] logged in with entity id 31249 at ([world]202.69999998807907, 79.0, 26.819845200886785)
-[02:24:46] [Async Chat Thread - #43/INFO]: [Not Secure] <Ram_Tz> te unes cuando cantaro se va
-[02:24:57] [Async Chat Thread - #43/INFO]: [Not Secure] <fran19> mejor p
-[02:25:14] [Async Chat Thread - #44/INFO]: [Not Secure] <Ram_Tz> donde estás
-[02:25:41] [Async Chat Thread - #44/INFO]: [Not Secure] <fran19> en la aldea
-[02:25:49] [Async Chat Thread - #44/INFO]: [Not Secure] <fran19> me compre un mouse
-[02:25:59] [Async Chat Thread - #44/INFO]: [Not Secure] <Ram_Tz> cual
-[02:27:29] [Async Chat Thread - #45/INFO]: [Not Secure] <Ram_Tz> te vas a hacer tu casa en el centro?
-[02:27:39] [Async Chat Thread - #47/INFO]: [Not Secure] <fran19> me compre un mouse para jugar mejor
-[02:28:05] [Async Chat Thread - #46/INFO]: [Not Secure] <Ram_Tz> toma
-[02:28:32] [Async Chat Thread - #47/INFO]: [Not Secure] <Ram_Tz> habla tu aplana
-[02:31:06] [Server thread/INFO]: [Not Secure] * Server voa cerrar el server para abrulo de mi lap
-[02:31:13] [Server thread/INFO]: [Not Secure] * Server ahora lo prendo
-[02:31:18] [Async Chat Thread - #48/INFO]: [Not Secure] <Ram_Tz> yaya
-[02:31:39] [Server thread/INFO]: Stopping the server
-[02:31:39] [Server thread/INFO]: Stopping server
-[02:31:39] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
-[02:31:39] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
-[02:31:39] [Server thread/INFO]: Saving players
-[02:31:39] [Server thread/INFO]: Ram_Tz lost connection: Server closed
-[02:31:39] [Server thread/INFO]: Ram_Tz left the game
-[02:31:39] [Server thread/INFO]: fran19 lost connection: Server closed
-[02:31:39] [Server thread/INFO]: fran19 left the game
-[02:31:39] [Server thread/INFO]: Saving worlds
-[02:31:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saved 34 block chunks, 289 entity chunks, 0 poi chunks in world 'world' in 0.09s
-[02:31:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:31:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saved 195 block chunks, 115 entity chunks, 0 poi chunks in world 'world_nether' in 0.21s
-[02:31:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:31:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:31:39] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[02:31:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:31:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:31:39] [Server thread/INFO]: Flushing Chunk IO
-[02:31:39] [Server thread/INFO]: Closing Thread Pool
-[02:31:39] [Server thread/INFO]: Closing Server
+[02:35:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[02:35:45] [Server thread/INFO]: Default game type: SURVIVAL
+[02:35:45] [Server thread/INFO]: Generating keypair
+[02:35:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:35:46] [Server thread/INFO]: Using epoll channel type
+[02:35:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:35:46] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:35:46] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.26
+[02:35:46] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.0
+[02:35:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:35:46] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.0
+[02:35:47] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:35:48] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[02:35:48] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:35:48] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[02:35:48] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[02:35:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:35:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:35:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:35:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:35:48] [Server thread/INFO]: Preparing level "world"
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.0
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ad418e4
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:35:49] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:35:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:35:50] [Server thread/INFO]: Time elapsed: 394 ms
+[02:35:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:35:50] [Server thread/INFO]: Time elapsed: 171 ms
+[02:35:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:35:50] [Server thread/INFO]: Time elapsed: 129 ms
+[02:35:50] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.26
+[02:35:50] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.20.1-R0.1
+[02:35:50] [Server thread/INFO]: [voicechat] Compatibility version 18
+[02:35:50] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[02:35:51] [Server thread/INFO]: Running delayed init tasks
+[02:35:51] [Server thread/INFO]: Done (7.393s)! For help, type "help"
+[02:35:51] [Server thread/INFO]: Timings Reset
+[02:35:51] [Server thread/INFO]: [voicechat] Loading plugins
+[02:35:51] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[02:35:51] [Server thread/INFO]: [voicechat] Initializing plugins
+[02:35:51] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[02:35:51] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02:35:51] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[02:36:45] [User Authenticator #0/INFO]: UUID of player Ram_Tz is a8201390-5a88-393b-afd5-4279b72be2d9
+[02:36:46] [Server thread/INFO]: Ram_Tz joined the game
+[02:36:46] [Server thread/INFO]: Ram_Tz[/172.28.72.140:54303] logged in with entity id 240 at ([world]196.95312785530155, 66.0, -162.7705357717353)
+[02:37:32] [Server thread/INFO]: Ram_Tz burned to death
+[02:38:05] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[02:38:05] [Server thread/INFO]: Churrupakin joined the game
+[02:38:05] [Server thread/INFO]: Churrupakin[/172.28.161.65:60564] logged in with entity id 511 at ([world]193.7414032562794, 63.0, 88.21514441733908)
+[02:38:08] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[02:38:08] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[02:38:11] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[02:38:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[02:38:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
