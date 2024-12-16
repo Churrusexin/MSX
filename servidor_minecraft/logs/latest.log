@@ -1335,3 +1335,83 @@
 [23:35:22] [Async Chat Thread - #103/INFO]: [Not Secure] <XxMatos15> ese ladrillo negro
 [23:35:35] [Server thread/INFO]: Proxe_ issued server command: /msg Churrupakin metete al vc
 [23:35:46] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel ahora si manp
+[23:36:26] [Server thread/INFO]: Ram_Tz was slain by Vex
+[23:36:31] [Async Chat Thread - #103/INFO]: [Not Secure] <SKrampusPEcausa> xd
+[23:36:35] [Server thread/INFO]: Proxe_ has completed the challenge [Hero of the Village]
+[23:36:35] [Server thread/INFO]: Ram_Tz has completed the challenge [Hero of the Village]
+[23:36:44] [Server thread/WARN]: Churrupakin was kicked due to keepalive timeout!
+[23:36:44] [Server thread/INFO]: Churrupakin lost connection: Timed out
+[23:36:44] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[23:36:44] [Server thread/INFO]: Churrupakin left the game
+[23:36:46] [Async Chat Thread - #104/INFO]: [Not Secure] <Ram_Tz> ganamo
+[23:37:07] [User Authenticator #28/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:37:07] [Server thread/INFO]: Churrupakin joined the game
+[23:37:07] [Server thread/INFO]: Churrupakin[/172.28.161.65:51716] logged in with entity id 100252 at ([world]141.76249998807907, 63.0, 96.30000001192093)
+[23:37:08] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[23:37:08] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:37:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:37:09] [Server thread/WARN]: SKrampusPEcausa was kicked due to keepalive timeout!
+[23:37:09] [Server thread/INFO]: SKrampusPEcausa lost connection: Timed out
+[23:37:09] [Server thread/INFO]: [voicechat] Disconnecting client SKrampusPEcausa
+[23:37:09] [Server thread/INFO]: SKrampusPEcausa left the game
+[23:37:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:37:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:37:26] [User Authenticator #28/INFO]: UUID of player SKrampusPEcausa is 20fe05e7-673b-3913-95a3-dc8280b86505
+[23:37:26] [Server thread/INFO]: SKrampusPEcausa joined the game
+[23:37:26] [Server thread/INFO]: SKrampusPEcausa[/172.28.128.43:54730] logged in with entity id 100424 at ([world]204.69999998807907, -55.0, 6.361421992767935)
+[23:38:06] [Async Chat Thread - #105/INFO]: [Not Secure] <pingaparaangel> donde chch estas chifa
+[23:38:10] [Async Chat Thread - #105/INFO]: [Not Secure] <XxMatos15> aca
+[23:38:20] [Async Chat Thread - #106/INFO]: [Not Secure] <SKrampusPEcausa> matias
+[23:38:24] [Async Chat Thread - #105/INFO]: [Not Secure] <SKrampusPEcausa> tp a aquilar
+[23:38:35] [Server thread/INFO]: Churrupakin issued server command: /tp SKrampusPEcausa fran19
+[23:38:35] [Server thread/INFO]: [Churrupakin: Teleported SKrampusPEcausa to fran19]
+[23:38:53] [Async Chat Thread - #106/INFO]: [Not Secure] <pingaparaangel> cual aca down
+[23:38:58] [Async Chat Thread - #106/INFO]: [Not Secure] <XxMatos15> aca p
+[23:39:00] [Async Chat Thread - #106/INFO]: [Not Secure] <XxMatos15> en tu cofre
+[23:39:03] [Async Chat Thread - #105/INFO]: [Not Secure] <fran19> oe angel anyhelo esta q destruye
+[23:39:03] [Async Chat Thread - #105/INFO]: [Not Secure] <XxMatos15> donde guardas todo
+[23:39:04] [Async Chat Thread - #105/INFO]: [Not Secure] <XxMatos15> xd
+[23:39:24] [Async Chat Thread - #106/INFO]: [Not Secure] <pingaparaangel> cual destruye bestia
+[23:39:32] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel no hagas nd todavia pe
+[23:39:44] [Server thread/INFO]: XxMatos15 issued server command: /tell pingaparaangel cuando se desconecten les metemos 4 criper
+[23:39:48] [Async Chat Thread - #106/INFO]: [Not Secure] <Churrupakin> diego
+[23:40:00] [Async Chat Thread - #105/INFO]: [Not Secure] <Churrupakin> tu wbda esa para mejorar a neterite
+[23:40:01] [Async Chat Thread - #105/INFO]: [Not Secure] <Churrupakin> on ta
+[23:40:23] [Async Chat Thread - #105/INFO]: [Not Secure] <pingaparaangel> cual cofre
+[23:40:35] [Async Chat Thread - #105/INFO]: [Not Secure] <XxMatos15> en mi house
+[23:40:47] [Async Chat Thread - #106/INFO]: [Not Secure] <pingaparaangel> a chch
+[23:40:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[23:40:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[23:40:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:40:52] [Server thread/WARN]: Churrupakin moved too quickly! 2.505555759935845,0.7491870787446828,9.806113231403373
+[23:40:55] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:40:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:40:56] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:41:05] [Async Chat Thread - #105/INFO]: [Not Secure] <pingaparaangel> q paja volver
+[23:41:12] [Async Chat Thread - #106/INFO]: [Not Secure] <XxMatos15> vente
+[23:41:22] [Async Chat Thread - #106/INFO]: [Not Secure] <fran19> t
+[23:41:26] [Async Chat Thread - #106/INFO]: [Not Secure] <fran19> t
+[23:41:28] [Async Chat Thread - #106/INFO]: [Not Secure] <pingaparaangel> en la aldea de matias o dnd
+[23:41:30] [Async Chat Thread - #106/INFO]: [Not Secure] <XxMatos15> pa llevarte a mi casita
+[23:41:44] [Server thread/INFO]: XxMatos15 was slain by Enderman
+[23:42:28] [Async Chat Thread - #105/INFO]: [Not Secure] <Churrupakin> chhifa
+[23:42:30] [Async Chat Thread - #105/INFO]: [Not Secure] <XxMatos15> q
+[23:42:35] [Server thread/INFO]: Villager EntityVillager['Villager'/272, uuid='226bf289-8e1a-4314-acaa-b28d7882e808', l='ServerLevel[world]', x=122.30, y=63.00, z=113.70, cpos=[7, 7], tl=546194, v=true] died, message: 'Villager was slain by Zombie'
+[23:42:38] [Async Chat Thread - #106/INFO]: [Not Secure] <Churrupakin> tienes esa wbda para mejroar nteherire
+[23:42:47] [Async Chat Thread - #105/INFO]: [Not Secure] <XxMatos15> no
+[23:43:16] [Async Chat Thread - #106/INFO]: [Not Secure] <XxMatos15> vente anyhelita
+[23:43:56] [Server thread/WARN]: Horse (vehicle of Ram_Tz) moved wrongly! 0.285672837695948
+[23:44:03] [Server thread/WARN]: Horse (vehicle of Ram_Tz) moved wrongly! 0.45845291553898593
+[23:44:34] [Server thread/INFO]: Ram_Tz suffocated in a wall
+[23:44:35] [Server thread/INFO]: Attempt to teleport removed player Ram_Tz restricted
+[23:45:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[23:45:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[23:45:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:45:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:45:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:45:26] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:45:36] [Async Chat Thread - #107/INFO]: [Not Secure] <XxMatos15> entra p
+[23:45:39] [Async Chat Thread - #107/INFO]: [Not Secure] <pingaparaangel> pasa comida
+[23:45:58] [Async Chat Thread - #108/INFO]: [Not Secure] <fran19> oe
+[23:45:59] [Async Chat Thread - #108/INFO]: [Not Secure] <SKrampusPEcausa> q fue
+[23:46:17] [Async Chat Thread - #107/INFO]: [Not Secure] <fran19> ya me voy cuida la casa mas tarde me conecto

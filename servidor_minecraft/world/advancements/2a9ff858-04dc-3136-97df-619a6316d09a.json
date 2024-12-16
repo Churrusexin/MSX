@@ -2796,6 +2796,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-16 23:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-16 23:19:07 +0000"
@@ -2895,6 +2901,12 @@
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2024-12-16 21:46:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-12-16 23:40:42 +0000"
     },
     "done": true
   },

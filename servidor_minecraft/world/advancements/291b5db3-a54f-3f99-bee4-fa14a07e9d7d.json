@@ -672,6 +672,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-07 03:14:59 +0000",
       "cooked_mutton": "2024-12-07 03:25:23 +0000",
+      "cooked_beef": "2024-12-16 23:38:51 +0000",
       "apple": "2024-12-16 23:16:03 +0000",
       "pumpkin_pie": "2024-12-07 04:42:35 +0000",
       "golden_apple": "2024-12-07 05:36:02 +0000",
@@ -2735,6 +2736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-16 23:35:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2024-12-16 23:24:14 +0000"
@@ -2744,6 +2751,18 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-16 23:01:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-16 23:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-16 23:35:54 +0000"
     },
     "done": true
   },
