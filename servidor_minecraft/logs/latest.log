@@ -128,3 +128,55 @@
 [20:20:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [20:20:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [20:20:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:20:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[20:20:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[20:20:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:20:55] [Server thread/INFO]: Churrupakin lost connection: Timed out
+[20:20:55] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:20:55] [Server thread/INFO]: Churrupakin left the game
+[20:20:58] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:20:58] [Server thread/INFO]: Churrupakin joined the game
+[20:20:58] [Server thread/INFO]: Churrupakin[/172.28.161.65:57918] logged in with entity id 7792 at ([world]59.945823146406575, -45.0, 184.56833521382427)
+[20:20:58] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:20:58] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:21:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:21:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:21:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:22:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[20:22:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[20:22:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:22:12] [Server thread/WARN]: Churrupakin moved too quickly! -14.29163222852849,-0.0013359791121487774,14.264817022690437
+[20:22:14] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:22:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:22:15] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:23:08] [Async Chat Thread - #4/INFO]: [Not Secure] <fran19> diego
+[20:23:30] [Async Chat Thread - #4/INFO]: [Not Secure] <fran19> mano pasa zanahoria
+[20:24:01] [Async Chat Thread - #5/INFO]: [Not Secure] <fran19> pero es bloque no pe
+[20:24:06] [Async Chat Thread - #5/INFO]: [Not Secure] <fran19> es otro
+[20:24:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[20:24:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[20:24:27] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:24:29] [Server thread/WARN]: Churrupakin moved too quickly! 16.07207775423574,-0.42355929454303975,-27.130457742269613
+[20:24:31] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:24:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:24:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:25:33] [Async Chat Thread - #6/INFO]: [Not Secure] <fran19> oe
+[20:25:39] [Async Chat Thread - #6/INFO]: [Not Secure] <fran19> es este bloque
+[20:25:42] [Async Chat Thread - #7/INFO]: [Not Secure] <Ram_Tz> dime
+[20:26:00] [Async Chat Thread - #6/INFO]: [Not Secure] <Ram_Tz> es la base
+[20:26:02] [Async Chat Thread - #7/INFO]: [Not Secure] <fran19> es ese bloque
+[20:26:11] [Async Chat Thread - #6/INFO]: [Not Secure] <Ram_Tz> esa parte de abajo no se ve
+[20:26:17] [Async Chat Thread - #7/INFO]: [Not Secure] <fran19> aya
+[20:26:23] [Async Chat Thread - #6/INFO]: [Not Secure] <Ram_Tz> es pa no gastar bloquesitos
+[20:26:25] [Async Chat Thread - #7/INFO]: [Not Secure] <fran19> yo voya hacer esos bloques p
+[20:28:13] [Async Chat Thread - #8/INFO]: [Not Secure] <fran19> oe cuantos bloques por lo menos
+[20:28:28] [Async Chat Thread - #9/INFO]: [Not Secure] <fran19> ?
+[20:28:33] [Async Chat Thread - #8/INFO]: [Not Secure] <Ram_Tz> tu ve mirando eI video
+[20:28:51] [Async Chat Thread - #9/INFO]: [Not Secure] <fran19> no tengo mi cel ahorita lo tiene mi ama
+[20:28:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[20:28:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[20:28:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:29:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:29:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:29:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:29:16] [Async Chat Thread - #9/INFO]: [Not Secure] <Ram_Tz> en LA pc ps
