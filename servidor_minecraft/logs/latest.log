@@ -91,3 +91,40 @@
 [20:08:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [20:08:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
 [20:08:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:13:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[20:13:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[20:13:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:13:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:13:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:13:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:13:23] [User Authenticator #3/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:13:23] [Server thread/INFO]: Churrupakin lost connection: You logged in from another location
+[20:13:23] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:13:23] [Server thread/INFO]: Churrupakin left the game
+[20:13:23] [Server thread/INFO]: Churrupakin joined the game
+[20:13:23] [Server thread/INFO]: Churrupakin[/172.28.161.65:57537] logged in with entity id 5250 at ([world]142.17651133063887, 63.875, 101.06653570425411)
+[20:13:24] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:13:24] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:13:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:13:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:13:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:18:34] [User Authenticator #4/INFO]: UUID of player fran19 is 5b3621c2-4171-38fe-a537-50a73d395b45
+[20:18:34] [Server thread/INFO]: fran19 joined the game
+[20:18:34] [Server thread/INFO]: fran19[/172.28.159.154:62524] logged in with entity id 6839 at ([world]277.7872062529318, 72.0, 0.4462910681225687)
+[20:19:54] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[20:19:54] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:19:54] [Server thread/INFO]: Churrupakin left the game
+[20:20:00] [User Authenticator #5/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:20:00] [Server thread/INFO]: Churrupakin joined the game
+[20:20:00] [Server thread/INFO]: Churrupakin[/172.28.161.65:57873] logged in with entity id 7401 at ([world]98.90395391504772, -40.33081293436834, 190.8537713518406)
+[20:20:00] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:20:00] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:20:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:20:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:20:01] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:20:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[20:20:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[20:20:36] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:20:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:20:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:20:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
