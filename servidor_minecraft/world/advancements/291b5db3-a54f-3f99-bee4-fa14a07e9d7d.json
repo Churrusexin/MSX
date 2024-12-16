@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-16 22:06:01 +0000",
       "minecraft:frozen_river": "2024-12-08 04:08:16 +0000",
       "minecraft:cherry_grove": "2024-12-14 01:58:06 +0000",
       "minecraft:beach": "2024-12-07 03:24:07 +0000",
