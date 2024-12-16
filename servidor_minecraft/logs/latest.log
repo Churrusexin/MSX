@@ -758,3 +758,56 @@
 [22:20:52] [Async Chat Thread - #65/INFO]: [Not Secure] <Churrupakin> duereman p
 [22:21:50] [Server thread/WARN]: Churrupakin moved too quickly! -7.394638148375293,-0.45500001311302185,7.192459210396393
 [22:22:33] [Async Chat Thread - #66/INFO]: [Not Secure] <SKrampusPEcausa> rellena aca
+[22:24:01] [Async Chat Thread - #68/INFO]: [Not Secure] <pingaparaangel> pasen comida
+[22:24:05] [Async Chat Thread - #69/INFO]: [Not Secure] <SKrampusPEcausa> oe presta tu hacha
+[22:24:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[22:24:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[22:24:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:24:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:24:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:24:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[22:24:24] [Server thread/INFO]: Churrupakin lost connection: Timed out
+[22:24:24] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[22:24:24] [Server thread/INFO]: Churrupakin left the game
+[22:24:27] [Async Chat Thread - #69/INFO]: [Not Secure] <SKrampusPEcausa> afuilar presta tu hacha
+[22:24:32] [User Authenticator #20/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:24:32] [Server thread/INFO]: Churrupakin joined the game
+[22:24:32] [Server thread/INFO]: Churrupakin[/172.28.161.65:64262] logged in with entity id 60257 at ([world]121.93470059206633, 63.0, 108.34653528448905)
+[22:24:32] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[22:24:32] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[22:24:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:24:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[22:24:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[22:26:31] [Server thread/INFO]: Villager EntityVillager['Librarian'/269, uuid='eeb33257-4f25-4639-bf17-3e732cab429b', l='ServerLevel[world]', x=120.70, y=60.00, z=112.30, cpos=[7, 7], tl=303951, v=true] died, message: 'Librarian was slain by Zombie'
+[22:28:22] [Async Chat Thread - #70/INFO]: [Not Secure] <fran19> mano
+[22:28:26] [Async Chat Thread - #71/INFO]: [Not Secure] <SKrampusPEcausa> habla
+[22:28:39] [Async Chat Thread - #71/INFO]: [Not Secure] <fran19> diego dijo q esta casa es mia y de el
+[22:28:54] [Async Chat Thread - #72/INFO]: [Not Secure] <fran19> q tu te construyas tu casa en nuestra isla pero aparte
+[22:28:56] [Async Chat Thread - #71/INFO]: [Not Secure] <SKrampusPEcausa> vivo contigo p
+[22:29:11] [Async Chat Thread - #71/INFO]: [Not Secure] <Churrupakin> pucha esas amistades
+[22:29:17] [Async Chat Thread - #71/INFO]: [Not Secure] <fran19> pero muy hiquito el espacio
+[22:29:18] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> Xd
+[22:29:23] [Async Chat Thread - #70/INFO]: [Not Secure] <SKrampusPEcausa> asi vas hacer mano
+[22:29:29] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> quedate con mi carte
+[22:29:36] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> parte*
+[22:29:42] [Async Chat Thread - #70/INFO]: [Not Secure] <SKrampusPEcausa> despues de todo aguilar
+[22:29:56] [Async Chat Thread - #71/INFO]: [Not Secure] <fran19> sino a diego viva abajo
+[22:30:08] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> angel, quedate con mi parte
+[22:30:11] [Async Chat Thread - #70/INFO]: [Not Secure] <fran19> oe vives abajo
+[22:30:25] [Async Chat Thread - #71/INFO]: [Not Secure] <Ram_Tz> so?
+[22:30:32] [Async Chat Thread - #71/INFO]: [Not Secure] <fran19> si o quien p
+[22:30:36] [Async Chat Thread - #71/INFO]: [Not Secure] <Ram_Tz> voy hacer mi chosita en otra esquinita
+[22:30:49] [Async Chat Thread - #71/INFO]: [Not Secure] <fran19> aya
+[22:31:01] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> voy a trae madera
+[22:31:59] [Async Chat Thread - #70/INFO]: [Not Secure] <SKrampusPEcausa> por no vivir todos aqui na mas xd
+[22:32:09] [Async Chat Thread - #71/INFO]: [Not Secure] <Ram_Tz> es muy chiquito xd
+[22:32:13] [Async Chat Thread - #70/INFO]: [Not Secure] <fran19> si p
+[22:32:18] [Async Chat Thread - #71/INFO]: [Not Secure] <Proxe_> yo creo que es promedio
+[22:32:19] [Async Chat Thread - #71/INFO]: [Not Secure] <SKrampusPEcausa> hubieras elegido otra p
+[22:32:20] [Async Chat Thread - #70/INFO]: [Not Secure] <Churrupakin> agrandenlo
+[22:32:37] [Async Chat Thread - #70/INFO]: [Not Secure] <Churrupakin> q angel ayude a hacerlo grande p
+[22:32:40] [Async Chat Thread - #70/INFO]: [Not Secure] <Churrupakin> pa su casa
+[22:32:50] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> ya está todo hecho
+[22:32:58] [Async Chat Thread - #71/INFO]: [Not Secure] <Ram_Tz> casi terminao
+[22:33:02] [Async Chat Thread - #70/INFO]: [Not Secure] <Ram_Tz> xd
+[22:33:23] [Async Chat Thread - #71/INFO]: [Not Secure] <SKrampusPEcausa> ya mejor me voy vive aqui namas
