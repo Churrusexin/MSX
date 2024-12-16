@@ -224,3 +224,85 @@
 [20:46:06] [Async Chat Thread - #21/INFO]: [Not Secure] <Ram_Tz> uerman p
 [20:46:18] [Async Chat Thread - #20/INFO]: [Not Secure] <fran19> eso consigue tu
 [20:46:35] [Async Chat Thread - #20/INFO]: [Not Secure] <fran19> yo esoty haciendo las piedras
+[20:52:38] [Async Chat Thread - #22/INFO]: [Not Secure] <fran19> diego donde estas
+[20:52:49] [Async Chat Thread - #22/INFO]: [Not Secure] <Ram_Tz> buscando an desita
+[20:52:57] [Async Chat Thread - #23/INFO]: [Not Secure] <fran19> aya esta bien
+[20:53:07] [Server thread/INFO]: fran19 has made the advancement [Hidden in the Depths]
+[20:55:24] [Async Chat Thread - #24/INFO]: [Not Secure] <fran19> oe mano
+[20:55:36] [Async Chat Thread - #25/INFO]: [Not Secure] <fran19> ven un rato
+[20:56:02] [Async Chat Thread - #24/INFO]: [Not Secure] <fran19> este cofre es de los materiales para la casa
+[20:56:23] [Server thread/INFO]: XxMatos15 issued server command: /skin random
+[20:56:23] [Thread-25/WARN]: java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:288)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullSystemValues(XRegistry.java:123)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.pullValues(XRegistry.java:86)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.getByName(XRegistry.java:219)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.XSound.matchXSound(XSound.java:1802)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.SoundUtil.playSound(SoundUtil.java:51)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:27)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.bukkit.utils.BukkitSoundProvider.accept(BukkitSoundProvider.java:24)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.lambda$applySkin$1(SharedSkinApplier.java:66)
+[20:56:23] [Thread-25/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.api.SharedSkinApplier.applySkin(SharedSkinApplier.java:66)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.lambda$setSkin$6(SkinCommand.java:523)
+[20:56:23] [Thread-25/WARN]: 	at java.base/java.util.Optional.ifPresent(Optional.java:178)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.setSkin(SkinCommand.java:523)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:299)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinSetOther(SkinCommand.java:287)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinRandomOther(SkinCommand.java:215)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shared.commands.SkinCommand.onSkinRandom(SkinCommand.java:207)
+[20:56:23] [Thread-25/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:732)
+[20:56:23] [Thread-25/WARN]: 	at java.base/java.lang.invoke.MethodHandle.invokeWithArguments(MethodHandle.java:757)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.annotations.MethodCommandExecutionHandler.executeFuture(MethodCommandExecutionHandler.java:88)
+[20:56:23] [Thread-25/WARN]: 	at SkinsRestorer.jar//net.skinsrestorer.shadow.cloud.execution.ExecutionCoordinatorImpl.lambda$coordinateExecution$4(ExecutionCoordinatorImpl.java:121)
+[20:56:23] [Thread-25/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150)
+[20:56:23] [Thread-25/WARN]: 	at java.base/java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482)
+[20:56:23] [Thread-25/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[20:56:26] [Async Chat Thread - #25/INFO]: [Not Secure] <fran19> tt
+[20:56:34] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> java.lang.IllegalArgumentException: Unknown standard bukkit form: ENTITY_GOAT_SCREAMING_HORN_BREAK named ENTITY_GOAT_SCREAMING_HORN_BREAK at SkinsRestorer.jar//net.skinsrestorer.shadow.xseries.base.XRegistry.std(XRegistry.java:302) at SkinsRestorer.j
+[20:56:55] [Server thread/INFO]: [Not Secure] * Server carajo chifon deja de cambiarte la skin a cada rato
+[20:57:26] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> 1 mas
+[20:57:31] [User Authenticator #7/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:57:31] [Server thread/INFO]: Churrupakin joined the game
+[20:57:31] [Server thread/INFO]: Churrupakin[/172.28.161.65:59827] logged in with entity id 19458 at ([world]142.47840631571498, 63.875, 95.61284983589623)
+[20:57:31] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:57:31] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:57:32] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:57:33] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:58:00] [Server thread/INFO]: XxMatos15 issued server command: /skin random
+[20:58:07] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> DIEGO
+[20:58:19] [Async Chat Thread - #25/INFO]: [Not Secure] <Ram_Tz> dime
+[20:58:21] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> PASAME UNO DE ORO URJENTE
+[20:58:30] [Async Chat Thread - #24/INFO]: [Not Secure] <Ram_Tz> no tengo xd
+[20:58:39] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> TU CHIFA
+[20:58:40] [Async Chat Thread - #24/INFO]: [Not Secure] <Ram_Tz> en el neder p
+[20:58:44] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> si
+[20:58:50] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> pero lo tiene anyhelita
+[20:58:51] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> pasa
+[20:59:40] [Async Chat Thread - #24/INFO]: [Not Secure] <Churrupakin> chifa
+[20:59:47] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> un favor
+[20:59:49] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> q
+[20:59:55] [Async Chat Thread - #24/INFO]: [Not Secure] <Churrupakin> quedate con el aldeano un rato mientras consigo
+[20:59:58] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> oro
+[21:00:01] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> espera
+[21:00:04] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> con el aldeano zombie
+[21:00:27] [Server thread/WARN]: Churrupakin was kicked for floating too long!
+[21:00:27] [Server thread/INFO]: Churrupakin lost connection: Flying is not enabled on this server
+[21:00:27] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[21:00:27] [Server thread/INFO]: Churrupakin left the game
+[21:00:30] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> espera
+[21:00:40] [User Authenticator #8/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:00:40] [Server thread/INFO]: Churrupakin joined the game
+[21:00:40] [Server thread/INFO]: Churrupakin[/172.28.161.65:59989] logged in with entity id 20498 at ([world]138.40429050083233, 63.0, 109.47029169578468)
+[21:00:40] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[21:00:40] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[21:00:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:00:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[21:00:42] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[21:00:43] [Async Chat Thread - #25/INFO]: [Not Secure] <Ram_Tz> ya tengo
+[21:00:47] [Async Chat Thread - #24/INFO]: [Not Secure] <Ram_Tz> toma
+[21:01:11] [Async Chat Thread - #25/INFO]: [Not Secure] <Ram_Tz> mati
+[21:01:23] [Async Chat Thread - #25/INFO]: [Not Secure] <Churrupakin> chevere
+[21:01:31] [Server thread/INFO]: fran19 has made the advancement [Not Today, Thank You]
