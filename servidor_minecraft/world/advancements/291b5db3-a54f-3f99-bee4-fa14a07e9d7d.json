@@ -672,6 +672,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-07 03:14:59 +0000",
       "cooked_mutton": "2024-12-07 03:25:23 +0000",
+      "apple": "2024-12-16 23:16:03 +0000",
       "pumpkin_pie": "2024-12-07 04:42:35 +0000",
       "golden_apple": "2024-12-07 05:36:02 +0000",
       "bread": "2024-12-08 04:33:22 +0000",
@@ -703,8 +704,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-07 05:44:30 +0000",
+      "minecraft:pillager": "2024-12-16 23:17:17 +0000",
       "minecraft:skeleton": "2024-12-07 03:16:37 +0000",
       "minecraft:hoglin": "2024-12-07 05:14:07 +0000",
+      "minecraft:vindicator": "2024-12-16 23:18:21 +0000",
       "minecraft:magma_cube": "2024-12-07 05:28:11 +0000",
       "minecraft:spider": "2024-12-07 04:40:16 +0000",
       "minecraft:piglin_brute": "2024-12-07 05:26:31 +0000",
@@ -2720,6 +2723,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2024-12-16 22:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-16 23:18:21 +0000"
     },
     "done": true
   },
