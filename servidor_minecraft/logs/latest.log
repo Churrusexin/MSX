@@ -67,3 +67,27 @@
 [19:56:41] [Server thread/INFO]: Ram_Tz has made the advancement [A Seedy Place]
 [19:58:29] [Server thread/INFO]: Ram_Tz was impaled by Drowned
 [19:58:37] [Server thread/INFO]: Ram_Tz was shot by Skeleton
+[20:03:16] [User Authenticator #1/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:03:16] [Server thread/INFO]: Churrupakin joined the game
+[20:03:16] [Server thread/INFO]: Churrupakin[/172.28.161.65:57094] logged in with entity id 2151 at ([world]140.35137739667758, 64.0, 100.20808942999115)
+[20:03:18] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:03:18] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:03:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:03:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:03:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[20:05:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> diego
+[20:06:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Churrupakin> tu los has mejorado mis aldeanos?
+[20:06:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Ram_Tz> estube haciendo tradeos, creo que si se mejoraron
+[20:08:08] [Async Chat Thread - #2/INFO]: [Not Secure] <Churrupakin> en tu cofre t dejo medio stack d esme
+[20:08:31] [Server thread/WARN]: Churrupakin was kicked for floating too long!
+[20:08:31] [Server thread/INFO]: Churrupakin lost connection: Flying is not enabled on this server
+[20:08:31] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[20:08:31] [Server thread/INFO]: Churrupakin left the game
+[20:08:46] [User Authenticator #2/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:08:46] [Server thread/INFO]: Churrupakin joined the game
+[20:08:46] [Server thread/INFO]: Churrupakin[/172.28.161.65:57309] logged in with entity id 3945 at ([world]195.56410947739914, 66.31079177455405, -129.8366537888244)
+[20:08:46] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[20:08:46] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[20:08:47] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:08:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[20:08:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
