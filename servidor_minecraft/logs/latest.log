@@ -855,3 +855,59 @@
 [23:39:26] [Async Chat Thread - #105/INFO]: [Not Secure] <Ram_Tz> oe, aguilar agarra spawn
 [23:39:31] [Async Chat Thread - #104/INFO]: [Not Secure] <fran19> ya
 [23:39:42] [Async Chat Thread - #104/INFO]: [Not Secure] <Churrupakin> oe recoje p
+[23:39:54] [Async Chat Thread - #105/INFO]: [Not Secure] <fran19> no tengo espacio
+[23:39:59] [Async Chat Thread - #105/INFO]: [Not Secure] <Churrupakin> bno
+[23:40:04] [Server thread/INFO]: Churrupakin issued server command: /tp Ram_Tz
+[23:40:04] [Server thread/INFO]: [Churrupakin: Teleported Churrupakin to Ram_Tz]
+[23:40:04] [Async Chat Thread - #105/INFO]: [Not Secure] <Ram_Tz> a xuxa, me hubieras dicho para que te ayude a aplanar mati
+[23:40:14] [Server thread/INFO]: Churrupakin issued server command: /tp Ram_Tz fran19
+[23:40:14] [Server thread/INFO]: [Churrupakin: Teleported Ram_Tz to fran19]
+[23:40:34] [Async Chat Thread - #105/INFO]: [Not Secure] <fran19> duerme
+[23:41:10] [Async Chat Thread - #105/INFO]: [Not Secure] <Churrupakin> duerman p
+[23:41:27] [Async Chat Thread - #105/INFO]: [Not Secure] <fran19> diego
+[23:41:50] [Async Chat Thread - #104/INFO]: [Not Secure] <Ram_Tz> ya p, me voy
+[23:41:53] [Async Chat Thread - #104/INFO]: [Not Secure] <Ram_Tz> adio
+[23:42:10] [Async Chat Thread - #105/INFO]: [Not Secure] <Ram_Tz> ese sergio dijo, hoy me uno y nunca se metio
+[23:42:26] [Server thread/INFO]: Ram_Tz lost connection: Disconnected
+[23:42:26] [Server thread/INFO]: [voicechat] Disconnecting client Ram_Tz
+[23:42:26] [Server thread/INFO]: Ram_Tz left the game
+[23:42:43] [Server thread/INFO]: fran19 lost connection: Disconnected
+[23:42:43] [Server thread/INFO]: [voicechat] Disconnecting client fran19
+[23:42:43] [Server thread/INFO]: fran19 left the game
+[23:48:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[23:48:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[23:48:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[23:48:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:48:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[23:48:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[23:49:32] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[23:49:32] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[23:49:32] [Server thread/INFO]: Churrupakin left the game
+[23:49:41] [Server thread/INFO]: Stopping the server
+[23:49:41] [Server thread/INFO]: Stopping server
+[23:49:41] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[23:49:41] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[23:49:41] [Server thread/INFO]: Saving players
+[23:49:41] [Server thread/INFO]: Saving worlds
+[23:49:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:49:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[23:49:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[23:49:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[23:49:41] [Server thread/INFO]: [ChunkHolderManager] Saved 28 block chunks, 274 entity chunks, 0 poi chunks in world 'world' in 0.08s
+[23:49:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:49:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:49:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[23:49:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[23:49:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[23:49:42] [Server thread/INFO]: [ChunkHolderManager] Saved 37 block chunks, 91 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
+[23:49:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:49:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:49:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[23:49:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[23:49:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[23:49:42] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[23:49:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:49:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23:49:42] [Server thread/INFO]: Flushing Chunk IO
+[23:49:42] [Server thread/INFO]: Closing Thread Pool
+[23:49:42] [Server thread/INFO]: Closing Server
