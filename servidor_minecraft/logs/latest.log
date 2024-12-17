@@ -276,3 +276,119 @@
 [00:48:56] [Server thread/INFO]: pingaparaangel was slain by Zombified Piglin
 [00:49:21] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> yr
 [00:49:27] [Async Chat Thread - #22/INFO]: [Not Secure] <pingaparaangel> don tas chifon
+[00:49:45] [Server thread/INFO]: Proxe_ issued server command: /give Proxe_ minecraft:trident
+[00:49:45] [Server thread/INFO]: [Proxe_: Gave 1 [Trident] to Proxe_]
+[00:49:49] [Async Chat Thread - #23/INFO]: [Not Secure] <Churrupakin> deurme CHIFON
+[00:50:05] [Server thread/INFO]: Proxe_ issued server command: /enchant Proxe_ minecraft:loyalty 3
+[00:50:05] [Server thread/INFO]: [Proxe_: Applied enchantment Loyalty III to Proxe_'s item]
+[00:50:39] [Server thread/INFO]: Proxe_ issued server command: /give Proxe_ minecraft:ender_chest
+[00:50:39] [Server thread/INFO]: [Proxe_: Gave 1 [Ender Chest] to Proxe_]
+[00:50:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[00:50:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[00:50:51] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[00:50:51] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[00:50:51] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[00:50:51] [Server thread/INFO]: Churrupakin left the game
+[00:50:56] [User Authenticator #3/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:50:56] [Server thread/INFO]: Churrupakin joined the game
+[00:50:56] [Server thread/INFO]: Churrupakin[/172.28.161.65:53875] logged in with entity id 13958 at ([world]135.0145610640974, 63.0, 88.21783731018529)
+[00:50:57] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[00:50:57] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[00:50:59] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:51:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:51:00] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[00:51:09] [Async Chat Thread - #24/INFO]: [Not Secure] <XxMatos15> no encuentro mis cosas ptmre
+[00:51:16] [Async Chat Thread - #24/INFO]: [Not Secure] <pingaparaangel> XDDDDD
+[00:51:17] [Async Chat Thread - #25/INFO]: [Not Secure] <Proxe_> las manzanas
+[00:51:20] [Async Chat Thread - #25/INFO]: [Not Secure] <Proxe_> .
+[00:51:20] [Async Chat Thread - #25/INFO]: [Not Secure] <Proxe_> .
+[00:51:20] [Async Chat Thread - #25/INFO]: [Not Secure] <Proxe_> .
+[00:51:21] [Async Chat Thread - #25/INFO]: [Not Secure] <Proxe_> .
+[00:51:34] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> q cosa
+[00:51:50] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> pareces kbro
+[00:51:52] [Server thread/INFO]: XxMatos15 tried to swim in lava
+[00:51:56] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> ptmre
+[00:51:58] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> ya fue
+[00:52:04] [Async Chat Thread - #26/INFO]: [Not Secure] <pingaparaangel> ctmr te cae puñete mñn
+[00:52:07] [Server thread/WARN]: Churrupakin moved too quickly! 15.040720268850833,-1.0244240882136921,-9.433859279160643
+[00:52:15] [Async Chat Thread - #26/INFO]: [Not Secure] <pingaparaangel> idiota cobarde
+[00:52:20] [Async Chat Thread - #26/INFO]: [Not Secure] <XxMatos15> ami?
+[00:52:26] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[00:52:26] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[00:52:26] [Server thread/INFO]: Churrupakin left the game
+[00:52:30] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> al aldeano de jeyson
+[00:52:33] [Async Chat Thread - #25/INFO]: [Not Secure] <XxMatos15> aea
+[00:52:37] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> don tads
+[00:52:37] [Async Chat Thread - #25/INFO]: [Not Secure] <Proxe_> tas q robas tu wbn
+[00:52:53] [User Authenticator #4/INFO]: UUID of player Churrupakin is a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:52:53] [Server thread/INFO]: Churrupakin joined the game
+[00:52:53] [Server thread/INFO]: Churrupakin[/172.28.161.65:53978] logged in with entity id 14394 at ([world]141.46565669089935, 63.75, 95.65715231656193)
+[00:52:53] [Server thread/INFO]: [voicechat] Received secret request of Churrupakin (18)
+[00:52:53] [Server thread/INFO]: [voicechat] Sent secret to Churrupakin
+[00:52:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:52:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:52:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[00:52:55] [Async Chat Thread - #25/INFO]: [Not Secure] <pingaparaangel> quiero comida p down+
+[00:53:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[00:53:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[00:53:05] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[00:53:07] [Async Chat Thread - #26/INFO]: [Not Secure] <pingaparaangel> don tas chifon
+[00:53:12] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:53:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:53:13] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[00:53:22] [Server thread/INFO]: XxMatos15 was slain by Zombie
+[00:58:24] [Async Chat Thread - #27/INFO]: [Not Secure] <pingaparaangel> don tas chifon
+[00:58:34] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> aca
+[00:59:16] [Async Chat Thread - #27/INFO]: [Not Secure] <pingaparaangel> cual aca
+[00:59:20] [Async Chat Thread - #29/INFO]: [Not Secure] <XxMatos15> aldea
+[00:59:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player a3898cf4-4c4a-3a29-b628-38892b7008ac timed out
+[00:59:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Churrupakin
+[00:59:52] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Churrupakin
+[00:59:57] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:59:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a3898cf4-4c4a-3a29-b628-38892b7008ac
+[00:59:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Churrupakin (a3898cf4-4c4a-3a29-b628-38892b7008ac) successfully connected to voice chat
+[01:01:21] [Async Chat Thread - #30/INFO]: [Not Secure] <pingaparaangel> la dse amtias?
+[01:01:30] [Async Chat Thread - #31/INFO]: [Not Secure] <pingaparaangel> la de matias o cual
+[01:01:44] [Async Chat Thread - #31/INFO]: [Not Secure] <Churrupakin> voa cerrar el server
+[01:01:45] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> en el prepucio cerrado
+[01:02:14] [Async Chat Thread - #31/INFO]: [Not Secure] <XxMatos15> ya
+[01:02:22] [Server thread/INFO]: Proxe_ lost connection: Disconnected
+[01:02:22] [Server thread/INFO]: [voicechat] Disconnecting client Proxe_
+[01:02:22] [Server thread/INFO]: Proxe_ left the game
+[01:02:25] [Server thread/INFO]: XxMatos15 lost connection: Disconnected
+[01:02:25] [Server thread/INFO]: [voicechat] Disconnecting client XxMatos15
+[01:02:25] [Server thread/INFO]: XxMatos15 left the game
+[01:02:25] [Server thread/INFO]: Churrupakin lost connection: Disconnected
+[01:02:25] [Server thread/INFO]: [voicechat] Disconnecting client Churrupakin
+[01:02:25] [Server thread/INFO]: Churrupakin left the game
+[01:02:29] [Server thread/INFO]: pingaparaangel lost connection: Disconnected
+[01:02:29] [Server thread/INFO]: [voicechat] Disconnecting client pingaparaangel
+[01:02:29] [Server thread/INFO]: pingaparaangel left the game
+[01:02:35] [Server thread/INFO]: Stopping the server
+[01:02:35] [Server thread/INFO]: Stopping server
+[01:02:35] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.0
+[01:02:35] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.26
+[01:02:35] [Server thread/INFO]: Saving players
+[01:02:35] [Server thread/INFO]: Saving worlds
+[01:02:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:02:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:02:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:02:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:02:35] [Server thread/INFO]: [ChunkHolderManager] Saved 52 block chunks, 312 entity chunks, 0 poi chunks in world 'world' in 0.13s
+[01:02:35] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:02:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:02:35] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:02:35] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:02:35] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:02:35] [Server thread/INFO]: [ChunkHolderManager] Saved 38 block chunks, 120 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
+[01:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:02:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:02:36] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:02:36] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:02:36] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:02:36] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.03s
+[01:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:02:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:02:36] [Server thread/INFO]: Flushing Chunk IO
+[01:02:36] [Server thread/INFO]: Closing Thread Pool
+[01:02:36] [Server thread/INFO]: Closing Server
