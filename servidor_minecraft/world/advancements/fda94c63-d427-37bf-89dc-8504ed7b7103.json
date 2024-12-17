@@ -680,6 +680,7 @@
       "cooked_beef": "2024-12-13 22:53:06 +0000",
       "apple": "2024-12-14 00:05:47 +0000",
       "potato": "2024-12-13 23:42:22 +0000",
+      "mutton": "2024-12-17 22:10:44 +0000",
       "bread": "2024-12-12 22:08:36 +0000",
       "rotten_flesh": "2024-12-12 21:13:40 +0000",
       "salmon": "2024-12-16 22:32:04 +0000",
@@ -2466,6 +2467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-17 22:14:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2024-12-17 21:52:17 +0000"
@@ -2499,6 +2506,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-17 21:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-17 22:14:26 +0000"
     },
     "done": true
   },

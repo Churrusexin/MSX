@@ -14,6 +14,7 @@
       "minecraft:cold_ocean": "2024-12-16 21:05:36 +0000",
       "minecraft:forest": "2024-12-14 01:32:23 +0000",
       "minecraft:ocean": "2024-12-17 21:46:02 +0000",
+      "minecraft:meadow": "2024-12-17 22:16:33 +0000",
       "minecraft:plains": "2024-12-14 01:54:59 +0000"
     },
     "done": false
@@ -2120,6 +2121,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-17 22:08:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-17 20:43:54 +0000"
@@ -2129,6 +2136,12 @@
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2024-12-17 21:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-17 21:57:09 +0000"
     },
     "done": true
   },
@@ -2189,6 +2202,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-17 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-17 21:57:07 +0000"
     },
     "done": true
   },
