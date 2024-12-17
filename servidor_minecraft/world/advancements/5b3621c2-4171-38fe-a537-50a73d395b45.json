@@ -13,6 +13,7 @@
       "minecraft:stony_shore": "2024-12-14 01:52:50 +0000",
       "minecraft:cold_ocean": "2024-12-16 21:05:36 +0000",
       "minecraft:forest": "2024-12-14 01:32:23 +0000",
+      "minecraft:ocean": "2024-12-17 21:46:02 +0000",
       "minecraft:plains": "2024-12-14 01:54:59 +0000"
     },
     "done": false
@@ -224,6 +225,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-16 21:35:21 +0000",
+      "sweet_berries": "2024-12-17 21:50:39 +0000",
       "apple": "2024-12-14 03:10:56 +0000",
       "potato": "2024-12-17 20:44:46 +0000",
       "golden_carrot": "2024-12-14 03:12:02 +0000",
@@ -2076,9 +2078,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-17 21:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-17 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-17 21:54:53 +0000"
     },
     "done": true
   },
@@ -2112,6 +2126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-17 21:52:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-17 20:43:54 +0000"
@@ -2121,6 +2141,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-17 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-17 21:54:53 +0000"
     },
     "done": true
   },
@@ -2169,6 +2195,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-17 20:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-17 21:52:31 +0000"
     },
     "done": true
   },
