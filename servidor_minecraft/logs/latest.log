@@ -68,3 +68,9 @@
 [22:45:24] [Async Chat Thread - #2/INFO]: [Not Secure] <fran19> dia 15
 [22:52:06] [Server thread/INFO]: fran19 has made the advancement [The Parrots and the Bats]
 [23:09:42] [Server thread/WARN]: fran19 moved too quickly! -9.39793825082802,0.6319031399820005,3.786717897890469
+[23:34:46] [Server thread/INFO]: fran19 lost connection: Timed out
+[23:34:46] [Server thread/INFO]: [voicechat] Disconnecting client fran19
+[23:34:46] [Server thread/INFO]: fran19 left the game
+[23:35:46] [User Authenticator #1/INFO]: UUID of player fran19 is 5b3621c2-4171-38fe-a537-50a73d395b45
+[23:35:46] [Server thread/INFO]: fran19 joined the game
+[23:35:46] [Server thread/INFO]: fran19[/172.28.159.154:55769] logged in with entity id 12615 at ([world]1875.699999988079, 91.0, -276.8605605610328)
