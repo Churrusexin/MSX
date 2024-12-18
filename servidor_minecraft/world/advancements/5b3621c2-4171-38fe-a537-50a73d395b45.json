@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-16 23:27:25 +0000",
+      "minecraft:cherry_grove": "2024-12-18 22:53:34 +0000",
       "minecraft:birch_forest": "2024-12-17 22:37:59 +0000",
       "minecraft:beach": "2024-12-14 01:51:54 +0000",
       "minecraft:river": "2024-12-14 01:36:42 +0000",
@@ -2256,6 +2257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2024-12-18 22:53:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2024-12-18 22:08:15 +0000"
@@ -2274,6 +2281,13 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2024-12-18 22:52:15 +0000",
+      "minecraft:chicken": "2024-12-18 22:52:06 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-18 22:04:58 +0000"
@@ -2289,6 +2303,12 @@
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2024-12-18 22:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-18 22:52:06 +0000"
     },
     "done": true
   },
