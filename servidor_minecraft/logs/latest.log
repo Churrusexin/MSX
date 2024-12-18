@@ -61,3 +61,6 @@
 [21:02:37] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
 [21:02:37] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [21:02:37] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 172.28.190.108:24454
+[21:21:04] [User Authenticator #0/INFO]: UUID of player fran19 is 5b3621c2-4171-38fe-a537-50a73d395b45
+[21:21:04] [Server thread/INFO]: fran19 joined the game
+[21:21:04] [Server thread/INFO]: fran19[/172.28.159.154:49166] logged in with entity id 328 at ([world]1844.1024564317495, 90.5625, -323.7128350022951)
