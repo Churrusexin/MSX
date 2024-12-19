@@ -2318,5 +2318,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 23:53:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
